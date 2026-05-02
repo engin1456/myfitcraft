@@ -56,5 +56,9 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
       messagingSenderId: process.env.EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
       appId: process.env.EXPO_PUBLIC_FIREBASE_APP_ID,
     },
+    eas: {
+      projectId: 'b9e5718f-7b93-407f-9a2b-d9d5a527b03f',
+    },
   },
+  owner: 'myfitcraft',
 });
