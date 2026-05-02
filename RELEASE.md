@@ -251,3 +251,34 @@ Yeni sürüm çıkarmak istediğinde:
 - **Package name (`com.myfitcraft.app`) değiştirilemez.**
 - **Privacy policy URL'in çalışır olmalı** (Play review buraya bakar).
 - Production build `--profile production` ile alınır, asla `--profile preview` ile değil.
+
+---
+
+## 📌 v1.1 yapılacaklar (post-launch)
+
+### Sentry source map upload aktive et (10 dk)
+Şu an minified stack trace'ler var; gerçek dosya:satır görmek için:
+1. Sentry → User Settings → Auth Tokens → **Create New Token**
+2. Scope: `project:write` + `project:releases`
+3. EAS secret'lara ekle:
+   ```bash
+   eas secret:create --scope project --name SENTRY_AUTH_TOKEN --value "sntrys_xxx" --type string
+   eas secret:create --scope project --name SENTRY_ORG --value "myfitcraft" --type string
+   eas secret:create --scope project --name SENTRY_PROJECT --value "react-native" --type string
+   ```
+4. `eas.json` → production env'den `SENTRY_DISABLE_AUTO_UPLOAD` satırını sil
+5. Build → source map upload otomatik çalışır
+
+### EAS Update (OTA bug fix)
+Play onayı beklemeden bug fix push'lamak için:
+```bash
+npx expo install expo-updates
+eas update:configure
+```
+JS-only fix'leri `eas update --branch production --message "fix: x"` ile gönderirsin → kullanıcı bir sonraki app açılışında otomatik alır.
+
+### In-app "Hesabımı sil" butonu
+Şu an web sayfasında talep ediliyor. ProfileScreen'e direkt buton eklenirse:
+- `await deleteUser(user)` (Firebase Auth)
+- Firestore /users/{uid} ve alt collection'ları sil
+- Onay modal'ı göster
