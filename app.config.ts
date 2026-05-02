@@ -23,7 +23,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
   android: {
     adaptiveIcon: {
       foregroundImage: './assets/adaptive-icon.png',
-      backgroundColor: '#0A0A0F',
+      backgroundColor: '#FF6B35',
     },
     package: 'com.myfitcraft.app',
     edgeToEdgeEnabled: true,
