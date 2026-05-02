@@ -65,7 +65,7 @@ Bu hakları kullanmak için aşağıdaki iletişim adresinden bize ulaşabilirsi
 Bu politika güncellenebilir. Önemli değişikliklerde uygulama içinde bildirim gösterilir. Son güncelleme tarihi her zaman bu sayfanın üstünde belirtilir.
 
 ## 10. İletişim
-Soru ve talepleriniz için: rabii.dev@gmail.com
+Soru ve talepleriniz için: myfitcraft.app@gmail.com
 `;
 
 export const PRIVACY_EN = `# MyFitCraft Privacy Policy
@@ -125,5 +125,5 @@ To exercise these rights, contact us at the address below.
 This policy may be updated. Significant changes will be announced inside the app. The last-updated date is always shown at the top.
 
 ## 10. Contact
-For questions or requests: rabii.dev@gmail.com
+For questions or requests: myfitcraft.app@gmail.com
 `;

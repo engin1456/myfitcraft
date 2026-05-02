@@ -222,7 +222,7 @@ function layout({ title, body, includeTabs }) {
 </nav>
 ${body}
 <footer>
-  © ${new Date().getFullYear()} MyFitCraft · <a href="mailto:rabii.dev@gmail.com">rabii.dev@gmail.com</a>
+  © ${new Date().getFullYear()} MyFitCraft · <a href="mailto:myfitcraft.app@gmail.com">myfitcraft.app@gmail.com</a>
 </footer>
 ${includeTabs ? tabsScript() : ''}
 </body>
@@ -273,7 +273,7 @@ const indexBody = `
 <ul>
   <li><a href="./privacy.html">Gizlilik Politikası / Privacy Policy</a></li>
   <li><a href="./terms.html">Kullanım Koşulları / Terms of Use</a></li>
-  <li><a href="mailto:rabii.dev@gmail.com">Destek e-postası</a></li>
+  <li><a href="mailto:myfitcraft.app@gmail.com">Destek e-postası</a></li>
 </ul>
 <h2>Mağaza</h2>
 <p>Yakında Google Play'de.</p>

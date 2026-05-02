@@ -18,14 +18,14 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
   assetBundlePatterns: ['**/*'],
   ios: {
     supportsTablet: true,
-    bundleIdentifier: 'com.rabii.myfitcraft',
+    bundleIdentifier: 'com.myfitcraft.app',
   },
   android: {
     adaptiveIcon: {
       foregroundImage: './assets/adaptive-icon.png',
       backgroundColor: '#0A0A0F',
     },
-    package: 'com.rabii.myfitcraft',
+    package: 'com.myfitcraft.app',
     edgeToEdgeEnabled: true,
     predictiveBackGestureEnabled: false,
   },

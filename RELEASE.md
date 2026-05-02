@@ -79,7 +79,7 @@ eas build --platform android --profile preview
 
 ### Application package name (kritik)
 
-Play Console artık ilk upload'da otomatik algılıyor: `com.rabii.myfitcraft` (app.config.ts'deki Android package).
+Play Console artık ilk upload'da otomatik algılıyor: `com.myfitcraft.app` (app.config.ts'deki Android package).
 
 ⚠️ Bu paket adı **bir daha asla değiştirilemez**. Doğru olduğundan emin ol.
 
@@ -142,7 +142,7 @@ MyFitCraft tıbbi tavsiye değildir. Yeni bir antrenman programına başlamadan 
 
 Tüm verilerin (antrenman, ölçüm, profil) yalnızca sana aittir ve sadece kendi Firebase hesabından erişilir. Üçüncü taraflara veri satmıyor veya pazarlama amacıyla paylaşmıyoruz. Detaylar için: [privacy URL]
 
-📧 İletişim: rabii.dev@gmail.com
+📧 İletişim: myfitcraft.app@gmail.com
 ```
 
 ### Category
@@ -154,7 +154,7 @@ Tüm verilerin (antrenman, ölçüm, profil) yalnızca sana aittir ve sadece ken
 - Strength training
 
 ### Contact details
-- Email: `rabii.dev@gmail.com`
+- Email: `myfitcraft.app@gmail.com`
 - Website: `https://<kullanıcı>.github.io/<repo>/` (legal pages URL'inin root'u)
 - Privacy policy: `https://<kullanıcı>.github.io/<repo>/privacy.html`
 
@@ -181,7 +181,7 @@ Play Console "App content → Data safety" altında. Aşağıdaki cevapları gir
 **Yes** (HTTPS üzerinden Firebase'e gidiyor)
 
 ### Kullanıcı veri silme talep edebilir mi?
-**Yes** — `rabii.dev@gmail.com`'a yazarak
+**Yes** — `myfitcraft.app@gmail.com`'a yazarak
 
 ### Did you encrypt data in transit?
 **Yes**
@@ -248,6 +248,6 @@ Yeni sürüm çıkarmak istediğinde:
 ## ⚠️ Asla unutma
 
 - **Keystore'u kaybetme.** EAS managed credentials kullandığın için EAS sunucusunda saklı; `eas credentials` ile yedek alabilirsin.
-- **Package name (`com.rabii.myfitcraft`) değiştirilemez.**
+- **Package name (`com.myfitcraft.app`) değiştirilemez.**
 - **Privacy policy URL'in çalışır olmalı** (Play review buraya bakar).
 - Production build `--profile production` ile alınır, asla `--profile preview` ile değil.

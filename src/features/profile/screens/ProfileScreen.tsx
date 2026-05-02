@@ -432,7 +432,7 @@ export function ProfileScreen() {
           </Pressable>
           <Pressable
             onPress={() =>
-              Linking.openURL('mailto:rabii.dev@gmail.com').catch(() => {})
+              Linking.openURL('mailto:myfitcraft.app@gmail.com').catch(() => {})
             }
             style={[styles.row, styles.divider, { borderTopColor: theme.colors.border }]}
           >

@@ -64,7 +64,7 @@ function pickFirstName(
 }
 
 /**
- * Hitap metni: "Günaydın, Rabii" veya isim yoksa sadece zaman dilimi.
+ * Hitap metni: "Günaydın, Ahmet" veya isim yoksa sadece zaman dilimi.
  */
 function getGreetingWithName(
   t: (key: string) => string,

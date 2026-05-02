@@ -55,7 +55,7 @@ Bu koşullar güncellenebilir. Önemli değişikliklerde uygulama içinde bildir
 Bu koşullar Türkiye Cumhuriyeti yasalarına tabidir. Doğabilecek uyuşmazlıklarda Türkiye'deki yetkili mahkemeler ve icra daireleri yetkilidir.
 
 ## 11. İletişim
-Soru ve geri bildirimler için: rabii.dev@gmail.com
+Soru ve geri bildirimler için: myfitcraft.app@gmail.com
 `;
 
 export const TERMS_EN = `# MyFitCraft Terms of Use
@@ -108,5 +108,5 @@ These terms may be updated. Significant changes will be announced inside the app
 These terms are governed by the laws of the Republic of Türkiye. Any disputes shall be subject to the competent courts and enforcement offices of Türkiye.
 
 ## 11. Contact
-For questions or feedback: rabii.dev@gmail.com
+For questions or feedback: myfitcraft.app@gmail.com
 `;
