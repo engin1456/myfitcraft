@@ -273,6 +273,7 @@ const indexBody = `
 <ul>
   <li><a href="./privacy.html">Gizlilik Politikası / Privacy Policy</a></li>
   <li><a href="./terms.html">Kullanım Koşulları / Terms of Use</a></li>
+  <li><a href="./delete-account.html">Hesabımı Sil / Delete My Account</a></li>
   <li><a href="mailto:myfitcraft.app@gmail.com">Destek e-postası</a></li>
 </ul>
 <h2>Mağaza</h2>
@@ -284,9 +285,87 @@ fs.writeFileSync(
   'utf8',
 );
 
+// delete-account.html
+const deleteBody = `
+<div class="tabs" role="tablist">
+  <button class="tab" data-lang="tr" role="tab">Türkçe</button>
+  <button class="tab" data-lang="en" role="tab">English</button>
+</div>
+
+<article class="section" data-lang="tr">
+<h1>MyFitCraft — Hesap Silme</h1>
+<p>MyFitCraft hesabını ve tüm verilerini kalıcı olarak silmek için aşağıdaki adımları izle.</p>
+
+<h2>Nasıl talep edilir?</h2>
+<ol>
+  <li><strong>E-posta gönder:</strong> <a href="mailto:myfitcraft.app@gmail.com?subject=Hesap%20Silme%20Talebi">myfitcraft.app@gmail.com</a> adresine, konu satırına <strong>"Hesap Silme Talebi"</strong> yazarak mail at.</li>
+  <li><strong>Mail içeriği:</strong> Hesabını açtığın e-posta adresini ve "Hesabımın ve tüm verilerimin kalıcı olarak silinmesini talep ediyorum." cümlesini ekle.</li>
+  <li><strong>Onay:</strong> 7 iş günü içinde sana onay maili gönderilir, hesabın silinir.</li>
+</ol>
+
+<h2>Hangi veriler silinir?</h2>
+<ul>
+  <li>Firebase Authentication kayıtları (e-posta, şifre)</li>
+  <li>Profil bilgileri (ad, boy, kilo, hedef, dil tercihi)</li>
+  <li>Tüm antrenman geçmişi (workouts, workout logs)</li>
+  <li>Vücut ölçümleri (kilo, çevre, ölçüm tarihçesi)</li>
+  <li>Kişisel rekorlar (PR'lar)</li>
+  <li>Oluşturduğun özel programlar</li>
+</ul>
+
+<h2>Hangi veriler saklanır?</h2>
+<ul>
+  <li>Yasal yükümlülükler nedeniyle hiçbir kişisel veri 30 günden fazla saklanmaz.</li>
+  <li>Sunucu erişim logları (anonim, IP yok) en fazla 30 gün tutulur, sonra otomatik silinir.</li>
+</ul>
+
+<p style="margin-top:24px;color:#9ba0a6;font-size:13px;">
+Sorular için aynı adresten ulaşabilirsin: <a href="mailto:myfitcraft.app@gmail.com">myfitcraft.app@gmail.com</a>
+</p>
+</article>
+
+<article class="section" data-lang="en">
+<h1>MyFitCraft — Account Deletion</h1>
+<p>Follow the steps below to permanently delete your MyFitCraft account and all associated data.</p>
+
+<h2>How to request</h2>
+<ol>
+  <li><strong>Send an email:</strong> Email <a href="mailto:myfitcraft.app@gmail.com?subject=Account%20Deletion%20Request">myfitcraft.app@gmail.com</a> with the subject <strong>"Account Deletion Request"</strong>.</li>
+  <li><strong>Email body:</strong> Include the email address you registered with, and the sentence: "I request the permanent deletion of my account and all associated data."</li>
+  <li><strong>Confirmation:</strong> You will receive a confirmation email within 7 business days, after which your account is deleted.</li>
+</ol>
+
+<h2>What gets deleted</h2>
+<ul>
+  <li>Firebase Authentication record (email, password)</li>
+  <li>Profile information (name, height, weight, goal, language preference)</li>
+  <li>All workout history (workouts, workout logs)</li>
+  <li>Body measurements (weight, circumferences, history)</li>
+  <li>Personal records (PRs)</li>
+  <li>Custom programs you created</li>
+</ul>
+
+<h2>What gets retained</h2>
+<ul>
+  <li>No personal data is retained beyond 30 days for legal obligations.</li>
+  <li>Anonymized server access logs (no IPs) are kept for up to 30 days, then automatically purged.</li>
+</ul>
+
+<p style="margin-top:24px;color:#9ba0a6;font-size:13px;">
+Questions? Reach us at <a href="mailto:myfitcraft.app@gmail.com">myfitcraft.app@gmail.com</a>
+</p>
+</article>
+`;
+fs.writeFileSync(
+  path.join(OUT_DIR, 'delete-account.html'),
+  layout({ title: 'Delete My Account / Hesabımı Sil', body: deleteBody, includeTabs: true }),
+  'utf8',
+);
+
 console.log('✓ docs/index.html');
 console.log('✓ docs/privacy.html');
 console.log('✓ docs/terms.html');
+console.log('✓ docs/delete-account.html');
 console.log('\nSonraki adım:');
 console.log('  git add docs && git commit -m "Add legal pages" && git push');
 console.log('  Sonra GitHub repo → Settings → Pages → Source: Deploy from branch (main, /docs)');
