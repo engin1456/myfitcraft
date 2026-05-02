@@ -1,0 +1,126 @@
+rules_version = '2';
+
+// MyFitCraft - Firestore guvenlik kurallari (production-ready)
+//
+// Tasarim ilkeleri:
+// - Tum yazma/okuma yetkisi auth ile sahipligi (userId / ownerId) zorunlu kilar.
+// - Preset (sistem) verileri: exercises ve programlar (ownerId == null)
+//   herkesce okunabilir, yazilamaz (admin SDK ile yonetilir).
+// - Body measurement, workout, workoutLog, personalRecord:
+//   her dokumanda userId tutuluyor; sahibi disinda kimse goremez/yazamaz.
+// - programDays / programExercises: ownerId field'i ile sahiplik kontrolu.
+//   Preset (ownerId == null) herkesce okunur; ozel olanlar sadece sahibine.
+// - createdAt/updatedAt timestamp'leri request zamani ile dogrulanmaz (esneklik).
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(uid) {
+      return isSignedIn() && request.auth.uid == uid;
+    }
+
+    // create payload icindeki userId/ownerId field'i request.auth.uid ile esit mi?
+    function ownsCreatePayload(field) {
+      return isSignedIn() && request.resource.data[field] == request.auth.uid;
+    }
+
+    // mevcut dokumanin userId/ownerId field'i request.auth.uid ile esit mi?
+    function ownsResource(field) {
+      return isSignedIn() && resource.data[field] == request.auth.uid;
+    }
+
+    // ========================================================================
+    // Kullanici profili: sadece sahibi okur/yazar
+    // ========================================================================
+    match /users/{uid} {
+      allow read: if isOwner(uid);
+      allow create: if isOwner(uid);
+      allow update: if isOwner(uid);
+      allow delete: if isOwner(uid);
+    }
+
+    // ========================================================================
+    // Egzersiz kutuphanesi: read herkese (giris yapmis), yazma yasak
+    // (Yalniz admin SDK / cloud function ile dolduruldugu icin)
+    // ========================================================================
+    match /exercises/{exerciseId} {
+      allow read: if isSignedIn();
+      allow write: if false;
+    }
+
+    // ========================================================================
+    // Programlar (preset + kullanici programi)
+    // - read: preset (ownerId == null) herkese, ozel sadece sahibine
+    // - create: ownerId payload'da request.auth.uid olmak zorunda
+    // - update/delete: yalniz sahibi
+    // ========================================================================
+    match /programs/{programId} {
+      allow read: if isSignedIn() &&
+        (resource.data.ownerId == null || resource.data.ownerId == request.auth.uid);
+      allow create: if ownsCreatePayload('ownerId');
+      allow update, delete: if ownsResource('ownerId');
+    }
+
+    // Program gunleri: ownerId field'i ile sahiplik
+    match /programDays/{dayId} {
+      allow read: if isSignedIn() &&
+        (resource.data.ownerId == null || resource.data.ownerId == request.auth.uid);
+      allow create: if ownsCreatePayload('ownerId');
+      allow update, delete: if ownsResource('ownerId');
+    }
+
+    match /programExercises/{peId} {
+      allow read: if isSignedIn() &&
+        (resource.data.ownerId == null || resource.data.ownerId == request.auth.uid);
+      allow create: if ownsCreatePayload('ownerId');
+      allow update, delete: if ownsResource('ownerId');
+    }
+
+    // ========================================================================
+    // Workouts: sadece sahibi
+    // ========================================================================
+    match /workouts/{workoutId} {
+      allow read: if ownsResource('userId');
+      allow create: if ownsCreatePayload('userId');
+      allow update, delete: if ownsResource('userId');
+    }
+
+    // ========================================================================
+    // WorkoutLogs: artik dokumanda userId tutuluyor; security buna yaslaniyor
+    // ========================================================================
+    match /workoutLogs/{logId} {
+      allow read: if ownsResource('userId');
+      allow create: if ownsCreatePayload('userId');
+      allow update, delete: if ownsResource('userId');
+    }
+
+    // ========================================================================
+    // Personal records: sadece sahibi
+    // ========================================================================
+    match /personalRecords/{prId} {
+      allow read: if ownsResource('userId');
+      allow create: if ownsCreatePayload('userId');
+      allow update, delete: if ownsResource('userId');
+    }
+
+    // ========================================================================
+    // Body measurements: sadece sahibi
+    // ========================================================================
+    match /bodyMeasurements/{mId} {
+      allow read: if ownsResource('userId');
+      allow create: if ownsCreatePayload('userId');
+      allow update, delete: if ownsResource('userId');
+    }
+
+    // ========================================================================
+    // Default deny: yukarida eslesmeyen tum collection'lar yasak
+    // ========================================================================
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

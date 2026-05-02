@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gizlilik Politikası — MyFitCraft</title>
+<meta name="description" content="MyFitCraft — fitness ve antrenman takip uygulaması.">
+<style>*,*::before,*::after{box-sizing:border-box}
+html{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;-webkit-font-smoothing:antialiased;color:#0A0A0F;background:#fafafa}
+body{max-width:760px;margin:0 auto;padding:24px 20px 64px;line-height:1.65}
+header{display:flex;align-items:center;gap:12px;margin-bottom:8px}
+.logo{width:40px;height:40px;border-radius:10px;background:linear-gradient(135deg,#FF6B35,#C84618);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px}
+.brand{font-weight:700;font-size:18px}
+nav{display:flex;gap:16px;font-size:14px;margin:8px 0 24px;color:#666}
+nav a{color:#FF6B35;text-decoration:none}
+nav a:hover{text-decoration:underline}
+.tabs{display:flex;gap:8px;margin:16px 0 8px;border-bottom:1px solid #e5e5e5;padding-bottom:0}
+.tab{padding:10px 16px;border:none;background:none;font-size:14px;font-weight:600;color:#666;cursor:pointer;border-bottom:2px solid transparent;margin-bottom:-1px}
+.tab.active{color:#FF6B35;border-bottom-color:#FF6B35}
+h1{font-size:28px;margin:24px 0 8px;line-height:1.25}
+h2{font-size:20px;margin:28px 0 8px;line-height:1.3;color:#222}
+h3{font-size:16px;margin:20px 0 4px;color:#444}
+p{margin:8px 0}
+ul{margin:6px 0 12px;padding-left:24px}
+li{margin:4px 0}
+a{color:#FF6B35}
+.section{display:none}
+.section.active{display:block}
+footer{margin-top:48px;padding-top:24px;border-top:1px solid #e5e5e5;color:#888;font-size:13px;text-align:center}
+@media (prefers-color-scheme: dark){
+  html{color:#F2F2F7;background:#0A0A0F}
+  h2{color:#E5E5E7}
+  h3{color:#C7C7CC}
+  .tabs{border-color:#333}
+  .tab{color:#999}
+  footer{border-color:#333;color:#666}
+  nav{color:#999}
+}</style>
+</head>
+<body>
+<header>
+  <div class="logo">M</div>
+  <div class="brand">MyFitCraft</div>
+</header>
+<nav>
+  <a href="./index.html">Ana sayfa</a>
+  <a href="./privacy.html">Gizlilik</a>
+  <a href="./terms.html">Koşullar</a>
+</nav>
+
+<div class="tabs" role="tablist">
+  <button class="tab" data-lang="tr" role="tab">Türkçe</button>
+  <button class="tab" data-lang="en" role="tab">English</button>
+</div>
+<article class="section" data-lang="tr"><h1>MyFitCraft Gizlilik Politikası</h1>
+<p>Son güncelleme: 2026-05-02</p>
+<p>MyFitCraft (&quot;uygulama&quot;) gizliliğinize önem verir. Bu politika, uygulamayı kullanırken hangi verilerin toplandığını, nasıl işlendiğini ve haklarınızı açıklar.</p>
+<h2>1. Toplanan Veriler</h2>
+<ul>
+<li>Hesap bilgileri: e-posta adresi, görünen ad, profil fotoğrafı (opsiyonel).</li>
+<li>Profil bilgileri: hedef, deneyim seviyesi, boy, kilo, hedef kilo, dil ve tema tercihi.</li>
+<li>Antrenman verileri: tamamladığınız antrenmanlar, set/tekrar/ağırlık kayıtları, kişisel rekorlar, seçtiğiniz/oluşturduğunuz programlar.</li>
+<li>Vücut ölçümleri: kilo, bel, göğüs, kol gibi girdiğiniz ölçüler ve tarih.</li>
+<li>Cihaz ve teknik bilgiler: oturum yönetimi için Firebase Authentication tarafından üretilen anonim kimlikler. Genel telemetri (uygulama sürümü, platform) hata raporlama için kullanılabilir.</li>
+</ul>
+<p>Reklam, konum, kişiler, mikrofon, kamera, sağlık (HealthKit/Google Fit) entegrasyonu <strong>şu an</strong> kullanılmamaktadır.</p>
+<h2>2. Verilerin Kullanım Amacı</h2>
+<ul>
+<li>Hesabınızı oluşturmak ve oturumunuzu sürdürmek.</li>
+<li>Antrenman, ölçüm ve istatistiklerinizi cihazınızda ve sunucumuzda saklamak.</li>
+<li>Size kişisel öneriler ve raporlar göstermek (kural-tabanlı, cihaz üzerinde çalışan analiz).</li>
+<li>Hata ayıklama ve uygulamayı iyileştirmek.</li>
+</ul>
+<h2>3. Verilerin Saklanması ve Paylaşımı</h2>
+<ul>
+<li>Tüm verileriniz Google Firebase (Cloud Firestore + Firebase Authentication) altyapısında saklanır.</li>
+<li>Her kullanıcı yalnızca kendi verisine erişebilir; Firestore Güvenlik Kuralları sahiplik bazlı erişimi zorunlu kılar.</li>
+<li>Verileriniz reklamcılar dahil <strong>üçüncü taraflara satılmaz veya pazarlama amacıyla paylaşılmaz</strong>.</li>
+<li>Yasal yükümlülükler haricinde verileriniz ihraç edilmez.</li>
+</ul>
+<h2>4. Saklama Süresi</h2>
+<ul>
+<li>Hesabınız aktif olduğu sürece verileriniz saklanır.</li>
+<li>Hesabınızı silmek istediğinizde tüm verileriniz makul bir süre içinde kalıcı olarak silinir.</li>
+<li>Hesap silme talebiniz için: aşağıdaki iletişim adresinden bize ulaşabilirsiniz.</li>
+</ul>
+<h2>5. Çocukların Gizliliği</h2>
+<p>Uygulama 13 yaş altı kullanıcılar için tasarlanmamıştır.</p>
+<h2>6. Reklamlar (İleride)</h2>
+<p>Şu anda uygulamada reklam yoktur. İleride reklam (örn. AdMob) eklenirse bu politika güncellenecek; reklam ağı tarafından toplanan veriler ayrıca açıklanacaktır. Reklamlı sürüm yayınlandığında, ilk açılışta sizden açık onay (consent) alınacaktır.</p>
+<h2>7. Haklarınız (KVKK / GDPR)</h2>
+<p>Aşağıdaki haklara sahipsiniz:</p>
+<ul>
+<li>Verilerinize erişme.</li>
+<li>Düzeltme talep etme.</li>
+<li>Silme talep etme (&quot;unutulma hakkı&quot;).</li>
+<li>İşlemeyi sınırlandırma veya itiraz etme.</li>
+<li>Veri taşınabilirliği.</li>
+</ul>
+<p>Bu hakları kullanmak için aşağıdaki iletişim adresinden bize ulaşabilirsiniz.</p>
+<h2>8. Güvenlik</h2>
+<ul>
+<li>Bağlantılar HTTPS üzerinden şifrelidir.</li>
+<li>Şifreniz Firebase tarafından güvenli şekilde hash'lenir; uygulama veya sunucumuz şifrenize doğrudan erişemez.</li>
+<li>Firestore Güvenlik Kuralları sayesinde başka kullanıcıların verisi size kapalıdır.</li>
+</ul>
+<h2>9. Politika Değişiklikleri</h2>
+<p>Bu politika güncellenebilir. Önemli değişikliklerde uygulama içinde bildirim gösterilir. Son güncelleme tarihi her zaman bu sayfanın üstünde belirtilir.</p>
+<h2>10. İletişim</h2>
+<p>Soru ve talepleriniz için: <a href="mailto:rabii.dev@gmail.com">rabii.dev@gmail.com</a></p></article>
+<article class="section" data-lang="en"><h1>MyFitCraft Privacy Policy</h1>
+<p>Last updated: 2026-05-02</p>
+<p>MyFitCraft (&quot;the app&quot;) respects your privacy. This policy explains what data we collect, how we use it, and your rights.</p>
+<h2>1. Data We Collect</h2>
+<ul>
+<li>Account: email, display name, profile photo (optional).</li>
+<li>Profile: goal, experience level, height, weight, target weight, language and theme preference.</li>
+<li>Workouts: completed workouts, set/rep/weight logs, personal records, programs you select or create.</li>
+<li>Body measurements: weight, waist, chest, arm circumference and the date you entered them.</li>
+<li>Device &amp; technical data: anonymous identifiers generated by Firebase Authentication for session management. Basic telemetry (app version, platform) may be used for crash reporting.</li>
+</ul>
+<p>We do <strong>not</strong> currently use ads, location, contacts, microphone, camera, or HealthKit/Google Fit integrations.</p>
+<h2>2. How We Use Your Data</h2>
+<ul>
+<li>Create your account and keep you signed in.</li>
+<li>Store your workouts, measurements, and statistics on your device and on our backend.</li>
+<li>Show personalized rule-based insights and reports (computed locally on your device).</li>
+<li>Debug and improve the app.</li>
+</ul>
+<h2>3. Storage and Sharing</h2>
+<ul>
+<li>All data is stored on Google Firebase (Cloud Firestore + Firebase Authentication).</li>
+<li>Each user can only access their own data; Firestore Security Rules enforce ownership-based access.</li>
+<li>Your data is <strong>not sold or shared with third parties for marketing purposes</strong>, including ad networks.</li>
+<li>We do not export your data except where legally required.</li>
+</ul>
+<h2>4. Retention</h2>
+<ul>
+<li>Your data is kept while your account is active.</li>
+<li>When you request account deletion, all of your data will be permanently deleted within a reasonable period.</li>
+<li>For deletion requests, contact us at the address below.</li>
+</ul>
+<h2>5. Children's Privacy</h2>
+<p>The app is not intended for users under 13.</p>
+<h2>6. Ads (Future)</h2>
+<p>There are currently no ads in the app. If ads (e.g. AdMob) are added in a future version, this policy will be updated and any data collected by the ad network will be disclosed. You will be asked for explicit consent before any ad is shown.</p>
+<h2>7. Your Rights (GDPR / KVKK)</h2>
+<p>You have the right to:</p>
+<ul>
+<li>Access your data.</li>
+<li>Request correction.</li>
+<li>Request deletion (&quot;right to be forgotten&quot;).</li>
+<li>Restrict or object to processing.</li>
+<li>Data portability.</li>
+</ul>
+<p>To exercise these rights, contact us at the address below.</p>
+<h2>8. Security</h2>
+<ul>
+<li>All connections are encrypted over HTTPS.</li>
+<li>Your password is hashed by Firebase; neither the app nor our backend can access it directly.</li>
+<li>Firestore Security Rules prevent any user from accessing another user's data.</li>
+</ul>
+<h2>9. Changes to This Policy</h2>
+<p>This policy may be updated. Significant changes will be announced inside the app. The last-updated date is always shown at the top.</p>
+<h2>10. Contact</h2>
+<p>For questions or requests: <a href="mailto:rabii.dev@gmail.com">rabii.dev@gmail.com</a></p></article>
+
+<footer>
+  © 2026 MyFitCraft · <a href="mailto:rabii.dev@gmail.com">rabii.dev@gmail.com</a>
+</footer>
+<script>
+(function(){
+  var tabs=document.querySelectorAll('.tab');
+  var sections=document.querySelectorAll('.section');
+  tabs.forEach(function(btn){
+    btn.addEventListener('click',function(){
+      var lang=btn.dataset.lang;
+      tabs.forEach(function(t){t.classList.toggle('active',t===btn)});
+      sections.forEach(function(s){s.classList.toggle('active',s.dataset.lang===lang)});
+      try{localStorage.setItem('legalLang',lang);}catch(e){}
+    });
+  });
+  // ilk dil seçimi: localStorage > tarayıcı dili > tr
+  var saved;try{saved=localStorage.getItem('legalLang');}catch(e){}
+  var initial=saved||(navigator.language||'').toLowerCase().startsWith('tr')?'tr':(saved||'tr');
+  var btn=document.querySelector('.tab[data-lang="'+initial+'"]')||document.querySelector('.tab');
+  if(btn)btn.click();
+})();
+</script>
+</body>
+</html>

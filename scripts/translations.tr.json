@@ -1,0 +1,2603 @@
+{
+  "_meta": "MyFitCraft TR + EN çevirileri. Her egzersiz için: instructionStepsTr + tipsTr + tips (EN). Egzersiz isimleri (name/nameTr) İngilizce kalır - gym dilinde standart. instructionSteps (EN) override edilmezse free-exercise-db orijinali kullanılır.",
+
+  "barbell-squat": {
+    "instructionStepsTr": [
+      "Bar'ı squat rack'te omuz hizasının biraz altına ayarla. Bar'ın altına gir, üst sırt kaslarına (trapezius) yerleştir.",
+      "Bar'ı omuzdan biraz geniş tut. Dirsekleri aşağı çek, kürek kemiklerini sıkıştır.",
+      "Bar'ı rack'ten çıkar, 1-2 adım geri yürü. Ayaklarını omuz genişliğinde, parmak uçların hafif dışa açık konumlandır.",
+      "Karnını sık (brace), nefes al ve göğsünü yukarıda tutarak kalça ve dizlerden bük; kalçanı geriye doğru ittir.",
+      "En az kalça paralel olana kadar in (uyluk yere paralel). Dizler ayak parmaklarıyla aynı yönü göstermeli, asla içeri çökmesin.",
+      "Topuklardan zemine bas, patlayıcı şekilde başlangıç pozisyonuna geri kalk. Tepe noktada nefesi ver."
+    ],
+    "tipsTr": [
+      "Sırtın notr olmalı: ne aşırı kambur ne aşırı kavisli. Mobilite yetmiyorsa biraz daha geniş duruş dene.",
+      "Bar bütün hareket boyunca ayağın orta noktasının (mid-foot) tam üzerinde olmalı.",
+      "Yaygın hata: dizlerin içe çökmesi (knee valgus). Aktif olarak dizleri DIŞA it.",
+      "İlk birkaç set'i hafif kilo ile ısınma yap; soğuk squat sakatlığa davetiye çıkarır.",
+      "Squat shoes (sert tabanlı) veya çıplak ayak/spor ayakkabı tercih et — koşu ayakkabısı ile squat yapma."
+    ],
+    "tips": [
+      "Keep your back neutral — neither overly rounded nor overly arched. If mobility is limiting you, try a slightly wider stance.",
+      "The bar should travel directly over your mid-foot throughout the entire lift.",
+      "Common mistake: knees caving in (knee valgus). Actively push your knees OUT.",
+      "Always warm up with light weights — cold squats are an invitation to injury.",
+      "Use squat shoes (hard sole) or barefoot/flat shoes — never squat in running shoes."
+    ]
+  },
+
+  "barbell-bench-press-medium-grip": {
+    "instructionStepsTr": [
+      "Bench'e sırtüstü yat. Gözlerin bar'ın tam altında, ayakların yere sağlam basıyor olsun.",
+      "Bar'ı omuz genişliğinden biraz geniş tut (bilekler dirseklerin üzerinde dik kalsın).",
+      "Kürek kemiklerini sıkıştırıp aşağı çek (retract + depress); göğsünü yukarı kaldır, üst sırtın bench'e gömülü olsun.",
+      "Bar'ı rack'ten çıkar, kollar tam dik. Nefes al ve karnını sık.",
+      "Bar'ı kontrollü şekilde göğsünün ortasına (meme uçları hizası) indir. Dirsekler vücutla 45-70 derece arası açı yapmalı, dik dışa açma.",
+      "Göğsüne hafifçe değdir (bouncing yapma), patlayıcı şekilde başlangıca it. Tepe noktada nefes ver."
+    ],
+    "tipsTr": [
+      "Bilekler her zaman düz olmalı, geriye kıvrılmasın - aksi halde sakatlık riski yüksek.",
+      "Ayaklarını yerden kaldırma; bacaklardan da güç al (leg drive) — bench press'in performansını %10-15 artırır.",
+      "Yaygın hata: bar'ı boyna doğru indirmek. Bu omuz sakatlığına yol açar; hep göğüs ortasına indir.",
+      "Spotter olmadan max'a yakın kilo kaldırma. Klips kullan ki ağırlıklar kaymasın.",
+      "Kürek kemiklerini hareket boyunca sabit/sıkışık tut, gevşersen güç kaybedersin."
+    ],
+    "tips": [
+      "Keep wrists straight — never bent backward, or you risk wrist injury.",
+      "Don't lift your feet off the floor; use leg drive — it boosts bench performance by 10-15%.",
+      "Common mistake: lowering the bar to the neck. This causes shoulder injury. Always lower to mid-chest.",
+      "Don't max out without a spotter. Use clips so the plates don't slide off.",
+      "Keep shoulder blades retracted/squeezed throughout the movement — if you relax, you lose power."
+    ]
+  },
+
+  "barbell-deadlift": {
+    "instructionStepsTr": [
+      "Bar yere konumlanmış halde, ayakların kalça genişliğinde dur. Bar ayağın orta noktasının üstünde olmalı (yaklaşık ayak parmağına 2-3cm).",
+      "Kalçandan bük, dizlerini hafifçe büker. Bar'ı dizlerin tam dışından, omuz genişliğinde tut.",
+      "Sırtını düzelt; göğüs yukarı, kürek kemikleri bar'ın doğrudan üzerinde olacak şekilde 'baruna kilitlen'.",
+      "Karnını sık, nefes al. Bar'ı 'ittir' gibi düşün — sanki ayağınla yeri itiyorsun.",
+      "Bar bacaklarına değecek kadar yakın kalksın. Diz ve kalça aynı anda açılmalı (kalça önce kalkıp sırt kavislenirse formu bozarsın).",
+      "Tepede dik dur; aşırı geriye yaslanma. İndirirken aynı yolu ters izle: önce kalça geriye, sonra dizler bükülsün."
+    ],
+    "tipsTr": [
+      "Bar her zaman bacaklarına temas edecek kadar yakın olmalı; bardan uzaklaştığında bel sakatlık riski artar.",
+      "Yaygın hata: bel kavisi (lower back rounding). Karnını sık ve sırtını NOTR tut. Hafif yuvarlanma OK ama abartma.",
+      "Mixed grip (bir el düz, bir el ters) kullan ki ağır setlerde bar elinden kaymasın.",
+      "Powerlifting kemerİ ağır setlerde (>80% 1RM) intra-abdominal basıncı artırır, faydalı.",
+      "Her tekrarda yere koyup tam reset yap (touch-and-go değil). Bu hem güvenli hem güç gelişimi için daha iyi."
+    ],
+    "tips": [
+      "The bar should always stay close enough to touch your legs — if it drifts away, lower-back injury risk skyrockets.",
+      "Common mistake: lower-back rounding. Brace your core hard and keep your spine NEUTRAL. A tiny bit of rounding is fine, but don't push it.",
+      "Use a mixed grip (one over, one under) so the bar doesn't slip on heavy sets.",
+      "A lifting belt on heavy sets (>80% 1RM) increases intra-abdominal pressure and helps.",
+      "Reset on the floor between every rep (no touch-and-go). It's safer and builds more strength."
+    ]
+  },
+
+  "standing-military-press": {
+    "instructionStepsTr": [
+      "Bar'ı omuz hizasında rack'ten al (veya temiz çekişle yerden) ve omuzlarına yerleştir.",
+      "Ayaklarını omuz genişliğinde, ayak parmakların hafif dışa dönük dur.",
+      "Bar'ı omuzdan biraz geniş tut. Bilekleri dirseklerin tam üzerinde dik tut.",
+      "Karnını sıkıca brace yap, kalçayı sıkıştır (glute squeeze). Nefes al.",
+      "Bar'ı dik bir çizgide yukarı it. Tepe noktada başını öne it ki bar tam tepende olsun (kafanın üzerinde).",
+      "Kontrollü şekilde omuzlara geri indir. Tekrar boyunca bar burnunun önünden geçmemeli — alın hizasında kalsın."
+    ],
+    "tipsTr": [
+      "Aşırı bel kavisi yapma; bu hareket bench değil, OHP. Karın gevşek olursa bel sakatlığı kaçınılmaz.",
+      "Yaygın hata: bacakla yardım etmek (push press). Strict OHP'de bacak hareketsiz kalır; ağırlık çok ise düşür.",
+      "Dirsek pozisyonu önemli — bilekleri dirseklerin altında tut, dirseğin önde değil.",
+      "Hareket sırasında glutes ve karnını sürekli sık — vücudun bir 'plank' gibi sabit kalsın.",
+      "Omuz mobilitesi yetersizse OHP zor olur. Önce mobility çalış, sonra ağır kaldır."
+    ],
+    "tips": [
+      "Don't over-arch your lower back — this is OHP, not bench. A loose core means a back injury is inevitable.",
+      "Common mistake: helping with the legs (push press). In strict OHP your legs stay rigid — drop the weight if needed.",
+      "Elbow position matters — keep wrists stacked over elbows, not in front of them.",
+      "Constantly squeeze your glutes and brace your core — your body should stay rigid like a plank.",
+      "If your shoulder mobility is poor, OHP will feel terrible. Fix mobility first, then chase strength."
+    ]
+  },
+
+  "bent-over-barbell-row": {
+    "instructionStepsTr": [
+      "Bar'ı yerden deadlift gibi al, ayakların omuz genişliğinde dur.",
+      "Kalçandan bük, dizlerini hafifçe bük. Gövden 30-60 derece arası eğik olsun (yere paralele yakın güçlü ama zor).",
+      "Bar'ı dizlerin altında, omuz genişliğinde overhand grip ile tut.",
+      "Sırtını düz, göğsünü öne çıkar. Karnını sık.",
+      "Bar'ı patlayıcı şekilde alt göğüs / üst karın bölgesine çek. Dirseklerini geriye, vücuduna yakın çek.",
+      "Tepede 1 saniye dur, kürek kemiklerini sıkıştır. Sonra kontrollü şekilde başlangıç pozisyonuna geri indir."
+    ],
+    "tipsTr": [
+      "Sırt notr olmalı. Bel kavisi açıyorsan ağırlık fazla, düşür.",
+      "Yaygın hata: gövdeyi tekrar boyunca yukarı kaldırmak. Sabit kalsın — sallanma; o zaman bu Pendlay row değil cheat row olur.",
+      "Bar'ı göbeğe değil, alt göğse çek — sırtın üst-orta kısmı (lats + rhomboids) çalışsın.",
+      "Trap bar veya dumbbell row alternatif olarak omuz/bel daha rahat — başlangıçta deneyebilirsin.",
+      "Pendlay row varyasyonunda her tekrar yere konur; daha az bel yorar, daha güçlü patlama."
+    ],
+    "tips": [
+      "Keep your spine neutral. If your lower back is rounding, the weight is too heavy — reduce it.",
+      "Common mistake: standing up between reps. Your torso must stay locked in — no swinging, or it becomes a cheat row.",
+      "Pull the bar to your lower chest, not your belly — that targets the upper-mid back (lats + rhomboids).",
+      "Trap bar or dumbbell rows are easier on the lower back if you're a beginner.",
+      "The Pendlay row variant resets the bar on the floor every rep — less back fatigue, more explosive."
+    ]
+  },
+
+  "romanian-deadlift": {
+    "instructionStepsTr": [
+      "Bar'ı bel hizasından al (rack'ten veya yerden deadlift sonrası). Ayakların kalça genişliğinde dur.",
+      "Bar'ı omuz genişliğinde overhand tut. Dizlerini hafifçe bük (5-15 derece) ve bu açıyı SABİT TUT.",
+      "Karnını sık, kürek kemiklerini geriye çek. Bar baldırlarına değecek kadar yakın olmalı.",
+      "Kalçandan bük (hip hinge): kalçanı geriye it, gövden öne eğilirken bar bacaklarına sürtsün.",
+      "Hamstring'lerinde belirgin gerilme hissedene kadar in (genelde diz hizası veya hafif altı). Sırtın notr kalmalı.",
+      "Glutes ve hamstring'i sıkıp kalçanı öne ittirerek başlangıca geri kalk. Tepede aşırı geriye yaslanma."
+    ],
+    "tipsTr": [
+      "RDL squat değil — dizler çok az bükülür, hareket kalçadan gelir.",
+      "Bar her zaman bacağa yakın olmalı. Uzaklaşırsa bel yüklenir.",
+      "Yaygın hata: bel kavisi açmak. Sırt notr olmazsa ağırlığı düşür, formu öncele.",
+      "Hamstring esnekliği yetersizse aşırı aşağı inme — diz altına kadar yeter.",
+      "Üst sırt sıkışık (kürek kemikleri çekik) kalsın hareket boyunca, yoksa bar öne kayar."
+    ],
+    "tips": [
+      "RDL is not a squat — knees barely bend, the movement comes from the hips.",
+      "The bar must stay close to your legs the entire time. If it drifts forward, your lower back takes the load.",
+      "Common mistake: rounding the lower back. If your spine isn't neutral, drop the weight — form first.",
+      "Don't go super low if your hamstrings are tight. Just below the knee is enough.",
+      "Keep your upper back tight (scapulae retracted) the whole rep, or the bar will drift forward."
+    ]
+  },
+
+  "front-barbell-squat": {
+    "instructionStepsTr": [
+      "Bar'ı squat rack'ten al ama bu sefer ÜST GÖĞÜS / ön omuz üzerine yerleştir (clean grip veya cross-arm grip).",
+      "Clean grip: dirsekleri öne ve yukarı doğru kaldır, parmak uçlarınla bar'a sadece destek ver. Cross-arm: kollar göğüste çapraz bar'ı tutar.",
+      "Dirsekler her zaman YÜKSEKTE kalmalı — düşerse bar omuzlardan yuvarlanır.",
+      "Karnını sık, gövdeyi mümkün olduğunca dik tutarak diz ve kalçadan bük.",
+      "Back squat'tan daha derine in (kalça paraleli aş), gövde dik kaldığı için core ve quad'lar daha çok yüklenir.",
+      "Topuklardan it ve patlayıcı şekilde başlangıca geri kalk. Dirsekler sürekli yüksekte kalsın."
+    ],
+    "tipsTr": [
+      "Front squat dirsek pozisyonuna karşı çok hassastır — düştüğü an bar elinden kayar.",
+      "Bilek esnekliği şart. Yetersizse straps kullan veya cross-arm grip dene.",
+      "Quad ağırlıklı bir hareket; back squat'a göre daha az weight ile başla (genelde back squat'ın %70-80'i).",
+      "Gövde dik tutamıyorsan bilek/dirsek mobilitesini geliştirmen lazım, önce mobility.",
+      "Olympic weightlifting için temel hareket — power clean ile birlikte programa al."
+    ],
+    "tips": [
+      "Front squat is very unforgiving on elbow position — drop the elbows and the bar rolls off your shoulders.",
+      "Wrist mobility is essential. If yours is poor, use straps or try the cross-arm grip.",
+      "It's a quad-dominant lift; start with about 70-80% of your back squat weight.",
+      "If you can't keep your torso upright, work on wrist/elbow mobility before chasing weight.",
+      "It's a foundational lift for Olympic weightlifting — pair it with the power clean."
+    ]
+  },
+
+  "close-grip-barbell-bench-press": {
+    "instructionStepsTr": [
+      "Bench'e sırtüstü yat. Bench press kurulumunu yap (kürek sıkıştır, ayaklar yerde).",
+      "Bar'ı OMUZ GENİŞLİĞİNDE (veya biraz daha dar) tut. Klasik bench'ten daha dar grip.",
+      "Bar'ı rack'ten çıkar, kollar tam dik.",
+      "Bar'ı alt göğse / üst karna doğru kontrollü indir. DIRSEKLERI VÜCUDUNA YAKIN tut (45 dereceden daha az açı).",
+      "Bar göğse hafifçe değsin (bounce yapma), patlayıcı şekilde yukarı it.",
+      "Tekrar boyunca dirsekler dışarı açılmamalı — bu egzersizin amacı triceps, dirsek dışarı açılırsa göğüs çalışır."
+    ],
+    "tipsTr": [
+      "Çok dar grip (eller bitişik) bilekleri zorlar; omuz genişliği ideal.",
+      "Yaygın hata: dirsekleri klasik bench gibi açmak. Vücuda yakın tut — triceps lockout için.",
+      "Bench press accessory'si olarak harika — lockout (üst kısım) gücünü geliştirir.",
+      "Skull crusher'a göre dirsek eklemine daha yumuşak — eklem ağrın varsa close-grip tercih et.",
+      "Üst göğüs de hafifçe çalışır; sadece triceps değil, sekonder göğüs de geliştirir."
+    ],
+    "tips": [
+      "Don't go too narrow (hands touching) — it stresses the wrists. Shoulder-width is ideal.",
+      "Common mistake: flaring elbows like a regular bench. Keep them tucked — this is for triceps lockout.",
+      "Excellent bench accessory — it builds lockout (top-end) strength.",
+      "Easier on the elbow joint than skull crushers — pick this if you have elbow pain.",
+      "It also hits the upper chest a bit — not just triceps, but secondary pec work too."
+    ]
+  },
+
+  "barbell-hip-thrust": {
+    "instructionStepsTr": [
+      "Bench'in önüne otur, kürek kemiklerini bench kenarına yasla. Bar'ı kalçanın üzerine yerleştir (yastık veya ped kullan).",
+      "Ayakların omuz genişliğinde, dizlerin 90 dereceye geleceği pozisyona kuruluş yap.",
+      "Çene içeride, bakış öne. Karnını sık.",
+      "Topuklardan ittir; kalçanı yukarı kaldır. Tepede vücudun omuzdan dize düz bir çizgi olsun.",
+      "Tepede glutes'i 1-2 saniye yoğun şekilde sık (squeeze).",
+      "Kontrollü şekilde başlangıç pozisyonuna in. Kalça yere değmeden bir sonraki tekrara başla."
+    ],
+    "tipsTr": [
+      "Hareket bel'den GELMEMELI — saf glute hareketi olmalı. Bel ağrıyorsa form bozuk.",
+      "Yaygın hata: çenenin yukarı kalkması ve bel aşırı kavislenmesi. Başını sabit tut, kalçayı yukarı it.",
+      "Bar'ın altına mutlaka ped/squat pad koy — yoksa kalça ezilir.",
+      "Glute geliştirmek için en güçlü hareket. Squat'tan bile daha izole.",
+      "Tek bacak varyasyonu (single leg hip thrust) ileri seviye, dengesizlik düzeltir."
+    ],
+    "tips": [
+      "The movement should NOT come from the lower back — it's pure glute. If your back hurts, your form is off.",
+      "Common mistake: chin tilting up and lower back over-arching. Keep your chin tucked, drive the hips up.",
+      "Always use a pad/squat sponge under the bar — your hips will get crushed otherwise.",
+      "It's the most powerful glute-building exercise — even more isolated than the squat.",
+      "Single-leg hip thrust is an advanced variation — it fixes side-to-side imbalances."
+    ]
+  },
+
+  "power-clean": {
+    "instructionStepsTr": [
+      "Bar yerde, ayakların kalça genişliğinde. Deadlift kurulumu yap (kalça düşük, sırt notr, bar mid-foot).",
+      "Bar'ı patlayıcı şekilde dizlerin üstüne kaldır (1. çekiş - first pull). Kontrollü ama hızlı.",
+      "Bar dizlerinin üstüne geçince kalçayı tam ittir, ayak parmaklarına yüksel (triple extension).",
+      "Bu patlama anında bar'ı dirseklerle yukarı çek — sanki t-shirt çıkarıyormuşsun gibi.",
+      "Bar omuz hizasına gelince HIZLI dirsekleri öne ve yukarı çek, bar'ın altına çök (front squat catch position).",
+      "Bar omuzlarda 'rack position'da (front squat duruşu) tut, bacaklarınla yarım squat'tan kalk."
+    ],
+    "tipsTr": [
+      "Power clean teknik bir hareket — formu öğrenmeden ağır kaldırma. Önce bar'la veya hafif kilo ile çalış.",
+      "Hareket bilek/dirsek/omuz/kalça koordinasyonu ister. Yavaş öğren.",
+      "Yaygın hata: kollarla çekmeye çalışmak. Hareket BACAKLARDAN ve KALÇADAN gelir, kollar sadece yön verir.",
+      "Triple extension (bilek+diz+kalça eş zamanlı uzaması) anahtardır — tepede vücut tamamen düz olmalı.",
+      "Olympic lifting koçundan birkaç ders almadan max attempt yapma; sakatlık riski yüksek."
+    ],
+    "tips": [
+      "Power clean is highly technical — never go heavy until your form is solid. Start with the empty bar.",
+      "It demands wrist/elbow/shoulder/hip coordination. Be patient learning it.",
+      "Common mistake: trying to pull with the arms. The movement comes from the LEGS and HIPS — arms are just guides.",
+      "Triple extension (ankles+knees+hips extending together) is the key — at the top, your body must be fully extended.",
+      "Don't max out without a few sessions from an Olympic lifting coach — injury risk is high."
+    ]
+  },
+
+  "push-press": {
+    "instructionStepsTr": [
+      "Bar omuzlarda (front rack), ayaklar omuz genişliğinde. OHP başlangıç pozisyonu.",
+      "Karnı sık, kalçaları sıkıştır.",
+      "Hızlı bir 'dip': dizleri çeyrek squat gibi hafifçe bük (sadece 5-10 cm).",
+      "Hemen patlayıcı şekilde dizleri ittir, bacak gücünü bar'a transfer et.",
+      "Aynı anda kollarla bar'ı tepeye it. Bacak hareketi ve kol itme aynı an birleşmeli.",
+      "Bar tepede tam dik (kafanın üstünde), sonra kontrollü şekilde omuzlara geri indir."
+    ],
+    "tipsTr": [
+      "Push press OHP'den daha fazla kilo kaldırır — bacaklardan boost alır.",
+      "Yaygın hata: bel'den 'dip' yapmak. Hareket DİZ'den gelir, bel/kalça stabil kalır.",
+      "Dip çok derin olursa squat olur ve patlama gücün kaybolur. 5-10 cm yeterli.",
+      "OHP gücünü geliştirmek için mükemmel — overload tekniği olarak ara sıra kullan.",
+      "Bar tepede iken vücut tamamen düz, glutes sıkık, karın brace edilmiş olmalı."
+    ],
+    "tips": [
+      "Push press lets you lift more than strict OHP — leg drive boosts the bar.",
+      "Common mistake: dipping from the lower back. The dip comes from the KNEES; your hips/back stay rigid.",
+      "Too deep a dip becomes a squat and kills the explosive transfer. 5-10 cm is enough.",
+      "Excellent for building OHP strength — use it occasionally as an overload tool.",
+      "At the top, your body should be fully locked: glutes squeezed, core braced, bar over head."
+    ]
+  },
+
+  "good-morning": {
+    "instructionStepsTr": [
+      "Bar'ı squat gibi üst sırta yerleştir (ama daha hafif kilo ile).",
+      "Ayakların omuz genişliğinde, dizler hafif bükülü.",
+      "Karnını sık. Sırtın notr olmalı.",
+      "Kalçandan bük (hip hinge); gövden öne doğru eğilirken kalçan geriye gider.",
+      "Hamstring'lerin gerilmesini hissedene kadar in (gövde yere paralel veya az altı).",
+      "Glutes ve hamstring'i sıkarak başlangıca geri kalk. Sırt boyunca notr çizgi sabit kalsın."
+    ],
+    "tipsTr": [
+      "ÇOK HAFİF kilo ile başla — bu hareket bel'e yüksek stres bindirir, form kritik.",
+      "RDL'ye benzer ama bar omuzlarda olduğu için kaldıraç kolu daha uzun, çok daha zor.",
+      "Yaygın hata: dizlerini fazla bükmek (squat'a dönüşür) veya bel kavisi açmak.",
+      "Hamstring esnekliği yetersizse az aşağı in. Form öncelikli.",
+      "5/3/1 ve westside conjugate'ta accessory olarak kullanılır — bel/posterior chain için altın değer."
+    ],
+    "tips": [
+      "Start VERY light — this puts huge stress on the lower back, so form is critical.",
+      "It's like an RDL, but the bar on the upper back gives a longer lever arm — much harder.",
+      "Common mistake: bending the knees too much (turns into a squat) or rounding the lower back.",
+      "If your hamstrings are tight, don't go super low. Form over depth.",
+      "Used as an accessory in 5/3/1 and Westside Conjugate — gold for lower-back/posterior-chain strength."
+    ]
+  },
+
+  "pullups": {
+    "instructionStepsTr": [
+      "Pull-up bar'ına overhand grip (avuç içleri ileri) ile, omuz genişliğinden biraz geniş asıl.",
+      "Kollar tam uzanık, vücut sabit. Hafifçe öne doğru eğilik dur, tam dik değil.",
+      "Karnını sık, kalçanı sıkıştır — vücudun bir tahta gibi sabit olsun (sallanma).",
+      "Dirsekleri AŞAĞI VE GERIYE çek; çenen bar'ın üstüne çıkana kadar kendini yukarı çek.",
+      "Tepede 1 saniye dur, kürek kemiklerini sıkıştır.",
+      "Kontrollü şekilde tam aşağıya in (dead hang). Kollar tam uzansın, sonraki tekrara başla."
+    ],
+    "tipsTr": [
+      "Yaygın hata: yarım tekrar (chin bar'a değmez) veya tam dead hang yapmamak. FULL ROM kritik.",
+      "Pull-up zorlaysa: assisted pull-up makinesi, bant (resistance band), veya negative-only (sadece iniş kısmı).",
+      "Sallanma (kipping) crossfit hareketidir; strict pull-up için sıkı dur.",
+      "Lat aktivasyonu için: dirsekleri kürek kemiklerinin altına doğru çek, biceps ile çekme.",
+      "Hızlı progression: haftada 2 kez pull-up çalış, her seferinde 1 tekrar daha eklemeye çalış."
+    ],
+    "tips": [
+      "Common mistake: half reps (chin not over the bar) or skipping the dead hang. FULL ROM is critical.",
+      "If pull-ups are too hard: use the assisted machine, resistance bands, or negative-only reps (just the lowering phase).",
+      "Kipping is a CrossFit technique — for strict pull-ups, stay rigid.",
+      "For lat activation: pull your elbows down toward your back pockets, don't curl with the biceps.",
+      "Fast progression: train pull-ups twice a week and try to add one rep every session."
+    ]
+  },
+
+  "chin-up": {
+    "instructionStepsTr": [
+      "Pull-up bar'ına underhand grip (avuç içleri SANA dönük) ile omuz genişliğinde asıl.",
+      "Kollar tam uzanık, vücut sabit.",
+      "Karnını sık, kalçayı sıkıştır.",
+      "Dirsekleri vücuduna yakın AŞAĞI çek; kendini bar'a kaldır.",
+      "Çenen bar'ın üstünden geçene kadar tam yukarı çık. Tepede 1 saniye sıkıştır.",
+      "Kontrollü şekilde tam dead hang'e in."
+    ],
+    "tipsTr": [
+      "Chin-up pull-up'tan daha kolay — underhand grip biceps'i daha çok devreye sokar.",
+      "Biceps + lat geliştirmek için harika hareket; ayrı biceps kulları yapmaya gerek bırakmaz.",
+      "Yaygın hata: bilek ağrısı. Bar üzerinde rotasyona izin veren rings kullan, bilek doğal kalır.",
+      "Pull-up zor geliyorsa önce chin-up ile başla, daha güçlüsün.",
+      "Weighted chin-up (kilolu): dip belt veya weight vest ile %5-10 lik artışlar yap."
+    ],
+    "tips": [
+      "Chin-ups are easier than pull-ups — the underhand grip recruits more biceps.",
+      "Great for building biceps + lats together — often you don't even need separate curl work.",
+      "Common issue: wrist pain. Use rings that rotate so your wrists stay in a neutral path.",
+      "If pull-ups feel too hard, start with chin-ups first — you're stronger at them.",
+      "Weighted chin-ups: use a dip belt or weight vest, adding 5-10% per progression."
+    ]
+  },
+
+  "bench-dips": {
+    "instructionStepsTr": [
+      "Bench'in önüne sırtın bench'e dönük şekilde otur. Avuç içlerinle bench kenarını parmaklar öne bakacak şekilde tut.",
+      "Kalçanı bench'ten kaydır, ayakların düz öne uzansın (zor) veya dizler bükülü ayakların yere düz bassın (kolay).",
+      "Kollar düz, vücut bench'in önünde havada askıda.",
+      "Dirsekleri 90 derece bükerek vücudu kontrollü aşağı indir. Dirsekler GERİYE doğru bükülmeli, dışa açılmamalı.",
+      "Üst kol yere paralel olunca dur (omuzlara stres bindirme).",
+      "Avuçlarınla bench'i ittirerek başlangıç pozisyonuna geri kalk. Triceps'i kasarak yukarı çık."
+    ],
+    "tipsTr": [
+      "Yaygın hata: omuzları öne çekmek (humeri rotation). Kürek kemiklerini geriye/aşağı tut.",
+      "Bu hareket omuz eklemine zor olabilir — ağrı varsa parallel bar dips'e geç (daha doğal).",
+      "Triceps'in uzun başını hedefler — kol kalınlaşması için harika.",
+      "Daha zor yapmak için: ikinci bir bench'e ayakları koy (decline). İleri seviye: dize ağırlık tut.",
+      "Bilek ağrısı varsa parmakları DIŞA çevir, bilek nötre yakın kalsın."
+    ],
+    "tips": [
+      "Common mistake: shoulders rolling forward (internal rotation). Keep scapulae pulled back and down.",
+      "Can be tough on the shoulder joint — if it hurts, switch to parallel-bar dips (more natural).",
+      "Targets the long head of the triceps — great for arm thickness.",
+      "Make it harder by: putting feet on a second bench (decline). Advanced: place a plate on your lap.",
+      "If your wrists hurt, point fingers slightly outward to keep wrists closer to neutral."
+    ]
+  },
+
+  "pushups": {
+    "instructionStepsTr": [
+      "Yere yüzükoyun yat. Eller omuz genişliğinden biraz geniş, yere düz olsun.",
+      "Vücudunu kaldır: tek destek noktan eller ve ayak parmakların. Vücudun bastan topuğa düz çizgi.",
+      "Karnını sık, kalçayı sıkıştır — sallanmasın veya çökmemeli.",
+      "Dirseklerini bükerek göğsünü yere yakınlaştır. Dirsekler vücudunla yaklaşık 45 derece açı (dışa fazla açma).",
+      "Göğsün yere değmeden hemen önce dur (1-2cm).",
+      "Avuçlarınla yeri ittirerek başlangıç pozisyonuna geri çık."
+    ],
+    "tipsTr": [
+      "Yaygın hata: kalça çökmesi (sag) veya kalça yukarı kalkması (pike). Vücut DÜZ kalmalı.",
+      "Tam ROM önemli: göğsün yere yakın inmesi gerek, yarım push-up yapma.",
+      "Zor geliyorsa: dizden push-up, veya incline push-up (eller bench/duvarda) ile başla.",
+      "Daha zor yapmak için: ayakları yükselt (decline), tek el push-up, veya ağırlıklı yelek.",
+      "Push-up tüm üst gövdeyi çalıştırır + core stabilizesi geliştirir. Başlangıç ve ileri seviye için altın hareket."
+    ],
+    "tips": [
+      "Common mistakes: hips sagging or piked up. Body must stay STRAIGHT.",
+      "Full ROM matters — chest needs to come close to the floor. No half reps.",
+      "If too hard: start with knee push-ups or incline push-ups (hands on a bench/wall).",
+      "Make it harder: elevate the feet (decline), one-arm push-ups, or use a weighted vest.",
+      "Push-ups train the entire upper body plus core stability — gold for both beginners and advanced lifters."
+    ]
+  },
+
+  "bodyweight-squat": {
+    "instructionStepsTr": [
+      "Ayakların omuz genişliğinde, parmak uçların hafif dışa açık dur.",
+      "Karnını sık, gövden dik. Eller önde uzanık veya göğüste çapraz olabilir.",
+      "Kalçanı geriye iterek ve dizlerini bükerek aşağı in. Sanki sandalyede oturuyormuş gibi.",
+      "En az kalçan diz hizasına gelene kadar in (paralel) — esneklik elveriyorsa daha aşağı.",
+      "Topuklardan it, başlangıç pozisyonuna geri kalk.",
+      "Tepede dizleri kilitle ama bel kavisi açma."
+    ],
+    "tipsTr": [
+      "Yaygın hata: dizlerin içe çökmesi. Aktif olarak dışa it.",
+      "Topukların yerden kalkmamalı. Kalkıyorsa ayak bileği mobilitesi yetersiz, kısa bir destek (plate veya squat shoes) kullan.",
+      "Aşağıda göğsünü yukarı tut, sırt notr.",
+      "Form öğrenmek için harika — bar'lı squat'a geçmeden önce yüzlerce bw squat yap.",
+      "Daha zor yapmak için: jump squat, pistol squat, veya pause-at-bottom squat."
+    ],
+    "tips": [
+      "Common mistake: knees caving in. Actively push them out.",
+      "Heels must stay on the floor. If they lift, your ankle mobility is poor — use a small wedge (plate or squat shoes).",
+      "At the bottom, keep your chest up and spine neutral.",
+      "Perfect for learning form — do hundreds of bodyweight squats before adding a bar.",
+      "Make it harder with jump squats, pistol squats, or pause-at-bottom squats."
+    ]
+  },
+
+  "incline-push-up": {
+    "instructionStepsTr": [
+      "Bench, masa veya bar'ın üzerine ellerini omuz genişliğinden biraz geniş yerleştir.",
+      "Ayaklarını yere koy, vücudun başla topuk arasında düz çizgi.",
+      "Karnını sık, kalçayı sıkıştır.",
+      "Dirsekleri bükerek göğsünü incline yüzeyine yakınlaştır.",
+      "Göğsün yüzeye yakın gelince dur, sonra ittirerek başlangıca geri çık.",
+      "Tüm hareket boyunca vücudun düz çizgi olarak kalsın."
+    ],
+    "tipsTr": [
+      "Klasik push-up zor geliyorsa başlangıç noktasıdır — ne kadar yüksek incline o kadar kolay.",
+      "İlerledikçe yüksekliği azalt: bench → kürsü → blok → klasik yere push-up.",
+      "Form klasik push-up ile aynı; sadece açı farklı.",
+      "Üst göğüs daha az çalışır (alt göğüs/triceps daha aktif). Decline ise tersi.",
+      "Kadınlar veya yeni başlayanlar için ideal başlangıç noktası."
+    ],
+    "tips": [
+      "It's the starting point if regular push-ups are too hard — the higher the incline, the easier.",
+      "Progress by lowering the surface: bench → step → block → flat push-up.",
+      "Same form as a regular push-up — only the angle changes.",
+      "Hits the upper chest less (more lower-chest/triceps). Decline is the opposite.",
+      "Ideal starting point for women and beginners."
+    ]
+  },
+
+  "decline-push-up": {
+    "instructionStepsTr": [
+      "Ayaklarını bench, kasa veya yüksek bir yere yerleştir.",
+      "Eller yere, omuz genişliğinden biraz geniş.",
+      "Vücudun başla topuk arasında düz çizgi (eğik aşağı).",
+      "Karnını sık, kalçayı sıkıştır — kalçanın yukarı kalkmamasına dikkat.",
+      "Dirsekleri bükerek göğsünü yere yakınlaştır. Dirsekler 45 derece açıyla.",
+      "Avuçlarınla yeri ittirerek başlangıca geri çık."
+    ],
+    "tipsTr": [
+      "Üst göğüs ve omuzları daha çok hedefler — incline push-up'tan zor.",
+      "Yaygın hata: omuzları aşırı yüklenir. Eklem ağrısı varsa decline'ı azalt veya bırak.",
+      "Vücut çizgisi kritik. Kalça çökerse veya kalkarsa form bozulur.",
+      "Daha zor yapmak için: ellere ağırlık plakası koy, veya tek el (single arm).",
+      "Push-up varyasyonlarını rotasyonla kullan: incline → flat → decline progression."
+    ],
+    "tips": [
+      "Targets upper chest and shoulders more — harder than incline push-up.",
+      "Common issue: shoulders get overloaded. If you have joint pain, reduce the decline or skip it.",
+      "Body line is critical. If hips sag or pike, the form breaks down.",
+      "Make it harder by placing a plate on your back or going single-arm.",
+      "Rotate push-up variations across blocks: incline → flat → decline progression."
+    ]
+  },
+
+  "plank": {
+    "instructionStepsTr": [
+      "Yere yüzükoyun gel, ön kollarına ve ayak parmaklarına bas.",
+      "Dirsekler omuzların tam altında, ön kollar paralel.",
+      "Vücudunu kaldır: bastan topuğa düz çizgi olmalı.",
+      "Karnını maksimum düzeyde sık (sanki birinin yumruk vurmasını bekler gibi).",
+      "Glutes'i de sıkıştır.",
+      "Bu pozisyonu hedeflenen süre kadar koru. Nefes almayı UNUTMA — düzgün şekilde nefes al."
+    ],
+    "tipsTr": [
+      "Yaygın hata: kalça çökmesi. Bu bel'i yıpratır. Kalçayı SIKIK tut.",
+      "Yaygın hata 2: kalça yukarı kaldırma (pike). Bu plank değil, downward dog.",
+      "Süre değil, kalite. 30 saniye iyi formla 2 dakika kötü formdan iyidir.",
+      "Daha zor: side plank, plank with leg lift, RKC plank (extreme tension).",
+      "Her gün antrenman sonrası 2-3 set plank yap, core gelişimi hızlanır."
+    ],
+    "tips": [
+      "Common mistake: hips sagging. It wrecks the lower back. Keep glutes SQUEEZED.",
+      "Common mistake 2: hips piking up. That's not a plank, it's downward dog.",
+      "Quality over duration. 30 seconds with great form beats 2 minutes of garbage.",
+      "Make it harder: side plank, plank with leg lift, RKC plank (max-tension).",
+      "Add 2-3 sets of planks after every workout — your core will develop fast."
+    ]
+  },
+
+  "sit-up": {
+    "instructionStepsTr": [
+      "Yere sırtüstü yat. Dizlerini 90 dereceye bük, ayakların yere düz bassın.",
+      "Ellerini başının yanına/arkasına koy (parmaklarını başına KENETLEME, baş üzerine bastırma).",
+      "Karnını sık, çenen göğse hafifçe yakın.",
+      "Karın kaslarınla gövdeni yukarı kaldır; dizlerine doğru çık.",
+      "Tepede gövde dik veya hafif öne eğik, karın tam kasılı.",
+      "Kontrollü şekilde başlangıca in. Sırtın yere değmeden hemen önce sonraki tekrara başla."
+    ],
+    "tipsTr": [
+      "Yaygın hata: ellerle başı yukarı çekmek. Ellerin sadece destek olsun, baş kendini taşısın.",
+      "Yaygın hata 2: ayağı zorla sabit tutma (birinin ayağına basması). Bu kalça flexor'larını çalıştırır, karın değil.",
+      "Crunch'tan daha tam ROM — daha etkili, ama bel'e biraz daha zor.",
+      "Bel ağrın varsa crunch veya reverse crunch tercih et.",
+      "Ağırlıkla zorlaştırmak için: göğüste ağırlık plakası tut."
+    ],
+    "tips": [
+      "Common mistake: pulling your head up with your hands. Hands are just support — let your head ride the motion.",
+      "Common mistake 2: anchoring your feet (someone holding them). That recruits hip flexors, not abs.",
+      "Bigger ROM than a crunch — more effective, but tougher on the lower back.",
+      "If you have lower-back pain, switch to crunches or reverse crunches.",
+      "To progress, hold a weight plate on your chest."
+    ]
+  },
+
+  "crunches": {
+    "instructionStepsTr": [
+      "Yere sırtüstü yat. Dizlerini bük, ayaklar yere düz bassın.",
+      "Eller başının yanında veya göğüste çapraz.",
+      "Karın kaslarınla SADECE üst gövdeni yerden hafifçe kaldır (kürek kemikleri yerden ayrılana kadar).",
+      "Bel yere yapışık kalsın, sadece üst sırt kalkar.",
+      "Tepede karın kaslarını sık, 1 saniye dur.",
+      "Kontrollü şekilde geri in."
+    ],
+    "tipsTr": [
+      "Sit-up'tan daha kısa hareket; bel'e daha az stres.",
+      "Hareket küçük olmalı — tüm gövdeyi kaldırmak crunch değil sit-up.",
+      "Karın kaslarına ODAKLAN, boyun veya kalça flexor'la hareket etme.",
+      "Yaygın hata: çok hızlı tekrar yapmak. Yavaş ve kontrollü daha etkili.",
+      "Tepede karnını sıkma anı ('squeeze') hipertrofi için kritik."
+    ],
+    "tips": [
+      "Shorter movement than a sit-up — much easier on the lower back.",
+      "Movement should be small — lifting the whole torso turns it into a sit-up.",
+      "FOCUS on the abs, not on jerking with the neck or hip flexors.",
+      "Common mistake: cranking out reps too fast. Slow and controlled is more effective.",
+      "The 'squeeze' at the top is critical for hypertrophy."
+    ]
+  },
+
+  "reverse-crunch": {
+    "instructionStepsTr": [
+      "Sırtüstü yat. Eller yan tarafta veya bench'in altına tutturulu (destek için).",
+      "Dizlerini bükerek bacaklarını 90 dereceye kaldır.",
+      "Karın alt kaslarını kullanarak kalçanı yerden hafifçe kaldır, dizlerini göğse doğru getir.",
+      "Tepede 1 saniye sık.",
+      "Kontrollü şekilde başlangıca in.",
+      "Bacaklar tepede sürekli 90 derece bükülü kalmalı, sallanmalısın."
+    ],
+    "tipsTr": [
+      "Alt karın için en etkili hareketlerden biri.",
+      "Yaygın hata: momentum kullanmak (sallanma). Hareket karnından gelmeli.",
+      "Daha zor: bacaklar düz (legs straight reverse crunch).",
+      "Bel ağrısı varsa kalçayı çok kaldırma — sadece kuyruk sokumu yerden hafif kalksın.",
+      "Sit-up + reverse crunch kombinasyonu üst + alt karını birlikte vurur."
+    ],
+    "tips": [
+      "One of the most effective lower-ab exercises.",
+      "Common mistake: using momentum (swinging). The move must come from the abs.",
+      "Make it harder with straight legs (legs-straight reverse crunch).",
+      "If you have lower-back pain, don't lift the hips much — just barely pop the tailbone off the floor.",
+      "Pair sit-ups + reverse crunches to hit both upper and lower abs."
+    ]
+  },
+
+  "hanging-leg-raise": {
+    "instructionStepsTr": [
+      "Pull-up bar'ına overhand grip ile asıl. Kollar tam uzanık, vücut sabit.",
+      "Karnını sık. Eğer salınıyorsan dengeyi sağla.",
+      "Bacakları DÜZ tutarak yukarı kaldır. Hedef: bacakların yere paralel (90 derece) veya bar'a doğru.",
+      "Tepede 1 saniye sık (karnın kasılı).",
+      "Kontrollü şekilde başlangıç pozisyonuna in. Düşürme — yavaşça in.",
+      "Sallanmadan tekrar yap."
+    ],
+    "tipsTr": [
+      "Düz bacak çok zor başlarsa: knee raise (dizleri bük, daha kolay) ile başla, ilerle.",
+      "Yaygın hata: momentum kullanma (sallanma). Önce hanging dengeyi öğren, sonra raise.",
+      "Hareket KALÇADAN değil, KARINDAN gelmeli. Karnını aktif sık.",
+      "Toes-to-bar varyasyonu (ayakları bara değdirme) ileri seviye, crossfit klasiği.",
+      "Grip yetmezse straps kullan; karın yorulmadan grip yorulursa egzersiz tamamlanmaz."
+    ],
+    "tips": [
+      "Straight legs are very hard to start — begin with knee raises (bent knees, easier), then progress.",
+      "Common mistake: using momentum (swinging). Master the static dead hang first, then add the raise.",
+      "The movement should come from the ABS, not the hips. Actively crunch.",
+      "Toes-to-bar (touching the bar with feet) is an advanced CrossFit staple.",
+      "Use straps if your grip fails — if your grip dies before your abs, the exercise is wasted."
+    ]
+  },
+
+  "russian-twist": {
+    "instructionStepsTr": [
+      "Yere otur. Dizlerini bük, ayakları yerden hafifçe kaldır (denge için yere bırakabilirsin başlangıçta).",
+      "Gövdeni geriye yatır (45 derece). V şekli oluştur.",
+      "Eller önde tutulu (medicine ball, dumbbell veya boş el).",
+      "Karnını sık. Gövdeni sağa döndür, ağırlığı yere değdir.",
+      "Sonra sola döndür, ağırlığı diğer tarafa değdir.",
+      "Sürekli kontrollü ve karın kasıyla döndür, kollarla değil."
+    ],
+    "tipsTr": [
+      "Yaygın hata: çok hızlı sallanmak. Hareket KARNINDAN gelmeli, kollar pasif.",
+      "Belin korunmasıyla başla — ağırlıksız sadece eller.",
+      "Ayakları yerden kaldırmak zorlaştırır.",
+      "Bel ağrısı varsa düşür açıyı (daha dik otur).",
+      "Side plank ile rotasyonu önleme antrenmanı yapmak da iyi karın gelişimi sağlar."
+    ],
+    "tips": [
+      "Common mistake: swinging too fast. The rotation must come from the ABS — arms are passive.",
+      "Start with no weight to learn safe rotation, then add load.",
+      "Lifting the feet off the floor makes it harder.",
+      "If you have lower-back pain, sit more upright (smaller angle).",
+      "Pair with side planks (anti-rotation work) for balanced core development."
+    ]
+  },
+
+  "leg-pull-in": {
+    "instructionStepsTr": [
+      "Bench'in kenarına otur (veya yere uzanabilirsin).",
+      "Ellerinle bench kenarını arkadan tut, denge için.",
+      "Bacakları öne uzat ve hafifçe yerden kaldır.",
+      "Dizlerini göğse doğru çek; aynı anda gövdeni de hafifçe öne eğ.",
+      "Karın kaslarını tam sık.",
+      "Bacakları kontrollü şekilde geri uzat (yere değmeden tekrarı tekrarla)."
+    ],
+    "tipsTr": [
+      "Alt karın için harika izole hareket.",
+      "Yaygın hata: çok hızlı tekrar. Yavaş ve kontrollü.",
+      "Bench yoksa yere sırtüstü yatarak da yapılabilir (sit-up + reverse crunch karışımı).",
+      "Hanging leg raise'a hazırlık olarak iyi.",
+      "Bel'i koruyarak yap — eğer bel kalkıyorsa hareketi azalt."
+    ],
+    "tips": [
+      "Excellent isolation for the lower abs.",
+      "Common mistake: rushing reps. Go slow and controlled.",
+      "No bench? Lie on the floor instead (a sit-up + reverse crunch hybrid).",
+      "Good lead-in to hanging leg raises.",
+      "Protect the lower back — if it arches off the bench, reduce the range."
+    ]
+  },
+
+  "wide-grip-lat-pulldown": {
+    "instructionStepsTr": [
+      "Lat pulldown makinesine otur. Üst pad bacaklarını sıkıca bastırsın (kalkma engeli).",
+      "Bar'ı omuzdan GENİŞ tut (omuz genişliğinin 1.5 katı kadar). Overhand grip.",
+      "Hafifçe geriye yaslan (10-15 derece). Göğsünü yukarı tut.",
+      "Karnını sık. Kürek kemiklerini geriye/aşağı çek.",
+      "Bar'ı dirseklerinden çekerek üst göğsüne doğru indir. Dirsekler aşağı ve geriye gelmeli.",
+      "Tepede kürek kemiklerini sıkıştır, 1 saniye dur. Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Bar'ı boynun arkasına çekme — omuz sakatlığı riski. Hep ön (göğüs) tarafa.",
+      "Yaygın hata: bar'ı çenenin önüne çekmek. Üst göğse kadar in.",
+      "Lat aktivasyonu için: dirsekleri kürek kemiklerinin altına doğru çek, kollarla değil.",
+      "Pull-up zor olanlar için temel hareket — yeterince güçlendiğinde gerçek pull-up'a geç.",
+      "Geniş grip lat genişliği için, kapalı grip ise kalınlık için."
+    ],
+    "tips": [
+      "Don't pull the bar behind your neck — high shoulder injury risk. Always pull to the front (chest).",
+      "Common mistake: stopping at the chin. Pull all the way to the upper chest.",
+      "For lat activation, drive elbows down and back, not just curl with the arms.",
+      "It's the foundational move when pull-ups are too hard — graduate to real pull-ups when strong enough.",
+      "Wide grip emphasizes lat width, narrower grip emphasizes back thickness."
+    ]
+  },
+
+  "seated-cable-rows": {
+    "instructionStepsTr": [
+      "Cable row makinesine otur. Ayakların platform üzerinde, dizlerin hafif bükülü.",
+      "V-bar veya straight bar'ı tut. Kollar tam uzanık.",
+      "Sırtın notr, gövde DİK (öne aşırı eğilmek yok).",
+      "Karnını sık.",
+      "Bar'ı karnına doğru çek. Dirseklerin geriye, vücuduna yakın çekilsin.",
+      "Tepede kürek kemiklerini sıkıştır, 1 saniye dur. Kontrollü şekilde uzat."
+    ],
+    "tipsTr": [
+      "Yaygın hata: gövdeyi sallamak (cheat). Gövde sabit kalmalı.",
+      "Bar'ı karnın alt kısmına çek — orta sırt (rhomboids + middle traps) için.",
+      "Geriye yaslanma çok abartılırsa hareket lats yerine alt sırt'a kayar.",
+      "Wide grip + ileri seviyede attachment çeşitlemesi yap (rope, V-bar, straight bar).",
+      "Tepede 1 saniyelik 'squeeze' hipertrofi için altın değer."
+    ],
+    "tips": [
+      "Common mistake: rocking the torso (cheating). Stay rigid.",
+      "Pull to the lower belly to hit the mid-back (rhomboids + middle traps).",
+      "Excessive lean-back shifts the work from lats to lower back.",
+      "Rotate attachments (rope, V-bar, straight bar) for variety.",
+      "A 1-second squeeze at peak contraction is gold for hypertrophy."
+    ]
+  },
+
+  "barbell-curl": {
+    "instructionStepsTr": [
+      "Bar'ı ayakta tut, omuz genişliğinde underhand grip (avuçlar yukarı).",
+      "Ayakların kalça genişliğinde, dirsekler vücuda yapışık.",
+      "Karnını sık. Sırtın dik, hafif geriye yaslı değil.",
+      "DİRSEKLERİ SABİT TUTARAK bar'ı omuz hizasına kadar curl et (yukarı çek).",
+      "Tepede biceps'i tam sıkıştır, 1 saniye dur.",
+      "Kontrollü şekilde başlangıca indir. Tam uzanma (negative kontrol)."
+    ],
+    "tipsTr": [
+      "Yaygın hata: dirsekler öne kayar. Bu hareket ön omuz'a kayar, biceps zayıf çalışır.",
+      "Yaygın hata 2: gövdeyi sallamak (cheat curl). Strict dur.",
+      "Negative aşamayı 2-3 saniyede yap, hipertrofi için kritik.",
+      "Bilek nötr olmalı — bar'ı çok dar tutarsa bilek bükülür, geniş tutarsa biceps az çalışır.",
+      "EZ-bar alternatifi bilek için daha rahat."
+    ],
+    "tips": [
+      "Common mistake: elbows drift forward — the load shifts to the front delts and the biceps barely work.",
+      "Common mistake 2: swinging the torso (cheat curls). Stay strict.",
+      "Lower over 2-3 seconds — the negative phase drives hypertrophy.",
+      "Wrists must stay neutral. Too narrow a grip bends the wrists; too wide reduces biceps tension.",
+      "EZ-bar variant is friendlier on the wrists."
+    ]
+  },
+
+  "hammer-curls": {
+    "instructionStepsTr": [
+      "Dumbbell'ları yan tarafında tut, avuç içleri birbirine bakacak (neutral grip).",
+      "Ayakların kalça genişliğinde, dirsekler vücuda yapışık.",
+      "Karnını sık.",
+      "Avuç içleri SABIT (birbirine bakar) kalarak dumbbell'ları omuz hizasına kadar curl et.",
+      "Tepede 1 saniye sıkıştır.",
+      "Kontrollü şekilde başlangıca indir."
+    ],
+    "tipsTr": [
+      "Brachialis (biceps altındaki kas) ve forearm'ı barbell curl'dan daha çok hedefler.",
+      "Kol kalınlığı için ideal — biceps'in altını dolduran brachialis'i geliştirir.",
+      "Tek el aynı anda yapılabilir veya çift el.",
+      "Yaygın hata: dirsek öne kayması. Vücuda yapışık tut.",
+      "Cross-body hammer curl varyasyonu: dumbbell'ı karşı omuza doğru çek (brachialis daha yoğun)."
+    ],
+    "tips": [
+      "Hits the brachialis (the muscle under the biceps) and forearms more than the barbell curl.",
+      "Ideal for arm thickness — builds the brachialis that pushes the biceps up.",
+      "Can be done one arm at a time or both at once.",
+      "Common mistake: elbows drifting forward. Keep them pinned to your sides.",
+      "Cross-body hammer curl variation: pull the dumbbell toward the opposite shoulder for extra brachialis work."
+    ]
+  },
+
+  "side-lateral-raise": {
+    "instructionStepsTr": [
+      "Dumbbell'ları yan tarafında tut, avuç içleri vücuda dönük.",
+      "Ayakların omuz genişliğinde dur. Hafifçe öne eğilmek opsiyonel (ön omuz ile yan omuz dengesi için).",
+      "Dirseklerinin hafif bükülü olduğunu unutma (bütün hareket boyunca).",
+      "Kollarını YANLARA kaldır. Önce DIRSEKLER ile yön ver, eller dirseklerin altında veya hizada kalsın.",
+      "Kollar yere paralel olana kadar kaldır (omuz hizası). Daha yukarı kaldırmak gereksiz, traps devreye girer.",
+      "Kontrollü şekilde başlangıca indir. Tam dipte 1-2 saniye dinlenme yok — hemen sıradaki tekrar."
+    ],
+    "tipsTr": [
+      "Yaygın hata: çok ağır kilo + sallanma. Bu hareket strict olmalı, ağırlığı düşür.",
+      "DIRSEKLER yön versin, ELLER pasif olsun. Bu medial deltoid'i (yan omuz) izole eder.",
+      "Hafif öne eğilmek (15-20 derece) yan omuz'u daha çok hedefler.",
+      "Avuç içleri yere bakmalı — başparmak yukarı dönerse ön omuz devreye girer.",
+      "Yavaş ve kontrollü tempo (3 saniye yukarı, 3 saniye aşağı) hipertrofi için kritik."
+    ],
+    "tips": [
+      "Common mistake: too much weight + swinging. This must be strict — drop the weight.",
+      "Lead with the ELBOWS, hands stay passive. That isolates the medial deltoid (side delt).",
+      "Slight forward lean (15-20°) hits the side delts harder.",
+      "Palms should face the floor — if the thumb rotates up, the front delts take over.",
+      "Slow, controlled tempo (3 seconds up, 3 seconds down) is critical for hypertrophy."
+    ]
+  },
+
+  "incline-dumbbell-press": {
+    "instructionStepsTr": [
+      "Bench'i 30-45 derece eğik ayarla. Çok dik (60+) ön omuz'a kayar.",
+      "Dumbbell'larla bench'e otur, dumbbell'lar uyluklarda.",
+      "Geriye yat, dumbbell'ları omuz hizasına kaldır. Avuç içleri öne dönük.",
+      "Kürek kemiklerini sıkıştır, ayaklar yerde sabit.",
+      "Karnını sık. Dumbbell'ları üst göğsünün üzerine, kontrollü şekilde patlayıcı it.",
+      "Tepede dumbbell'lar BIRBIRINE değecek kadar yakın. Aşağı kontrollü indir; göğsün yan tarafına 90 dereceye kadar."
+    ],
+    "tipsTr": [
+      "Üst göğüs (clavicular pectoralis) için en iyi hareket.",
+      "Yaygın hata: bench'i çok dik (60+) ayarlamak. Bu omuz pres'e dönüşür.",
+      "Yaygın hata 2: dumbbell'ları çok aşağı indirmek. Omuz sakatlığı riski.",
+      "Dumbbell'lar inerken nefes al, iterken nefes ver.",
+      "Tepede dumbbell'lar değdiğinde göğüs sıkma anı çok önemli."
+    ],
+    "tips": [
+      "Best move for the upper chest (clavicular pectoralis).",
+      "Common mistake: setting the bench too steep (60°+). It turns into an overhead press.",
+      "Common mistake 2: lowering the dumbbells too far. High shoulder injury risk.",
+      "Inhale on the way down, exhale on the way up.",
+      "The chest squeeze when the dumbbells touch at the top is what builds the upper chest."
+    ]
+  },
+
+  "dumbbell-bench-press": {
+    "instructionStepsTr": [
+      "Düz bench'e otur, dumbbell'lar uyluklarda.",
+      "Geriye yat, dumbbell'ları sırasıyla omuz hizasına kaldır. Avuç içleri öne dönük.",
+      "Kürek kemiklerini sıkıştır, göğsünü yukarı kaldır.",
+      "Karnını sık.",
+      "Dumbbell'ları kontrollü patlayıcı şekilde göğsünün ortasının üzerine it. Tepede dumbbell'lar birbirine yakın olsun.",
+      "Aşağı kontrollü in — göğsün yan tarafına 90 dereceye kadar (üzerinden geçirmek bench press değil)."
+    ],
+    "tipsTr": [
+      "Barbell bench'e göre daha geniş ROM, dengeleme zorluğu daha fazla.",
+      "Yaygın hata: dumbbell'ları çok aşağı indirip omuz eklemini zorlamak.",
+      "Tek bench ile evde bile yapılabilir. Bilek esnekliği daha iyi gelişir.",
+      "Bilateral asimetri varsa (bir taraf zayıf): tek el dumbbell bench yap, denge.",
+      "Stabilizatör kasları çalıştırır — barbell bench'tan daha çok 'fonksiyonel'."
+    ],
+    "tips": [
+      "Bigger ROM than the barbell bench, plus more stabilization demand.",
+      "Common mistake: lowering dumbbells too far and stressing the shoulder joint.",
+      "Doable at home with just a bench. Builds wrist stability better than the barbell.",
+      "If you have side-to-side imbalance, use one-arm dumbbell bench to fix it.",
+      "Recruits more stabilizers — more 'functional' than the barbell bench."
+    ]
+  },
+
+  "dumbbell-shoulder-press": {
+    "instructionStepsTr": [
+      "Bench'e dik şekilde otur (sırt destekli, dik bir bench açısı).",
+      "Dumbbell'ları omuz hizasına kaldır, avuç içleri öne dönük.",
+      "Karnını sık. Sırtın bench'e dayalı, sıkı.",
+      "Dumbbell'ları yukarı dik şekilde it. Tepede dumbbell'lar birbirine değecek kadar yakın.",
+      "Tepede kollar tam dik (ama dirsekleri tam KİLİTLEME).",
+      "Kontrollü şekilde omuz hizasına geri indir."
+    ],
+    "tipsTr": [
+      "Barbell OHP'ye göre daha güvenli ve doğal hareket aralığı.",
+      "Yaygın hata: aşırı bel kavisi. Sırtın bench'e yapışık olsun.",
+      "Daha zor varyasyon: ayakta dumbbell shoulder press (core daha çok çalışır).",
+      "Avuç içleri öne yerine birbirine bakarsa (neutral grip) omuza daha az stres.",
+      "Arnold press varyasyonu: dumbbell'lar başlangıçta avuç içleri sana, döndürerek yukarı çık."
+    ],
+    "tips": [
+      "Safer and more natural ROM than the barbell OHP.",
+      "Common mistake: excessive lower-back arching. Keep your back glued to the pad.",
+      "Harder variation: standing dumbbell shoulder press (more core work).",
+      "Neutral grip (palms facing each other) is gentler on the shoulders than palms-forward.",
+      "Arnold press variation: start palms-toward-you and rotate as you press up."
+    ]
+  },
+
+  "dumbbell-lunges": {
+    "instructionStepsTr": [
+      "Dumbbell'ları yan taraflarda tut. Ayakların omuz genişliğinde dur.",
+      "Karnını sık, sırtın dik.",
+      "Bir adım öne at (büyük adım). Ön diz 90 derece, arka diz yere yakın bükülsün.",
+      "Ön ayağın topuğundan ittirerek başlangıç pozisyonuna geri kalk.",
+      "Karşı ayakla aynı tekrarı yap.",
+      "Alternatif veya tüm setleri tek bacakla yap (sonra diğer)."
+    ],
+    "tipsTr": [
+      "Ön diz, ayak parmağını GEÇMEMELI — adımı yeterince büyük at.",
+      "Yaygın hata: ön diz içe çökmesi. Aktif olarak dışa it.",
+      "Walking lunge varyasyonu: her tekrarda öne yürüyerek ilerle.",
+      "Reverse lunge (geriye adım) bel/diz için daha rahat — alternatif olarak iyi.",
+      "Tek bacak gücü ve denge için harika; squat'tan daha 'fonksiyonel'."
+    ],
+    "tips": [
+      "The front knee should NOT pass the toes — take a long enough step.",
+      "Common mistake: the front knee caving in. Actively push it out.",
+      "Walking lunge variation: step forward with each rep.",
+      "Reverse lunge (stepping back) is gentler on the knees and lower back.",
+      "Excellent for unilateral leg strength and balance — more 'functional' than the squat."
+    ]
+  },
+
+  "leg-press": {
+    "instructionStepsTr": [
+      "Leg press makinesine otur, sırtın pad'e tam yapışık.",
+      "Ayakların platforma omuz genişliğinde, ortada konumlanmış.",
+      "Güvenlik kelepçelerini aç. Karnını sık.",
+      "Platformu yukarı it (bacak uzansın), ama dizleri TAM KİLİTLEME (eklem stresi).",
+      "Kontrollü şekilde aşağı in — diz 90 dereceye gelene kadar.",
+      "Topuklardan ittirerek tekrar yukarı it."
+    ],
+    "tipsTr": [
+      "Yaygın hata: kalçayı pad'den kaldırmak (aşağıda). Bu bel'i yıpratır. Gerekirse ROM'u kıs.",
+      "Ayak pozisyonu hedefi değiştirir: yüksek (üstte) → glute/hamstring, alçak (altta) → quad.",
+      "Squat'a göre bel'e daha az yük. Bel ağrısı olanlar için iyi alternatif.",
+      "Genç bilateral asimetri varsa tek bacak leg press dene — denge.",
+      "Yarım rep yapma — full ROM (90 derece diz açısı en azından)."
+    ],
+    "tips": [
+      "Common mistake: butt lifting off the pad at the bottom. It wrecks the lower back — reduce ROM if needed.",
+      "Foot position changes the target: high → glutes/hamstrings, low → quads.",
+      "Less spinal load than a squat — good alternative if you have lower-back pain.",
+      "If you have a side-to-side imbalance, try single-leg press to fix it.",
+      "Don't half-rep — full ROM (at least 90° at the knee)."
+    ]
+  },
+
+  "seated-calf-raise": {
+    "instructionStepsTr": [
+      "Seated calf raise makinesine otur. Pad'leri uyluklarına yerleştir.",
+      "Ayak parmaklarını platforma yerleştir, topuklar serbest aşağıda.",
+      "Topuklarını mümkün olduğu kadar AŞAĞI bırak (calf gerilmesi hisset).",
+      "Topuklarını yukarı kaldır — ayak parmak ucuna yüksel.",
+      "Tepede 1 saniye sıkıştır.",
+      "Kontrollü şekilde başlangıca in. Tam ROM önemli."
+    ],
+    "tipsTr": [
+      "Calf'ın iki kısmı vardır: gastrocnemius (ayakta calf raise ile) ve soleus (oturarak ile). Bu hareket SOLEUS'u hedefler.",
+      "Yaygın hata: yarım ROM. Tam aşağı in (gerilme), tam yukarı yüksel.",
+      "Yavaş tempo (3 saniye yukarı, 3 saniye aşağı) calf için kritik — calf yavaş kasılan kas lifleri ağırlıklı.",
+      "Çok yüksek tekrar (15-25) calf için ideal. Düşük tekrar yetmez.",
+      "Standing calf raise ile rotasyon yap — birlikte tüm calf'ı geliştirir."
+    ],
+    "tips": [
+      "The calf has two parts: gastrocnemius (worked by standing raises) and soleus (worked seated). This move targets the SOLEUS.",
+      "Common mistake: half ROM. Drop heels all the way down (stretch), then rise all the way up.",
+      "Slow tempo (3 seconds up, 3 seconds down) is critical — calves are mostly slow-twitch fibers.",
+      "High reps (15-25) work best for calves. Low reps don't cut it.",
+      "Rotate with standing calf raise — together they develop the whole calf."
+    ]
+  },
+
+  "cable-crossover": {
+    "instructionStepsTr": [
+      "Cable makinelerinin tam ortasında dur. Pulley'ler omuz hizasının üstünde.",
+      "Her elinde bir tutamak. Bir adım öne at, hafifçe öne eğil.",
+      "Kolların yana açık, dirsekler hafif bükülü.",
+      "Karnını sık.",
+      "Tutamakları öne ve aşağı doğru getir; göğsünün önünde birleştir.",
+      "Tepede göğsünü tam sık, 1 saniye dur. Kontrollü şekilde başlangıca aç."
+    ],
+    "tipsTr": [
+      "Pulley pozisyonunu değiştirerek farklı göğüs bölgelerini hedefle: yüksek → alt göğüs, alçak → üst göğüs, orta → mid göğüs.",
+      "Dirsek açısı hareket boyunca SABİT olmalı (15-20 derece bükülü).",
+      "Yaygın hata: kolları tam düz tutmak (dirsek sakatlığı) veya çok bükmek (presse dönüşür).",
+      "Cable'ın sabit gerilim sağlaması fly hareketinde dumbbell'a göre üstün — sürekli kasılı kalır.",
+      "Hipertrofi için izole hareket — bench press sonrası yardımcı (accessory) olarak ideal."
+    ],
+    "tips": [
+      "Change pulley height to target different chest regions: high → lower chest, low → upper chest, middle → mid chest.",
+      "Elbow angle must stay CONSTANT through the rep (15-20° bend).",
+      "Common mistake: arms locked straight (elbow strain) or bent too much (becomes a press).",
+      "Cables maintain constant tension — better than dumbbell flyes for keeping the chest under load.",
+      "Pure isolation move — perfect as an accessory after bench press for hypertrophy."
+    ]
+  },
+
+  "cable-crunch": {
+    "instructionStepsTr": [
+      "High cable'a rope ataşmanı tak. Önünde diz çök.",
+      "İpi yüzünün/başının yanına yaklaştır, dirsekleri başına yakın tut.",
+      "Karnını sık. Bu pozisyonda kalçanı sabit tutarak SADECE üst gövdeni öne kıvır (crunch hareketi).",
+      "Karın kaslarını maksimum sıkıştır — gövdeni dizlere doğru getir.",
+      "Tepede 1 saniye sık.",
+      "Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Hareket KARINDAN gelmeli, kollarla değil.",
+      "Yaygın hata: kalçayı geriye kaydırmak. Kalça sabit kalmalı, sadece omurga kıvrılır.",
+      "Ağırlığı her sette artırarak progressive overload uygula — karın da hipertrofiye yanıt verir.",
+      "Eklem yastığı varsa diz altına koy.",
+      "Eve uygun değil ama gym'de en etkili karın hareketlerinden."
+    ],
+    "tips": [
+      "The movement must come from the ABS, not the arms.",
+      "Common mistake: hips drifting back. Hips stay fixed — only the spine flexes.",
+      "Apply progressive overload — abs grow with weight, just like other muscles.",
+      "Put a pad under your knees if needed.",
+      "Not a home move, but one of the best ab exercises in the gym."
+    ]
+  },
+
+  "triceps-pushdown": {
+    "instructionStepsTr": [
+      "High cable'a rope veya straight bar ataşmanı tak.",
+      "Ayakların kalça genişliğinde, hafifçe öne eğil.",
+      "Tutamakları omuz hizasında tut. Dirsekler vücuduna YAPIŞIK.",
+      "Karnını sık.",
+      "Sadece ön kollarını uzatarak ataşmanı aşağı it. Dirsekler SABİT kalmalı.",
+      "Tepede triceps'i tam sık, 1 saniye dur. Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Yaygın hata: dirseklerin öne kayması. Bu omuz hareketine dönüşür, triceps zayıf çalışır.",
+      "Yaygın hata 2: gövdeyi sallamak. Sabit dur.",
+      "Rope vs bar: rope sonunda eller ayrılır, daha tam kasılma. Bar daha ağır kilo izin verir.",
+      "Reverse grip (avuç içleri yukarı) varyasyon — uzun başı vurur.",
+      "Triceps'in 3 başı var; pushdown medial + lateral, overhead extension long head için."
+    ],
+    "tips": [
+      "Common mistake: elbows drifting forward. It becomes a shoulder move and the triceps barely work.",
+      "Common mistake 2: rocking the torso. Stay rigid.",
+      "Rope vs bar: rope splits at the bottom for fuller contraction; bar lets you load heavier.",
+      "Reverse grip (palms up) variation hits the long head more.",
+      "Triceps has 3 heads — pushdowns hit medial + lateral; overhead extensions hit the long head."
+    ]
+  },
+
+  "face-pull": {
+    "instructionStepsTr": [
+      "Cable'ı yüz hizasına ayarla. Rope ataşmanı tak.",
+      "İpi her elinle, başparmaklar dışarı bakacak şekilde tut.",
+      "Bir adım geri çekil, kabloda gerilim olsun. Kollar tam uzanık öne.",
+      "Karnını sık. Kürek kemiklerini geriye çek.",
+      "İpi YÜZÜNE doğru çek — sonunda ELLER YANLARA AYRILMALI (gözlerin yanı).",
+      "Tepede kürek kemiklerini sıkıştır. Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Postür ve omuz sağlığı için ALTIN değer — masada uzun saat oturanlar için must-have.",
+      "Yaygın hata: kabloyu sadece geriye çekmek (row gibi). Eller dışarı AYRILMALI.",
+      "Hafif kilo + yüksek tekrar (15-20) en etkili. Ağır kilo formu bozar.",
+      "Rear delt (arka omuz) ve rotator cuff'ı geliştirir; OHP/bench press için stabilizatör.",
+      "Her antrenmana 2-3 set face pull ekle, omuz sağlığın bir 6 ay sonra fark eder."
+    ],
+    "tips": [
+      "GOLD for posture and shoulder health — a must for desk workers.",
+      "Common mistake: just pulling the rope back (like a row). Hands must SPLIT outward at the end.",
+      "Light weight + high reps (15-20) work best. Heavy weight ruins the form.",
+      "Builds rear delts and rotator cuff — a stabilizer for OHP and bench.",
+      "Add 2-3 sets every workout — your shoulder health in 6 months will thank you."
+    ]
+  },
+
+  "ez-bar-skullcrusher": {
+    "instructionStepsTr": [
+      "Bench'e sırtüstü yat. EZ bar'ı omuz genişliğinde, underhand grip ile tut.",
+      "Bar'ı kollar tam dik, omuzların üzerinde başlangıç pozisyonuna kaldır.",
+      "DIRSEKLERI SABIT TUT (omuza dik konumda). Karnını sık.",
+      "Sadece ön kollarını bükerek bar'ı alın hizasına / başın hemen üstüne kontrollü indir.",
+      "Triceps'in maksimum gerildiğini hisset.",
+      "Triceps'i sıkarak bar'ı başlangıç pozisyonuna geri it."
+    ],
+    "tipsTr": [
+      "İsmi 'kafatası kıran' — gerçekten dikkatli ol. Form bozulursa bar yüzüne iner.",
+      "Yaygın hata: dirseklerin geriye kaymasını izin vermek. Dirsekler omuza dik kalsın.",
+      "EZ bar bilek için düz bardan rahat. Bilek ağrın varsa EZ tercih.",
+      "Triceps'in uzun başı için ideal — overhead pozisyonda zayıflar.",
+      "Decline bench'te yapılabilir (decline skullcrusher) — daha güç gelişimi."
+    ],
+    "tips": [
+      "Named 'skull crusher' — be careful. If form breaks, the bar lands on your face.",
+      "Common mistake: letting elbows drift back. Keep them stacked over the shoulders.",
+      "EZ bar is friendlier on the wrists than a straight bar. Use it if you have wrist pain.",
+      "Ideal for the long head of the triceps — it stretches in the overhead position.",
+      "Can be done on a decline bench (decline skull crusher) for more strength gains."
+    ]
+  },
+
+  "tricep-dumbbell-kickback": {
+    "instructionStepsTr": [
+      "Bir bench'e bir el ve aynı taraf diz konularak destekli ol. Diğer elinde dumbbell.",
+      "Sırtın yere paralel veya hafif eğik. Karnını sık.",
+      "Üst kolu vücuda paralel (yere paralel) tutarak SABİT TUT.",
+      "Dirseğini bükerek dumbbell'ı yukarı kaldır.",
+      "Sadece ön kolu hareket eder; dirseği uzatarak dumbbell'ı geriye/yukarı kaldır.",
+      "Tepede triceps'i tam sıkıştır. Kontrollü indir."
+    ],
+    "tipsTr": [
+      "Hafif kilo ile başla — hareket küçük ama etkili.",
+      "Yaygın hata: üst kolu hareket ettirmek (omuz devreye girer). Üst kol SABİT.",
+      "Tepede ('sıkışma' anında) maksimum kasılma — kalitesi tepe noktada belli olur.",
+      "İki el aynı anda yapılabilir (bent over double kickback) — bench gerek yok.",
+      "Triceps'i izole eden en saf hareketlerden biri."
+    ],
+    "tips": [
+      "Start light — small movement but very effective.",
+      "Common mistake: moving the upper arm (the shoulder takes over). Upper arm stays FIXED.",
+      "Max contraction at the top — quality is judged at the peak of the rep.",
+      "Can be done two-arm (bent-over double kickback) without a bench.",
+      "One of the purest triceps isolation moves."
+    ]
+  },
+
+  "machine-bench-press": {
+    "instructionStepsTr": [
+      "Makineye otur, sırtın pad'e tam yapışık. Tutamaklar göğüs ortasının hizasında olmalı (gerekirse koltuğu ayarla).",
+      "Kürek kemiklerini sıkıştır ve aşağı çek; göğsünü yukarı kaldır.",
+      "Karnını sık. Ayaklar yerde sabit.",
+      "Tutamakları kontrollü şekilde patlayıcı it. Tepede dirsekleri tam KİLİTLEME (hafif bükülü kal).",
+      "Kontrollü şekilde göğüs hizasına geri çek — ön kol yere dik kalsın.",
+      "Set boyunca kürek kemiklerini sürekli sıkıştır, gevşetme."
+    ],
+    "tipsTr": [
+      "Bench press'e başlangıç olarak ideal — denge yok, sadece itme tekniği öğrenilir.",
+      "Yaygın hata: koltuk ayarsız bırakmak. Tutamaklar göğsün ortasında olmalı, omuz veya karın hizasında değil.",
+      "Sakatlık dönüşünde (omuz veya bilek) güvenli alternatif — dengeleme stresi yok.",
+      "Free-weight bench'tan stabilizatör kasları daha az çalışır; tek başına yeterli değil.",
+      "Tek el versiyonu yapabilirsen denge ve core ekler."
+    ],
+    "tips": [
+      "Great starting point for bench press — no balance to manage, just learn the press pattern.",
+      "Common mistake: not adjusting the seat. Handles must align with mid-chest, not shoulder or stomach.",
+      "Safe alternative when returning from a shoulder or wrist injury — no stabilization stress.",
+      "Recruits fewer stabilizers than free-weight bench — don't rely on it alone.",
+      "Single-arm version adds balance and core work."
+    ]
+  },
+
+  "decline-barbell-bench-press": {
+    "instructionStepsTr": [
+      "Decline bench'e (15-30 derece aşağı eğik) yat. Ayaklarını destek pad'lerine sabitle.",
+      "Bar'ı omuzdan biraz geniş tut. Kürek kemiklerini sıkıştır.",
+      "Bar'ı rack'ten çıkar, kollar tam dik.",
+      "Bar'ı alt göğsüne (meme uçlarının altı) kontrollü indir. Dirsekler 45-70 derece açıda.",
+      "Göğse hafifçe değdir, patlayıcı şekilde başlangıca it.",
+      "Tepede kollar dik ama dirsek kilit yok — kontrollü indirme tekrarla."
+    ],
+    "tipsTr": [
+      "Alt göğüs (sternal pectoralis) için en yoğun hareket.",
+      "Spotter şart — decline pozisyonda bar'ı kafaya bırakırsan ciddi sakatlık.",
+      "Yaygın hata: bar'ı çok aşağı (göbeğe doğru) indirmek. Alt göğse, meme altına in.",
+      "Düz bench'e göre omuz eklemine daha az stres — omuz ağrısı olanlar için iyi alternatif.",
+      "Üst göğüs daha az çalışır; incline ve decline'ı birlikte programa al."
+    ],
+    "tips": [
+      "Most intense move for the lower chest (sternal pectoralis).",
+      "A spotter is essential — drop the bar onto your face on a decline and it's bad.",
+      "Common mistake: lowering the bar too low (to the belly). Aim for the lower chest, just below the nipples.",
+      "Less shoulder-joint stress than flat bench — a good alternative if you have shoulder pain.",
+      "Hits the upper chest less — pair incline and decline in your program."
+    ]
+  },
+
+  "dumbbell-flyes": {
+    "instructionStepsTr": [
+      "Düz bench'e sırtüstü yat. Dumbbell'lar göğsünün üstünde, kollar dik, avuç içleri birbirine bakar.",
+      "Dirseklerini hafif bük (15-20 derece) ve bu açıyı SABİT TUT.",
+      "Karnını sık. Kürek kemiklerini sıkıştır.",
+      "Dumbbell'ları yarım daire çizerek YANLARA aç. Göğsünde gerilme hissedene kadar in.",
+      "Dumbbell'lar omuz hizasının altına inmesin (omuz sakatlığı).",
+      "Göğsünü sıkarak dumbbell'ları başlangıç pozisyonuna geri kapat. Tepede dumbbell'lar birbirine değecek kadar yakın."
+    ],
+    "tipsTr": [
+      "Hareket KOLDAN değil GÖĞÜSTEN gelir — dirsek açısı sabit kalmalı.",
+      "Yaygın hata: dirsekleri çok bükmek — bu hareket fly değil, geniş açılı press olur.",
+      "Yaygın hata 2: çok ağır kilo. Fly hareketi izole çalışma; ağırlığı düşür, hissi öne al.",
+      "Cable crossover'a göre dipte daha çok gerilme; tepede daha az tension.",
+      "Bench press'ten sonra accessory olarak 3 set 10-12 tekrar idealdir."
+    ],
+    "tips": [
+      "The movement comes from the CHEST, not the arms — the elbow angle must stay constant.",
+      "Common mistake: bending the elbows too much — that turns it into a wide-grip press.",
+      "Common mistake 2: too much weight. Flyes are isolation — drop the weight and chase the squeeze.",
+      "More stretch at the bottom than cable crossovers, but less tension at the top.",
+      "3 sets of 10-12 as an accessory after bench press is ideal."
+    ]
+  },
+
+  "one-arm-dumbbell-row": {
+    "instructionStepsTr": [
+      "Bench'in yan tarafına bir el ve aynı taraf diz koyarak destekli ol. Diğer ayağın yere düz bassın.",
+      "Diğer eline dumbbell al, kol tam aşağı uzanık.",
+      "Sırtın yere paralel veya hafif eğik. Sırt notr.",
+      "Karnını sık. Kürek kemiğini geriye çek.",
+      "Dumbbell'ı dirseğinden çekerek karnın yan tarafına / kalça hizasına kadar kaldır. Dirsek vücuduna yakın geçsin.",
+      "Tepede kürek kemiğini sıkıştır, 1 saniye dur. Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Tek el yaptığın için her tarafı eşit çalıştırırsın — bilateral asimetri düzeltir.",
+      "Yaygın hata: gövdeyi her tekrarda döndürmek. Stabil kal, sadece kol hareket eder.",
+      "Dirseği yukarı çek (rope çekiyormuş gibi), bar yapma.",
+      "Sırt iyi geliştirmek için temel hareketlerden — barbell row alternatifi.",
+      "Daha geniş ROM için bench'in dışından (yan değil) destek al."
+    ],
+    "tips": [
+      "Working one side at a time fixes side-to-side imbalances.",
+      "Common mistake: rotating the torso every rep. Stay stable — only the arm moves.",
+      "Pull the elbow up (like pulling a rope), don't curl with the bicep.",
+      "A foundational back move — alternative to the barbell row.",
+      "For bigger ROM, brace from the side of the bench rather than the top."
+    ]
+  },
+
+  "preacher-curl": {
+    "instructionStepsTr": [
+      "Preacher bench'e otur. Üst kollarını pad'in üzerine yerleştir; koltukaltı pad'in üst kenarına yapışık olsun.",
+      "EZ bar veya dumbbell'ı underhand grip ile tut. Kollar tam aşağı uzanık.",
+      "Karnını sık.",
+      "Bar'ı omuza doğru curl et. Üst kolların pad'den KALKMAZ.",
+      "Tepede biceps'i tam sıkıştır. 1 saniye dur.",
+      "Kontrollü şekilde başlangıca uzat. Kollar tam uzansın ama dirseği aşırı kilitleme (eklem stresi)."
+    ],
+    "tipsTr": [
+      "Yaygın hata: kolları tam uzatmamak. Tam uzanma biceps'in alt kısmını geliştirir.",
+      "Pad'in üzerinde dirsekler değil, koltukaltı tam yapışık olmalı.",
+      "Hafif kilo — preacher curl'da cheat yapamazsın, momentum yok.",
+      "Bilek bükülmesini izleme — düz tut, EZ bar bunu kolaylaştırır.",
+      "Spider curl varyasyonu pad'in DIK tarafında yapılır, daha izole — denemeye değer."
+    ],
+    "tips": [
+      "Common mistake: not fully extending. Full extension develops the lower biceps.",
+      "It's the armpit that should rest on the pad — not just the elbow.",
+      "Use light weight — preacher curls don't allow cheating; there's no momentum.",
+      "Watch for wrist bending — keep it straight; an EZ bar helps.",
+      "Spider curl variation uses the vertical side of the pad — even more isolated, worth trying."
+    ]
+  },
+
+  "concentration-curls": {
+    "instructionStepsTr": [
+      "Bench'e otur, bacaklarını omuz genişliğinden açık tut.",
+      "Tek elinde dumbbell, kolu bacağının iç tarafından aşağı uzat. Dirsek diz iç kenarına yaslanır.",
+      "Diğer elinle diğer dize destek ol. Karnını sık.",
+      "Dumbbell'ı OMUZA doğru curl et. Sadece ön kol hareket eder, üst kol sabit.",
+      "Tepede biceps'in tepe noktasını ('peak') sık. 1-2 saniye dur.",
+      "Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Biceps'in 'peak'ini (tepe noktası) için en iyi hareket — top-end kasılma maksimum.",
+      "Yaygın hata: gövdeyi sallamak. Otururken bile cheat yapmak mümkün — strict dur.",
+      "Hafif kilo + yavaş tempo, hipertrofi için kritik.",
+      "Tek el yaptığın için zayıf tarafı düzeltebilirsin (bilateral imbalance).",
+      "Arnold'un favori biceps hareketlerinden biri."
+    ],
+    "tips": [
+      "Best move for the biceps 'peak' — max contraction at the top.",
+      "Common mistake: swinging the torso. You can cheat even seated — stay strict.",
+      "Light weight + slow tempo is critical for hypertrophy.",
+      "Working one arm at a time fixes weak-side imbalance.",
+      "One of Arnold's favorite biceps exercises."
+    ]
+  },
+
+  "ez-bar-curl": {
+    "instructionStepsTr": [
+      "EZ bar'ı ayakta tut. Underhand grip, eller bar'ın iç köşelerine (W eğimine) yerleştir.",
+      "Ayakların kalça genişliğinde, dirsekler vücuda yapışık.",
+      "Karnını sık. Sırtın dik.",
+      "DIRSEKLERI SABIT TUTARAK bar'ı omuz hizasına curl et.",
+      "Tepede biceps'i sıkıştır, 1 saniye dur.",
+      "Kontrollü şekilde başlangıca indir. Tam uzanma."
+    ],
+    "tipsTr": [
+      "Düz bardan bilek için çok daha rahat — bilek ağrısı olanlar için ideal.",
+      "Yaygın hata: bar'ın geniş köşesini tutmak (bilek bükülür). İç köşeyi tut.",
+      "EZ bar grip açısı brachialis ve biceps'i biraz farklı oranda çalıştırır — barbell curl ile rotasyon yap.",
+      "Yaygın hata 2: dirsekleri öne kaymak. Vücuda yapışık tut.",
+      "Reverse grip (overhand) varyasyonu forearm gelişimine harika."
+    ],
+    "tips": [
+      "Much friendlier on the wrists than a straight bar — ideal if you have wrist pain.",
+      "Common mistake: gripping the wide angle (bends the wrists). Use the inner narrower angle.",
+      "EZ bar grip angle hits brachialis vs biceps in a slightly different ratio — rotate with barbell curl.",
+      "Common mistake 2: elbows drifting forward. Keep them pinned.",
+      "Reverse grip (overhand) variation is excellent for forearm development."
+    ]
+  },
+
+  "spider-curl": {
+    "instructionStepsTr": [
+      "Incline bench'i (45 derece) ters çevir. Göğsünü pad'e yatır, eğik bench'in üst tarafından sallandır.",
+      "Dumbbell veya EZ bar'ı her iki elinde tut. Kollar pad'in altından aşağı doğru sallanık.",
+      "Karnını sık.",
+      "Bar'ı omuzlara doğru curl et. Üst kollar SABİT, sadece ön kollar hareket eder.",
+      "Tepede biceps'i sıkıştır, 1 saniye dur.",
+      "Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Preacher curl'dan bile daha izole — momentum sıfır.",
+      "Biceps'in alt kısmını ve peak'ini birden vurur.",
+      "Yaygın hata: bench'i tam ayarlamamak. Üst kolların yere DİK olması lazım.",
+      "Hafif kilo şart — başka türlü forman bozulur.",
+      "Spider curl + concentration curl combo biceps detayı için mükemmel."
+    ],
+    "tips": [
+      "Even more isolated than the preacher curl — zero momentum.",
+      "Hits both the lower biceps and the peak.",
+      "Common mistake: bench not set right. Upper arms must hang VERTICAL.",
+      "Light weight is essential — otherwise the form collapses.",
+      "Spider curl + concentration curl combo is gold for biceps detail."
+    ]
+  },
+
+  "alternate-incline-dumbbell-curl": {
+    "instructionStepsTr": [
+      "Incline bench'i 45-60 derece ayarla. Bench'e sırtüstü yatık otur.",
+      "Dumbbell'lar yan tarafında sallanık, avuç içleri vücuda dönük (neutral grip).",
+      "Karnını sık. Sırtın bench'e yapışık.",
+      "Bir dumbbell'ı yukarı curl etmeye başla; aynı zamanda bilek döndür (avuç içi sana baksın - supinate).",
+      "Tepede biceps'i sıkıştır.",
+      "Kontrollü indir, diğer kolu yukarı curl et. Alterne devam et."
+    ],
+    "tipsTr": [
+      "Bench açısı biceps'in uzun başını gerer — STANDING curl'dan daha çok stretch.",
+      "Yaygın hata: bench açısını çok dik tutmak. 45-60 derece optimal.",
+      "Supination (bilek döndürme) biceps'in tam kasılmasını sağlar — düz curl yapma.",
+      "Tek el aynı anda hareket — strict dur, gövdeyi sallamayın.",
+      "Standing dumbbell curl ile rotasyon yap, biceps'i farklı açıdan vur."
+    ],
+    "tips": [
+      "Bench angle stretches the long head of the biceps — bigger stretch than standing curls.",
+      "Common mistake: bench too steep. 45-60° is optimal.",
+      "Supination (rotating the wrist) gets the biceps fully contracted — don't just hammer-curl them up.",
+      "Working one arm at a time — stay strict, no torso swing.",
+      "Rotate with standing dumbbell curls to hit the biceps from a different angle."
+    ]
+  },
+
+  "overhead-cable-curl": {
+    "instructionStepsTr": [
+      "İki tane high cable kullanırsın. Her elinde D-handle.",
+      "Cable'ların ortasında dur. Kollarını YANLARA omuz hizasında uzat (T pozisyonu).",
+      "Avuç içleri yukarı (underhand grip).",
+      "Karnını sık. Üst kollar SABİT, yere paralel kalır.",
+      "Sadece ön kollarını bükerek tutamakları başına doğru curl et.",
+      "Tepede biceps'i tam sık (peak). Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Klasik 'most muscular' pose ile aynı kasılma — biceps tepesi maksimum vurulur.",
+      "Cable sürekli gerilim sağlar; dumbbell ile aynı pozisyon yapamazsın.",
+      "Yaygın hata: üst kolu aşağı bırakmak. Üst kol yere PARALEL kalmalı.",
+      "Hafif kilo + yüksek tekrar (12-15) — bu izole hareketin doğası.",
+      "Ayna karşısında yap; biceps peak'ini kontrol etmek motivasyon verir."
+    ],
+    "tips": [
+      "Same contraction as the classic 'most muscular' pose — max biceps peak.",
+      "Cables keep constant tension; dumbbells can't replicate this position.",
+      "Common mistake: dropping the upper arm. Keep it PARALLEL to the floor.",
+      "Light weight + high reps (12-15) — that's the nature of this isolation move.",
+      "Do it in front of a mirror — watching your biceps peak is great motivation."
+    ]
+  },
+
+  "seated-bent-over-rear-delt-raise": {
+    "instructionStepsTr": [
+      "Bench'e otur. Ayaklar yerde sabit, dizler 90 derece.",
+      "Gövdeni ÖNE EĞİL — göğsün uyluklarına neredeyse değecek kadar.",
+      "Dumbbell'ları her elinde tut, ayakların yanında sallanık. Avuç içleri birbirine bakar.",
+      "Karnını sık. Dirseklerin hafif bükülü kalsın.",
+      "Dumbbell'ları YANLARA kaldır — omuz hizasına kadar. Kürek kemiklerini sıkıştır.",
+      "Tepede 1 saniye sık. Kontrollü şekilde başlangıca indir."
+    ],
+    "tipsTr": [
+      "Rear delt (arka omuz) için en izole hareket — bu kası unutursan postürün bozulur.",
+      "Yaygın hata: gövdeyi tekrar boyunca yukarı kaldırmak (cheat). Sabit, eğik kal.",
+      "Yaygın hata 2: çok ağır kilo + dirsekleri çok bükmek. Bu row'a dönüşür.",
+      "Hafif kilo + yüksek tekrar (15-20) ideal.",
+      "Cable rear delt fly + bu hareket = arka omuz tam paketi."
+    ],
+    "tips": [
+      "Most isolated move for the rear delts — neglect this muscle and your posture suffers.",
+      "Common mistake: standing up between reps (cheating). Stay bent over.",
+      "Common mistake 2: too much weight + bending the elbows too much. It becomes a row.",
+      "Light weight + high reps (15-20) is ideal.",
+      "Cable rear delt fly + this move = a complete rear-delt package."
+    ]
+  },
+
+  "cable-rear-delt-fly": {
+    "instructionStepsTr": [
+      "İki cable kulesi arasında dur. High pulley'leri kullan, D-handle veya tutucu olmadan kabloyu doğrudan kavra.",
+      "Sağ elinle SOL cable, sol elinle SAĞ cable — kollar göğsün önünde çapraz.",
+      "Hafifçe öne eğil. Karnını sık.",
+      "Dirseklerin hafif bükülü, kollarını YANLARA aç. Cable'lar göğsün önünden geriye dağılsın.",
+      "Tepede kürek kemiklerini sıkıştır, 1 saniye dur.",
+      "Kontrollü şekilde başlangıca getir."
+    ],
+    "tipsTr": [
+      "Cable sürekli gerilim sağlar — dumbbell rear delt raise'a göre tepede daha çok kasılma.",
+      "Yaygın hata: kollar tam düz. Dirseklerin hafif bükülü kalmalı.",
+      "Yaygın hata 2: bel'i kavislemek. Hafif öne eğil ama bel notr.",
+      "Postür için altın değer — özellikle masada çalışanlar için.",
+      "Set sayısı yüksek (3-4 set, 12-15 tekrar) hipertrofi için ideal."
+    ],
+    "tips": [
+      "Cables keep constant tension — more peak contraction than dumbbell rear-delt raises.",
+      "Common mistake: arms locked straight. Keep a slight elbow bend.",
+      "Common mistake 2: lower-back arching. Lean forward slightly but keep the spine neutral.",
+      "Gold for posture — especially for desk workers.",
+      "High volume (3-4 sets of 12-15) is ideal for hypertrophy."
+    ]
+  },
+
+  "seated-leg-curl": {
+    "instructionStepsTr": [
+      "Seated leg curl makinesine otur. Sırtın pad'e yapışık.",
+      "Diz arkası sandalyenin kenarına yaslı, ayaklar pad'in üzerinde uzanık.",
+      "Lap pad'i uyluklarına sıkıca indir.",
+      "Karnını sık.",
+      "Topuklarını GERİYE çek — pad'i koltuğunun altına doğru getir. Hamstring'leri tam kasılı.",
+      "Dipte 1 saniye sıkıştır. Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Hamstring'in tüm kısımlarını oturarak vurursun — yatarak biceps femoris ağırlıklı.",
+      "Yaygın hata: yarım ROM. Tam aşağı çek (max kasılma), tam yukarı uzat (max stretch).",
+      "Dur (pause) tepede 1 saniye yap, hipertrofi gelir.",
+      "Tek bacak versiyonu yaparsan asimetri düzeltebilirsin.",
+      "Lying leg curl ile rotasyon yap — birlikte hamstring'i tam geliştirir."
+    ],
+    "tips": [
+      "Hits all the hamstring heads from a seated position — lying targets biceps femoris more.",
+      "Common mistake: half ROM. Full curl down (max contraction), full extension up (max stretch).",
+      "A 1-second squeeze at the bottom drives hypertrophy.",
+      "Single-leg version fixes side-to-side imbalance.",
+      "Rotate with lying leg curls — together they fully develop the hamstrings."
+    ]
+  },
+
+  "lying-leg-curls": {
+    "instructionStepsTr": [
+      "Lying leg curl makinesine yüzükoyun yat. Diz arkası pad'in altında, sandalyenin kenarına hizalı.",
+      "Topuklarını ankle pad'in altına yerleştir.",
+      "Karnını sık. Tutamakları kavra.",
+      "Topuklarını YUKARI ÇEK — kalçana doğru. Hamstring'i tam kasılı.",
+      "Tepede 1 saniye sıkıştır.",
+      "Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Hamstring'in 3 başını birlikte çalıştırır.",
+      "Yaygın hata: kalçayı yukarı kaldırmak (cheat). Kalça pad'e yapışık kalsın.",
+      "Yarım rep yapma — full ROM kritik.",
+      "Yavaş negative (3 saniye uzat) hipertrofi için altın değer.",
+      "Tek bacak yaparak zayıf tarafı düzeltebilirsin."
+    ],
+    "tips": [
+      "Works all 3 heads of the hamstring together.",
+      "Common mistake: lifting the hips off the pad (cheating). Hips stay glued.",
+      "Don't half-rep — full ROM is critical.",
+      "Slow negative (3 seconds to extend) is gold for hypertrophy.",
+      "Single-leg work fixes weak-side imbalance."
+    ]
+  },
+
+  "leg-extensions": {
+    "instructionStepsTr": [
+      "Leg extension makinesine otur. Sırtın pad'e yapışık.",
+      "Diz arkası sandalyenin kenarına hizalı; ankle pad ayak bileğinin hemen üstünde.",
+      "Tutamakları kavra. Karnını sık.",
+      "Bacaklarını DÜZ uzat — pad'i yukarı kaldır. Quad'ları tam kasılı.",
+      "Tepede 1 saniye sıkıştır.",
+      "Kontrollü şekilde başlangıca in. Ağırlığı yere değdirme (sürekli gerilim)."
+    ],
+    "tipsTr": [
+      "Quad izolasyonu için en iyi hareket — squat'a accessory.",
+      "Yaygın hata: çok ağır kilo + tekme atmak (cheat). Kontrollü hareket et.",
+      "Diz problemleri varsa dikkatli — ROM'u kıs (tam uzatma yapma).",
+      "Tek bacak versiyonu asimetri düzeltir.",
+      "Squat sonrası 3 set 12-15 tekrar quad gelişimi için altın."
+    ],
+    "tips": [
+      "Best isolation move for the quads — accessory to squats.",
+      "Common mistake: too much weight + kicking (cheating). Stay controlled.",
+      "If you have knee issues, be careful — limit ROM (don't full-extend).",
+      "Single-leg version fixes side-to-side imbalance.",
+      "3 sets of 12-15 after squats is gold for quad development."
+    ]
+  },
+
+  "standing-calf-raises": {
+    "instructionStepsTr": [
+      "Standing calf raise makinesine veya bir basamağa çık. Pad'leri omuzlarına yerleştir (makine).",
+      "Ayak parmaklarını platforma yerleştir, topuklar serbest aşağıda.",
+      "Karnını sık. Bacakları DÜZ tut (hafif bükülü değil).",
+      "Topuklarını mümkün olduğu kadar AŞAĞI bırak — calf'ta gerilme hissed.",
+      "Topuklarını yukarı kaldır — ayak parmak ucuna yüksel. Tepede 1 saniye sıkıştır.",
+      "Kontrollü şekilde başlangıca in."
+    ],
+    "tipsTr": [
+      "Bu hareket gastrocnemius'u (calf'ın iki başlı üst kası) hedefler. Seated calf raise soleus için.",
+      "Yaygın hata: dizleri bükmek. Düz bacak gastrocnemius için kritik.",
+      "Tam ROM (tam aşağı, tam yukarı) hipertrofi için gerekli.",
+      "Yüksek tekrar (15-25) calf için optimal — düşük tekrar yetmez.",
+      "Tek bacakla kendi vücut ağırlığınla bile yapılabilir (basamakta)."
+    ],
+    "tips": [
+      "Targets the gastrocnemius (the visible double-headed calf muscle). Seated raises hit the soleus.",
+      "Common mistake: bending the knees. Straight legs are critical for the gastrocnemius.",
+      "Full ROM (all the way down, all the way up) is required for hypertrophy.",
+      "High reps (15-25) are optimal for calves — low reps don't cut it.",
+      "Can be done with bodyweight alone, single-leg on a step."
+    ]
+  },
+
+  "sumo-deadlift": {
+    "instructionStepsTr": [
+      "Bar yere konumlanmış. Ayaklarını ÇOK GENİŞ aç — omuz genişliğinin 1.5-2 katı, parmak uçların DIŞA dönük (45 derece).",
+      "Bar tam ayakların ortasında olmalı.",
+      "Kalçandan bük, dizlerin parmak uçlarıyla aynı yönü göstersin.",
+      "Bar'ı bacakların İÇINDE, omuz genişliğinde tut (overhand veya mixed grip).",
+      "Sırtın notr, göğüs yukarı, kürek kemikleri bar üzerinde kilitli.",
+      "Karnını sık, bar'ı dik bir çizgide kaldır. Diz ve kalça aynı anda açılır."
+    ],
+    "tipsTr": [
+      "Klasik (conventional) deadlift'ten daha kısa ROM, ama kalça ve adductor (iç bacak) daha çok çalışır.",
+      "Esnek kalça/adduktör mobilitesi gerektirir — yetersizse genişliği azalt.",
+      "Yaygın hata: dizler içe çökmesi. Aktif olarak DIŞA it (parmak uçlarıyla aynı yön).",
+      "Bel için klasik deadlift'ten genelde daha az stres — bel ağrısı varsa sumo dene.",
+      "Powerlifting'te yaygın — kişiye göre 'klasik mı sumo mu' tercih edilir, anatomi belirler."
+    ],
+    "tips": [
+      "Shorter ROM than conventional deadlift, but more hip and adductor (inner thigh) work.",
+      "Requires good hip/adductor mobility — narrow the stance if you're tight.",
+      "Common mistake: knees caving in. Actively push them OUT (in line with toes).",
+      "Generally less lower-back stress than conventional — try sumo if you have back pain.",
+      "Common in powerlifting — conventional vs sumo is individual; your anatomy decides."
+    ]
+  },
+
+  "reverse-grip-triceps-pushdown": {
+    "instructionStepsTr": [
+      "High cable'a düz bar ataşmanı tak.",
+      "Bar'ı UNDERHAND grip ile (avuç içleri yukarı) omuz genişliğinde tut.",
+      "Ayakların kalça genişliğinde, dirsekler vücuda yapışık.",
+      "Karnını sık.",
+      "Sadece ön kollarını uzatarak bar'ı aşağı it. Dirsekler SABİT.",
+      "Tepede triceps'in (özellikle UZUN BAŞ) kasılmasını hisset. Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Klasik pushdown medial + lateral baş; reverse grip UZUN BAŞ'a daha çok vurur.",
+      "Yaygın hata: çok ağır kilo. Reverse grip bilek için zor — hafif başla.",
+      "Bilek nötr olmalı; geriye kıvrılırsa sakatlık.",
+      "Triceps'in 3 başı için: pushdown + reverse pushdown + overhead extension trio'su.",
+      "Eğer eller kayar veya bilek ağrırsa, EZ bar versiyonu dene."
+    ],
+    "tips": [
+      "Standard pushdown hits medial + lateral; reverse grip targets the LONG HEAD more.",
+      "Common mistake: too much weight. Reverse grip is tough on the wrists — start light.",
+      "Wrists must stay neutral; bending back risks injury.",
+      "For all 3 triceps heads: pushdown + reverse pushdown + overhead extension trio.",
+      "If your hands slip or wrists hurt, try the EZ bar version."
+    ]
+  },
+
+  "single-leg-glute-bridge": {
+    "instructionStepsTr": [
+      "Yere sırtüstü yat. Bir bacağını dizden bük, ayağını yere düz bas.",
+      "Diğer bacağını DÜZ olarak yukarı kaldır (yere paralele yakın olabilir).",
+      "Ellerin yanlarda, avuçlar yere bakar.",
+      "Karnını sık. Çenen içeride.",
+      "Yerdeki ayağın topuğundan ittirerek kalçanı yukarı kaldır. Tepede vücudun düz çizgi (omuzdan diz).",
+      "Tepede glute'u 1-2 saniye sıkıştır. Kontrollü şekilde başlangıca in."
+    ],
+    "tipsTr": [
+      "Tek bacak ile her tarafı eşit çalıştırırsın — bilateral asimetri düzeltir.",
+      "Yaygın hata: bel'i kavislemek. Karnını sık ve glute'tan kaldır.",
+      "Hafif başla — yere ekipman gerek yok, vücut ağırlığı ile başla.",
+      "İlerledikçe: ayağı bench'e koy (single leg hip thrust) veya ayağa ağırlık koy.",
+      "Glute aktivasyon ısınması olarak squat öncesi ideal."
+    ],
+    "tips": [
+      "Working one side at a time fixes side-to-side imbalance.",
+      "Common mistake: arching the lower back. Brace the core and lift from the glutes.",
+      "Start light — no equipment needed, just bodyweight.",
+      "Progress: foot on a bench (single-leg hip thrust) or place a weight on the hips.",
+      "Perfect glute-activation warm-up before squats."
+    ]
+  },
+
+  "barbell-glute-bridge": {
+    "instructionStepsTr": [
+      "Yere sırtüstü yat. Bar'ı kalçanın üzerine yerleştir (ped/squat sponge ile koruma).",
+      "Ayakların kalça genişliğinde, dizleri 90 dereceye getirecek şekilde yerde bas.",
+      "Karnını sık, çenen içeride.",
+      "Topuklarından ittir, kalçanı yukarı kaldır. Tepede vücudun düz çizgi.",
+      "Tepede glute'u 1-2 saniye yoğun sık.",
+      "Kontrollü şekilde başlangıca in. Kalça yere değmeden tekrarla."
+    ],
+    "tipsTr": [
+      "Hip thrust'tan daha kısa ROM (bench yok), başlangıç için daha kolay.",
+      "Glute aktivasyon için harika — ağır squat öncesi ısınma olarak ideal.",
+      "Yaygın hata: bar'ın altına ped koymamak. Kalça ezilir.",
+      "Yaygın hata 2: bel kavisi açmak. Karnını sıkı tut.",
+      "Hip thrust'a ilerlemenin ön basamağı — formu öğrenip sonra bench'li versiyona geç."
+    ],
+    "tips": [
+      "Shorter ROM than the hip thrust (no bench) — easier starting point.",
+      "Great for glute activation — perfect warm-up before heavy squats.",
+      "Common mistake: not using a pad under the bar. Your hips will get crushed.",
+      "Common mistake 2: arching the lower back. Brace the core hard.",
+      "A stepping stone to the hip thrust — master form here, then move to the bench version."
+    ]
+  },
+
+  "physioball-hip-bridge": {
+    "instructionStepsTr": [
+      "Yere sırtüstü yat. Topuklarını bir physioball'un üzerine yerleştir.",
+      "Bacakların düz, topuklar topu ortalı.",
+      "Eller yanlarda, avuçlar yere bakar.",
+      "Karnını sık. Topuklarından topa bas, kalçanı yukarı kaldır.",
+      "Tepede vücudun düz çizgi (omuzdan topuğa). Glute'u sıkıştır.",
+      "Kontrollü şekilde başlangıca in. Top dengeyi koru."
+    ],
+    "tipsTr": [
+      "Top dengelemek için core ve glute aktif çalışır — fonksiyonel kazanım.",
+      "Yaygın hata: top kayar/sallanır. Topa karşı baskı uygula, sabit tut.",
+      "İleri seviye: bacakları topa SADECE topuk ile destekle (tek nokta).",
+      "Hamstring + glute kombinasyonu — squat'a accessory.",
+      "Bench yoksa veya çeşitlilik istersen iyi alternatif."
+    ],
+    "tips": [
+      "Core and glutes work hard to stabilize the ball — a functional bonus.",
+      "Common mistake: ball rolls/wobbles. Press into the ball to keep it steady.",
+      "Advanced: only the heels touch the ball (single contact point).",
+      "Hamstring + glute combo — accessory to squats.",
+      "Good alternative if you don't have a bench or want variety."
+    ]
+  },
+
+  "side-bridge": {
+    "instructionStepsTr": [
+      "Sağ tarafına yan yat. Sağ ön kolun yere, dirseğin omuzun tam altında.",
+      "Bacakların üst üste, ayaklar üst üste veya yan yana.",
+      "Sol elin kalçanda veya yukarı uzanık.",
+      "Vücudunu kaldır — vücudun ayaklardan başa düz bir çizgi olsun. Kalça yere değmiyor.",
+      "Karnını ve özellikle yan obliklerini sık.",
+      "Pozisyonu süre boyunca koru. Diğer tarafa geç."
+    ],
+    "tipsTr": [
+      "Yan oblik (yan karın) için en iyi izole hareket.",
+      "Yaygın hata: kalça çökmesi. Kalçanı SIKIK tut.",
+      "Yaygın hata 2: omuzu öne kaykılır. Omuz dirseğin tam üstünde olmalı.",
+      "Daha zor: üst bacağı yukarı kaldır, veya kollu bacaklı dengele.",
+      "Bel sağlığı için altın değer — antirotation core stabilizesi."
+    ],
+    "tips": [
+      "Best isolation move for the obliques (side core).",
+      "Common mistake: hip sagging. Keep the hip SQUEEZED up.",
+      "Common mistake 2: shoulder rolling forward. Keep the shoulder stacked over the elbow.",
+      "Make it harder: lift the top leg, or balance with arm + leg extended.",
+      "Gold for back health — anti-rotation core stability."
+    ]
+  },
+
+  "step-up-with-knee-raise": {
+    "instructionStepsTr": [
+      "Bench veya kasanın önünde dur. Dumbbell'ları yan tarafında tut (opsiyonel).",
+      "Sağ ayağını bench'in üzerine bas.",
+      "Sağ ayağından ittirerek vücudunu yukarı kaldır.",
+      "Tepede sol DIZINI yukarı GÖĞSE doğru çek (knee raise).",
+      "Sol ayağını kontrollü şekilde yere indir.",
+      "Sağ ayağını da yere indir, sıradaki tekrar için diğer ayakla başla (alterne) veya tüm setleri tek ayakla yap."
+    ],
+    "tipsTr": [
+      "Tek bacak gücü, denge ve core stabilizesi bir arada.",
+      "Yaygın hata: arka ayakla zıplamak. Ön ayağın gücüyle kalk.",
+      "Bench yüksekliği önemli — diz açın 90 dereceyi geçmesin (çok yüksek bench).",
+      "Knee raise eklemek hip flexor ve denge geliştirir.",
+      "Daha zor: dumbbell'larla yap, veya bench'i yükselt."
+    ],
+    "tips": [
+      "Combines unilateral leg strength, balance, and core stability.",
+      "Common mistake: pushing off with the back foot. Drive entirely through the front foot.",
+      "Bench height matters — knee angle shouldn't exceed 90° (too high a bench).",
+      "Adding the knee raise builds hip flexor strength and balance.",
+      "Progress with dumbbells or a higher bench."
+    ]
+  },
+
+  "goblet-squat": {
+    "instructionStepsTr": [
+      "Bir dumbbell'ı (veya kettlebell) DİK olarak iki elinle göğsünde tut. Avuç içleri ağırlığın altında.",
+      "Ayakların omuz genişliğinde, parmak uçların hafif dışa açık.",
+      "Karnını sık, dirsekler içeride. Sırtın dik.",
+      "Kalça ve diz bükerek aşağı in. Sanki sandalyede oturuyor gibi.",
+      "Diz hizasının altına in (paralel veya daha aşağı). Dirseklerin dizlerinin İÇINE yaklaşsın.",
+      "Topuklardan it, başlangıca geri kalk. Ağırlığı sürekli göğüste sıkı tut."
+    ],
+    "tipsTr": [
+      "Squat formu öğrenmek için en iyi başlangıç — ağırlık önde, dik kalmak kolay.",
+      "Yaygın hata: çok ağır kilo + form bozukluğu. Goblet squat hafif kilo ile yapılır.",
+      "Tepe noktada dirseklerle dizleri DIŞA itme antrenmanı yap (knee valgus düzeltir).",
+      "Tüm vücut ısınması için harika — circuit / metcon antrenmanlarında klasik.",
+      "Bar squat'a geçmeden önce yüzlerce goblet squat yap, formu hap haline getir."
+    ],
+    "tips": [
+      "Best starting point for learning squat form — front-loaded, easy to stay upright.",
+      "Common mistake: too much weight + sloppy form. Goblet squats are meant to be light.",
+      "Use the 'elbows push knees out' cue at the bottom — fixes knee valgus.",
+      "Great full-body warm-up — a classic in circuits and metcons.",
+      "Do hundreds of goblet squats before barbell squats — burn the form into muscle memory."
+    ]
+  },
+
+  "seated-dumbbell-press": {
+    "instructionStepsTr": [
+      "Bench'i 90 dereceye dik ayarla. Bench'e dik otur, sırtın pad'e yapışık.",
+      "Dumbbell'larla otur, dumbbell'lar uyluklarda. Diz ittirerek dumbbell'ları omuz hizasına kaldır.",
+      "Avuç içleri öne dönük. Karnını sık.",
+      "Dumbbell'ları yukarı dik şekilde it. Tepede dumbbell'lar birbirine değecek kadar yakın.",
+      "Tepede kollar tam dik (ama dirsek tam KİLİTLEME).",
+      "Kontrollü şekilde omuz hizasına geri indir."
+    ],
+    "tipsTr": [
+      "Standing OHP'ye göre core daha az çalışır — sadece omuza odaklan.",
+      "Yaygın hata: aşırı bel kavisi. Sırtın pad'e yapışık olsun.",
+      "Yaygın hata 2: dumbbell'ları indirirken çok aşağı götürmek. Omuz hizasına kadar yeter.",
+      "Standing dumbbell shoulder press ile rotasyon yap.",
+      "Arnold press varyasyonu (dumbbell'lar başlangıçta avuç sana, döndürerek yukarı): omzu daha fazla angle ile vurur."
+    ],
+    "tips": [
+      "Less core demand than standing OHP — focus purely on the shoulders.",
+      "Common mistake: excessive lower-back arching. Glue your back to the pad.",
+      "Common mistake 2: lowering dumbbells too far. Stop at shoulder height.",
+      "Rotate with standing dumbbell shoulder press.",
+      "Arnold press variation (palms toward you at start, rotating up) hits the shoulder from more angles."
+    ]
+  },
+
+  "standing-cable-lift": {
+    "instructionStepsTr": [
+      "Cable'ı LOW (alçak) pozisyona ayarla. D-handle veya rope tak.",
+      "Cable'ın yan tarafında dur. Tutamağı iki elinle göğsün karşı tarafından alçaktan tut.",
+      "Ayakların omuz genişliğinde. Karnını sık.",
+      "Karın oblikleriyle tutamağı çapraz olarak YUKARI VE KARSI OMUZUN üzerine doğru çek.",
+      "Hareket gövde rotasyonu + yukarı kaldırma birleşimi (woodchopper'ın tersi).",
+      "Tepede 1 saniye dur. Kontrollü şekilde başlangıca getir. Diğer tarafa geç."
+    ],
+    "tipsTr": [
+      "Karın oblikleri (yan karın) için fonksiyonel rotasyon hareketi.",
+      "Yaygın hata: kollarla çekmek. Hareket KORE'den (gövde rotasyonu) gelmeli.",
+      "Hafif kilo + yavaş tempo — strict form öncelikli.",
+      "Wood chop hareketinin yukarı versiyonu — karın oblikleri için altın değer.",
+      "Spor performansı için (golf, tenis, beysbol) çok faydalı."
+    ],
+    "tips": [
+      "Functional rotational movement for the obliques.",
+      "Common mistake: pulling with the arms. The movement comes from the CORE (torso rotation).",
+      "Light weight + slow tempo — strict form first.",
+      "It's the upward version of the wood chop — gold for obliques.",
+      "Very useful for athletic performance (golf, tennis, baseball)."
+    ]
+  },
+
+  "incline-dumbbell-flyes": {
+    "instructionStepsTr": [
+      "Bench'i 30-45 derece eğik ayarla. Dumbbell'larla bench'e otur, dumbbell'lar uyluklarda.",
+      "Geriye yat, dumbbell'ları üst göğsünün üzerine kaldır. Avuç içleri birbirine bakar.",
+      "Dirsekleri hafif bük (15-20 derece) ve bu açıyı SABİT TUT.",
+      "Karnını sık. Kürek kemiklerini sıkıştır.",
+      "Dumbbell'ları yarım daire çizerek YANLARA aç. Üst göğsünde gerilme hissedene kadar in.",
+      "Üst göğsünü sıkarak dumbbell'ları başlangıç pozisyonuna kapat. Tepede dumbbell'lar birbirine değecek kadar yakın."
+    ],
+    "tipsTr": [
+      "Üst göğüs için izole hareket — incline press'in tamamlayıcısı.",
+      "Yaygın hata: dirsekleri çok bükmek (press'e dönüşür) veya tam düz tutmak (eklem stresi).",
+      "Yaygın hata 2: dumbbell'ları çok aşağı indirmek. Omuz hizasının altına geçme.",
+      "Bench açısını çok dik (60+) yapma — üst göğüs yerine ön omuz çalışır.",
+      "Hafif kilo + yavaş tempo, hipertrofi için kritik. Tepede 1 saniye sıkıştır."
+    ],
+    "tips": [
+      "Isolation move for the upper chest — complements the incline press.",
+      "Common mistake: bending elbows too much (becomes a press) or locking them straight (joint stress).",
+      "Common mistake 2: lowering dumbbells too far. Don't go below shoulder level.",
+      "Don't set the bench too steep (60°+) — that hits the front delts more than the upper chest.",
+      "Light weight + slow tempo is critical for hypertrophy. Squeeze 1 second at the top."
+    ]
+  },
+
+  "dips-chest-version": {
+    "instructionStepsTr": [
+      "Parallel bar'lara çık. Kollar düz, vücudu havada askıda.",
+      "Vücudunu ÖNE EĞ (45 derece) — bu chest dip için anahtar.",
+      "Bacakları arkaya bükebilirsin (denge için). Karnını sık.",
+      "Dirseklerini bükerek vücudu kontrollü aşağı indir. Dirsekler hafif DIŞA AÇIK (göğüse stres).",
+      "Üst kol yere paralel olunca veya altına in (esnekliğin elveriyorsa).",
+      "Avuçlarınla bar'ı ittirerek başlangıç pozisyonuna geri çık. Göğsünü sıkarak yukarı it."
+    ],
+    "tipsTr": [
+      "Triceps dip'inden farkı: gövde EĞİK ve dirsekler hafif DIŞA. Triceps dip'te gövde dik, dirsekler vücuda yakın.",
+      "Alt göğüs için en güçlü compound hareketlerden biri.",
+      "Yaygın hata: omuzu çok aşağı bırakmak (dip-too-deep). Omuz pad'inde sıkışırsan dur.",
+      "Zor geliyorsa: assisted dip makinesi veya bant kullan. Negatif (sadece iniş) ile başla.",
+      "Daha zor yapmak için: dip belt ile ağırlık ekle (5-10kg progression)."
+    ],
+    "tips": [
+      "Different from triceps dips: lean FORWARD with elbows slightly FLARED. Triceps dips are upright with elbows tucked.",
+      "One of the strongest compound moves for the lower chest.",
+      "Common mistake: dropping shoulders too far (going too deep). Stop if you feel shoulder impingement.",
+      "If too hard: use the assisted dip machine or bands. Start with negatives (lowering only).",
+      "Make harder by adding weight with a dip belt (5-10kg progressions)."
+    ]
+  },
+
+  "wide-grip-rear-pull-up": {
+    "instructionStepsTr": [
+      "Pull-up bar'ına overhand grip ile, omuz genişliğinin 1.5 katı kadar GENİŞ asıl.",
+      "Kollar tam uzanık, vücut sabit.",
+      "Karnını sık, kalçayı sıkıştır.",
+      "Dirsekleri AŞAĞI VE GERIYE çek; çenen bar'ın üstüne çıkana kadar yukarı çık.",
+      "Tepede kürek kemiklerini sıkıştır, 1 saniye dur.",
+      "Kontrollü şekilde tam aşağıya in (dead hang). Sonraki tekrara başla."
+    ],
+    "tipsTr": [
+      "Klasik pull-up'tan daha geniş grip — lat genişliği için altın değer.",
+      "Yaygın hata: bar'ı boynun arkasına çekmek. Omuz sakatlığı riski yüksek; HEP ÖN tarafa çek.",
+      "Çok geniş grip biceps katkısını azaltır, lats'a daha çok yük binder — ama hareket de daha zorlaşır.",
+      "Zor geliyorsa: önce normal pull-up'ı oturtmuş ol, sonra geniş grip'e geç.",
+      "Lat genişliği (V-taper) için en iyi hareket — sırt genişliği isteyen herkes yapmalı."
+    ],
+    "tips": [
+      "Wider grip than a standard pull-up — gold for lat width.",
+      "Common mistake: pulling the bar behind your neck. High shoulder injury risk; ALWAYS pull to the front.",
+      "Very wide grip reduces biceps involvement, more lat load — but the movement is also harder.",
+      "If too hard: master the regular pull-up first, then move to wide grip.",
+      "Best move for lat width (V-taper) — a must for anyone chasing back width."
+    ]
+  },
+
+  "reverse-grip-bent-over-rows": {
+    "instructionStepsTr": [
+      "Bar'ı yerden deadlift gibi al, ayakların omuz genişliğinde.",
+      "Kalçandan bük, dizlerini hafifçe bük. Gövden 30-60 derece arası eğik.",
+      "Bar'ı UNDERHAND grip (avuçlar yukarı) ile omuz genişliğinde tut.",
+      "Sırt notr, göğüs öne. Karnını sık.",
+      "Bar'ı patlayıcı şekilde alt göğüs / üst karın bölgesine çek. Dirsekler vücuda YAKIN, geriye doğru.",
+      "Tepede kürek kemiklerini sıkıştır. Kontrollü şekilde başlangıca indir."
+    ],
+    "tipsTr": [
+      "Underhand grip alt lat ve biceps'i klasik overhand row'dan daha çok devreye sokar.",
+      "Lat aktivasyonu için harika — Dorian Yates'ın favori sırt hareketi.",
+      "Yaygın hata: gövdeyi sallamak. Sabit, eğik kal.",
+      "Yaygın hata 2: bar'ı göbeğe çekmek. Alt göğüs / üst karna çek.",
+      "Sırtın notr olmalı; bel kavisi açıyorsan ağırlığı düşür."
+    ],
+    "tips": [
+      "Underhand grip recruits more lower lats and biceps than a standard overhand row.",
+      "Excellent for lat activation — Dorian Yates' favorite back movement.",
+      "Common mistake: swinging the torso. Stay locked in, hinged forward.",
+      "Common mistake 2: pulling to the belly. Pull to the lower chest / upper abdomen.",
+      "Keep the spine neutral; if your lower back rounds, drop the weight."
+    ]
+  },
+
+  "t-bar-row-with-handle": {
+    "instructionStepsTr": [
+      "Bar'ın bir ucunu köşeye veya landmine'e sabitle, diğer ucuna ağırlıkları ek.",
+      "Bar'ın üstüne bacaklarını ayır, bar'ın altında V-handle veya çift tutamak yerleştir.",
+      "Kalçandan bük, gövde 30-45 derece eğik. Sırt notr.",
+      "Karnını sık. Tutamağı iki elinle kavra, kollar tam uzanık.",
+      "Bar'ı dirseklerinden çekerek karnına / alt göğse doğru kaldır. Dirsekler vücuduna yakın.",
+      "Tepede kürek kemiklerini sıkıştır, 1 saniye dur. Kontrollü şekilde uzat."
+    ],
+    "tipsTr": [
+      "Sırt orta-kalınlığı için en iyi hareketlerden — barbell row'dan bel'e daha az yük.",
+      "Yaygın hata: ağırlığı tam yere indirmemek. Tam ROM önemli.",
+      "Klasik T-bar makinesi varsa daha rahat; yoksa landmine + V-handle yeterli.",
+      "Geniş grip lat genişliği için, dar grip kalınlık için.",
+      "Bel destekli (chest-supported) versiyonu mevcutsa bel ağrısı olanlar için ideal."
+    ],
+    "tips": [
+      "One of the best moves for back thickness — less lower-back load than barbell rows.",
+      "Common mistake: not lowering the weight all the way. Full ROM is important.",
+      "A dedicated T-bar machine is more comfortable; otherwise landmine + V-handle works.",
+      "Wide grip for lat width, narrow grip for thickness.",
+      "Chest-supported version (if available) is ideal if you have lower-back issues."
+    ]
+  },
+
+  "inverted-row": {
+    "instructionStepsTr": [
+      "Smith machine veya squat rack'te bar'ı bel hizasına ayarla.",
+      "Bar'ın altına gir, sırtüstü uzan. Bar'ı omuz genişliğinde overhand tut.",
+      "Topuklarını yere bas, bacakları düz uzat. Vücudun başla topuk arasında düz çizgi.",
+      "Karnını sık, kalçayı sıkıştır. Kürek kemiklerini geriye çek.",
+      "Göğsünü bar'a doğru çek. Dirsekler geriye, vücuda yakın.",
+      "Bar göğse değecek kadar yakın gelince tepede 1 saniye dur. Kontrollü şekilde başlangıca uzat."
+    ],
+    "tipsTr": [
+      "Pull-up'a hazırlık olarak ideal — pull-up zor ise inverted row'la güç inşa et.",
+      "Yaygın hata: kalça çökmesi. Vücudun PLANK gibi düz olmalı.",
+      "Bar yüksekliğini değiştirerek zorluğu ayarla: yüksek bar = kolay, alçak bar = zor.",
+      "Daha zor: ayakları bench'e koy (decline inverted row), tek el, veya yelekle ağırlık.",
+      "Yere ekipman yoksa bir masanın altında veya rings ile yapılabilir."
+    ],
+    "tips": [
+      "Perfect prep for pull-ups — if pull-ups are too hard, build strength with inverted rows.",
+      "Common mistake: hips sagging. Keep your body in a straight PLANK line.",
+      "Adjust difficulty with bar height: higher bar = easier, lower bar = harder.",
+      "Make harder: feet on a bench (decline inverted row), single arm, or wear a weight vest.",
+      "No equipment? Use a sturdy table edge or gymnastic rings."
+    ]
+  },
+
+  "dumbbell-shrug": {
+    "instructionStepsTr": [
+      "Dumbbell'ları yan tarafında tut, avuç içleri vücuda dönük.",
+      "Ayakların kalça genişliğinde, kollar tam uzanık.",
+      "Karnını sık. Sırtın dik.",
+      "Omuzlarını YUKARI doğru kaldır (kulağına doğru çek). Trap kasları sıkışsın.",
+      "Tepede 1-2 saniye yoğun şekilde sık.",
+      "Kontrollü şekilde başlangıca indir. Omuzları DÖNDÜRME (rotasyon trap'ı yıpratır)."
+    ],
+    "tipsTr": [
+      "Trap (üst yamuk) gelişimi için en izole hareket.",
+      "Yaygın hata: omuzları döndürmek (yuvarlak hareket). Sadece YUKARI-AŞAĞI dik hareket et.",
+      "Yaygın hata 2: çok ağır kilo + yarım ROM. Tam yukarı, tam aşağı önemli.",
+      "Tepede 1-2 saniye sıkıştır — kasılma momentinde trap büyür.",
+      "Çok yüksek tekrar (15-20) trap için optimal — kalın boyun isteyenler için must."
+    ],
+    "tips": [
+      "Most isolated move for trap (upper trapezius) development.",
+      "Common mistake: rolling the shoulders (circular motion). Move STRAIGHT up and down only.",
+      "Common mistake 2: too much weight + half ROM. Full top, full bottom matter.",
+      "Squeeze 1-2 seconds at the top — that's where the traps grow.",
+      "High reps (15-20) are optimal — a must for anyone chasing thick neck/traps."
+    ]
+  },
+
+  "barbell-shrug": {
+    "instructionStepsTr": [
+      "Bar'ı bel hizasından al (rack'ten veya yerden deadlift sonrası). Ayaklarının kalça genişliğinde dur.",
+      "Bar'ı omuz genişliğinde overhand grip ile tut.",
+      "Karnını sık, sırtın dik.",
+      "Omuzlarını YUKARI doğru kaldır (kulağına doğru çek). Trap kasları sıkışsın.",
+      "Tepede 1-2 saniye yoğun şekilde sık.",
+      "Kontrollü şekilde başlangıca indir."
+    ],
+    "tipsTr": [
+      "Dumbbell shrug'tan daha ağır kilo kaldırırsın — trap için max yük.",
+      "Yaygın hata: omuzları döndürmek. Sadece YUKARI-AŞAĞI dik hareket et.",
+      "Mixed grip (bir el düz, bir el ters) ağır setlerde grip kaybını önler.",
+      "Trap önde mi arkada mı? Bar önde olduğu için ön trap daha çok çalışır. Bar arkada (BTN shrug) daha izoledir.",
+      "Deadlift sonrası 3 set 10-12 trap için ideal."
+    ],
+    "tips": [
+      "Lets you lift heavier than the dumbbell shrug — max load for traps.",
+      "Common mistake: rolling the shoulders. Move STRAIGHT up and down only.",
+      "Mixed grip (one over, one under) prevents grip failure on heavy sets.",
+      "Bar in front works the front-upper traps more. Behind-the-neck shrug is more isolated.",
+      "3 sets of 10-12 after deadlifts is ideal for traps."
+    ]
+  },
+
+  "hyperextensions-back-extensions": {
+    "instructionStepsTr": [
+      "Hyperextension makinesinde (45 derece veya yatay) ayak bilekleri pad'in altına yerleştir. Üst kalça pad'in üzerinde.",
+      "Eller göğüste çapraz veya başın arkasında.",
+      "Karnını sık. Sırtın notr.",
+      "Kalçandan bük (hip hinge): gövdeni öne ve aşağı eğ. Sırtını YUVARLAMA.",
+      "Hamstring'lerin gerilmesini hissedene kadar in.",
+      "Glutes ve hamstring'i sıkarak başlangıç pozisyonuna geri kalk. AŞIRI YASLANMA — düz hizada dur."
+    ],
+    "tipsTr": [
+      "Posterior chain (alt sırt + glutes + hamstring) için izole hareket.",
+      "Yaygın hata: aşırı geriye yaslanmak (hyper-extension). Sadece düz hizada dur, fazla geriye gitme.",
+      "Yaygın hata 2: bel'i yuvarlamak. Hareket KALÇADAN gelmeli, bel'den değil.",
+      "Daha zor: göğse plate koy veya başının arkasında plate tut.",
+      "Squat/deadlift sonrası 3 set 12-15 alt sırt sağlığı için altın değer."
+    ],
+    "tips": [
+      "Isolation for the posterior chain (lower back + glutes + hamstrings).",
+      "Common mistake: hyper-extending at the top. Stop in a straight line, don't crank back.",
+      "Common mistake 2: rounding the lower back. The movement comes from the HIPS, not the spine.",
+      "Make harder: hold a plate to the chest or behind the head.",
+      "3 sets of 12-15 after squat/deadlift is gold for lower-back health."
+    ]
+  },
+
+  "reverse-hyperextension": {
+    "instructionStepsTr": [
+      "Reverse hyper makinesi varsa: pad'e yüzükoyun yat, bacakları sallandır. Eller önde tutamakları kavra.",
+      "Yoksa: bench'in kenarına yüzükoyun yat, kalça bench dışında, bacaklar sallanır.",
+      "Karnını sık.",
+      "Bacakları DÜZ tutarak yukarı kaldır — yere paralel veya hafif üzeri.",
+      "Tepede glutes ve hamstring'i tam sıkıştır, 1 saniye dur.",
+      "Kontrollü şekilde başlangıca in. Bacaklar yere değmeden tekrarla."
+    ],
+    "tipsTr": [
+      "Westside Barbell ekolünün klasik 'rehabilitatif' bel hareketi — Louie Simmons icadı.",
+      "Bel'e dekompresyon (rahatlama) sağlar, yıpratmaz.",
+      "Yaygın hata: çok ağır kilo + sallanma. Hafif başla, momentum kullanmadan.",
+      "Squat/deadlift gününün sonunda decompression olarak 2-3 set yap.",
+      "Bel ağrısı olanlar için terapötik — düzenli yapılırsa bel sağlığı belirgin iyileşir."
+    ],
+    "tips": [
+      "Classic Westside Barbell 'rehabilitative' back move — invented by Louie Simmons.",
+      "Provides decompression for the lower back rather than wearing it down.",
+      "Common mistake: too much weight + swinging. Start light, no momentum.",
+      "Do 2-3 sets at the end of squat/deadlift days for decompression.",
+      "Therapeutic for those with lower-back pain — regular use noticeably improves back health."
+    ]
+  },
+
+  "arnold-dumbbell-press": {
+    "instructionStepsTr": [
+      "Bench'i 90 dereceye dik ayarla. Bench'e dik otur, sırt pad'e yapışık.",
+      "Dumbbell'ları omuz hizasına kaldır, ama avuç içleri SANA DÖNÜK (palms toward you), dirsekler önde birleşik.",
+      "Karnını sık.",
+      "Dumbbell'ları yukarı it ve aynı anda bilekleri DÖNDÜR — tepede avuç içleri öne dönük (klasik OHP pozisyonu).",
+      "Tepede dumbbell'lar birbirine değecek kadar yakın, kollar dik (dirsek tam KİLİTLEME yok).",
+      "Aşağı in, hareketi TERS yap: bilekleri döndürerek avuç içleri sana dönecek şekilde başlangıca dön."
+    ],
+    "tipsTr": [
+      "Klasik OHP'den farkı: bilek rotasyonu omzu DAHA FAZLA AÇIDAN vurur.",
+      "Ön omuz ve yan omuzu birleşik geliştirir — Arnold'un favorisi.",
+      "Yaygın hata: rotasyonu çok hızlı yapmak. Press + rotasyon SENKRON olmalı.",
+      "Yaygın hata 2: aşırı bel kavisi. Sırtın pad'e yapışık.",
+      "Hafif kilo ile başla — koordinasyon hareketi, ağır kilo formu bozar."
+    ],
+    "tips": [
+      "Different from a regular OHP: the wrist rotation hits the shoulder from MORE angles.",
+      "Develops front and side delts together — Arnold's favorite.",
+      "Common mistake: rushing the rotation. Press + rotation must be SYNCHRONIZED.",
+      "Common mistake 2: excessive lower-back arching. Glue your back to the pad.",
+      "Start light — it's a coordination move; heavy weight ruins the form."
+    ]
+  },
+
+  "front-dumbbell-raise": {
+    "instructionStepsTr": [
+      "Dumbbell'ları her elinde tut, kollar yan tarafta sallanık. Avuç içleri vücuda dönük (neutral).",
+      "Ayakların kalça genişliğinde dur. Karnını sık.",
+      "Dirseklerin hafif bükülü kalsın.",
+      "Bir veya iki dumbbell'ı ÖNE doğru omuz hizasına kaldır. Avuç içleri yere dönük (overhand).",
+      "Tepede 1 saniye dur.",
+      "Kontrollü şekilde başlangıca indir."
+    ],
+    "tipsTr": [
+      "Ön omuz (anterior deltoid) için izole hareket.",
+      "Yaygın hata: gövdeyi sallamak (cheat). Strict dur.",
+      "Yaygın hata 2: omuz hizasının üstüne kaldırmak. Gerek yok, traps devreye girer.",
+      "Tek el aynı anda → daha iyi izolasyon, sallanma yok.",
+      "Bench/OHP yapıyorsan ön omuz zaten çok çalışır — bunu az yap, side lateral'a öncelik ver."
+    ],
+    "tips": [
+      "Isolation for the front delts (anterior deltoid).",
+      "Common mistake: swinging the torso (cheating). Stay strict.",
+      "Common mistake 2: lifting above shoulder height. Not needed — traps take over.",
+      "One arm at a time → better isolation, less swing.",
+      "If you bench/OHP heavy, your front delts already get hammered — go light here, prioritize lateral raises."
+    ]
+  },
+
+  "front-cable-raise": {
+    "instructionStepsTr": [
+      "Cable'ı LOW (alçak) pozisyona ayarla. D-handle veya straight bar tak.",
+      "Cable'a sırtın dönük şekilde dur. Tutamağı bacaklarının arasından öne tut.",
+      "Karnını sık. Dirseğin hafif bükülü.",
+      "Tutamağı ÖNE ve YUKARI doğru omuz hizasına kaldır.",
+      "Tepede 1 saniye dur.",
+      "Kontrollü şekilde başlangıca indir."
+    ],
+    "tipsTr": [
+      "Cable sürekli gerilim sağlar — dumbbell'a göre tepede daha çok kasılma.",
+      "Yaygın hata: gövdeyi sallamak. Sabit dur.",
+      "Tek el yaparsan asimetri düzeltir + daha iyi mind-muscle connection.",
+      "Hafif kilo + yavaş tempo — izole hareket, kontrol önemli.",
+      "Rope ataşmanı kullanırsan tepede bilekler döner, daha tam kasılma."
+    ],
+    "tips": [
+      "Cable provides constant tension — more peak contraction than dumbbells.",
+      "Common mistake: swinging the torso. Stay rigid.",
+      "Working one arm at a time fixes imbalance + better mind-muscle connection.",
+      "Light weight + slow tempo — it's an isolation move, control matters.",
+      "Use a rope attachment to allow wrists to rotate at the top for fuller contraction."
+    ]
+  },
+
+  "reverse-flyes": {
+    "instructionStepsTr": [
+      "Reverse fly makinesine YÜZÜKOYUN otur (göğsün pad'e yapışık).",
+      "Tutamakları omuz hizasında kavra. Avuç içleri birbirine bakar.",
+      "Karnını sık.",
+      "Dirsekleri hafif bük (15-20 derece) ve bu açıyı SABİT TUT.",
+      "Tutamakları YANLARA aç. Kürek kemiklerini geriye sıkıştır.",
+      "Tepede 1 saniye sık. Kontrollü şekilde başlangıca getir."
+    ],
+    "tipsTr": [
+      "Rear delt (arka omuz) ve middle traps için en izole makine hareketi.",
+      "Pec deck makinesinin TERS yönünde kullanılırsa aynı işi yapar.",
+      "Yaygın hata: dirsekleri çok düz tutmak (eklem stresi).",
+      "Yaygın hata 2: kollarla çekmek. Kürek kemiklerini sıkıştır, sırt çalışsın.",
+      "Hafif kilo + yüksek tekrar (15-20) ideal."
+    ],
+    "tips": [
+      "Most isolated machine move for the rear delts and middle traps.",
+      "If you use a pec-deck machine in REVERSE, it does the same job.",
+      "Common mistake: arms locked straight (joint stress).",
+      "Common mistake 2: pulling with the arms. Squeeze the scapulae — let the back do the work.",
+      "Light weight + high reps (15-20) is ideal."
+    ]
+  },
+
+  "upright-barbell-row": {
+    "instructionStepsTr": [
+      "Bar'ı ayakta tut, omuz genişliğinden BIRAZ DAR overhand grip.",
+      "Ayakların kalça genişliğinde, bar uyluklarına yakın askıda.",
+      "Karnını sık. Sırtın dik.",
+      "Bar'ı YUKARI ve VÜCUDA YAKIN çek — dirsekler en yüksek noktada olmalı, bar göğüs hizasına gelsin.",
+      "Tepede 1 saniye dur, üst yamuk sıkışmış halde.",
+      "Kontrollü şekilde başlangıca indir."
+    ],
+    "tipsTr": [
+      "Trap + yan omuz için compound hareket.",
+      "Yaygın hata: çok dar grip (omuz impingement riski yüksek). Omuz genişliği veya biraz altı kullan.",
+      "Yaygın hata 2: dirsekleri omuz hizasının ÇOK ÜSTÜNE kaldırmak — omuz sakatlığı.",
+      "Bar göğüs hizasında dur, daha yukarı çıkarma.",
+      "Omuz ağrın varsa veya impingement riskin varsa: dumbbell veya cable upright row yap (daha güvenli)."
+    ],
+    "tips": [
+      "Compound move for traps + side delts.",
+      "Common mistake: too narrow a grip (high shoulder impingement risk). Use shoulder-width or slightly narrower.",
+      "Common mistake 2: pulling elbows ABOVE shoulder height — shoulder injury.",
+      "Stop the bar at chest height; don't pull higher.",
+      "If you have shoulder pain or impingement, use dumbbell or cable upright rows (much safer)."
+    ]
+  },
+
+  "wide-grip-standing-barbell-curl": {
+    "instructionStepsTr": [
+      "Bar'ı ayakta tut, omuz genişliğinden GENİŞ underhand grip.",
+      "Ayakların kalça genişliğinde, dirsekler vücuda yapışık.",
+      "Karnını sık. Sırtın dik.",
+      "DİRSEKLERİ SABİT TUTARAK bar'ı omuz hizasına curl et.",
+      "Tepede biceps'in iç kısmını tam sıkıştır, 1 saniye dur.",
+      "Kontrollü şekilde başlangıca indir. Tam uzanma."
+    ],
+    "tipsTr": [
+      "Geniş grip biceps'in KISA başını (iç kısım, peak) daha çok hedefler.",
+      "Dar grip ise UZUN başı (dış kısım, kol kalınlığı) hedefler.",
+      "Yaygın hata: dirsekler öne kaymak. Vücuda yapışık tut.",
+      "Yaygın hata 2: gövdeyi sallamak (cheat). Strict dur.",
+      "Wide + close grip combo (her antrenmanda farklı): biceps'i tam paketle."
+    ],
+    "tips": [
+      "Wide grip targets the SHORT head of the biceps more (inner peak).",
+      "Narrow grip targets the LONG head (outer side, arm thickness).",
+      "Common mistake: elbows drifting forward. Keep them pinned.",
+      "Common mistake 2: swinging the torso (cheating). Stay strict.",
+      "Wide + close grip combo (alternate workouts) gives complete biceps coverage."
+    ]
+  },
+
+  "cable-rope-overhead-triceps-extension": {
+    "instructionStepsTr": [
+      "Low cable'a rope ataşmanı tak. Cable'a SIRTIN DÖNÜK şekilde dur.",
+      "İpi başının arkasından, dirsekler kulakların yanında olacak şekilde tut.",
+      "Bir adım öne at, hafifçe öne eğil.",
+      "Karnını sık. Üst kollar SABİT, dirsekler kulağın yanında.",
+      "Sadece ön kollarını uzatarak ipi yukarı/öne it. İpin sonunda eller AYRILABILIR (rope split).",
+      "Tepede triceps'in UZUN BAŞINI sıkışmış hisset. Kontrollü şekilde başlangıca indir."
+    ],
+    "tipsTr": [
+      "Triceps'in uzun başı için en iyi izole hareket — overhead pozisyonda gerilir.",
+      "Yaygın hata: üst kolu hareket ettirmek. Üst kol SABİT, sadece ön kol açılır.",
+      "Yaygın hata 2: gövdeyi sallamak. Sabit dur, hafif öne eğil.",
+      "Skull crusher alternatifi — eklem ağrın varsa overhead daha rahat olabilir.",
+      "Tek el versiyonu (one-arm overhead) asimetri düzeltir."
+    ],
+    "tips": [
+      "Best isolation move for the triceps long head — it stretches in the overhead position.",
+      "Common mistake: moving the upper arm. Upper arm stays FIXED, only the forearm extends.",
+      "Common mistake 2: swinging the torso. Stay rigid, slight forward lean.",
+      "Alternative to skull crushers — if you have elbow pain, overhead may feel better.",
+      "Single-arm version (one-arm overhead) fixes side-to-side imbalance."
+    ]
+  },
+
+  "lying-dumbbell-tricep-extension": {
+    "instructionStepsTr": [
+      "Bench'e sırtüstü yat. Dumbbell'ları her elinde tut. Avuç içleri birbirine bakar (neutral).",
+      "Dumbbell'ları kollar tam dik, omuzların üzerinde başlangıç pozisyonuna kaldır.",
+      "DIRSEKLERI SABIT TUT (omuza dik konumda). Karnını sık.",
+      "Sadece ön kollarını bükerek dumbbell'ları başının yan tarafına / kulağa doğru kontrollü indir.",
+      "Triceps'in maksimum gerildiğini hisset.",
+      "Triceps'i sıkarak dumbbell'ları başlangıç pozisyonuna geri it."
+    ],
+    "tipsTr": [
+      "EZ-bar skullcrusher'a göre bilek için daha rahat — neutral grip stres azaltır.",
+      "Yaygın hata: dirseklerin geriye/dışa kaymasını izin vermek. Dirsekler omuza dik kalsın.",
+      "Tek el yaparsan asimetri düzeltir + daha iyi izolasyon.",
+      "Decline bench'te yapılabilir — hareket aralığı daha geniş.",
+      "Triceps'in uzun başı için ideal — barbell skullcrusher'a alternatif."
+    ],
+    "tips": [
+      "Easier on the wrists than EZ-bar skull crushers — the neutral grip reduces stress.",
+      "Common mistake: letting elbows drift back/out. Keep them stacked over the shoulders.",
+      "One arm at a time fixes imbalance + better isolation.",
+      "Can be done on a decline bench — bigger range of motion.",
+      "Ideal for the long head of the triceps — alternative to barbell skull crushers."
+    ]
+  },
+
+  "standing-dumbbell-triceps-extension": {
+    "instructionStepsTr": [
+      "Bir tek dumbbell'ı iki elinle tut (avuç içleri ağırlığın altında, palmlar yukarı).",
+      "Ayakta dur, dumbbell'ı başın üstüne kaldır. Kollar tam dik.",
+      "Karnını sık. Dirsekler kulakların yanında, üst kollar SABİT (dik).",
+      "Sadece ön kollarını bükerek dumbbell'ı başının arkasına kontrollü indir.",
+      "Triceps'in maksimum gerildiğini hisset (tepede).",
+      "Triceps'i sıkarak dumbbell'ı başın üstüne geri it."
+    ],
+    "tipsTr": [
+      "Triceps'in uzun başı için klasik ev/gym hareketi — tek dumbbell yeter.",
+      "Yaygın hata: üst kolu hareket ettirmek (omuz devreye girer). Üst kol SABİT.",
+      "Yaygın hata 2: aşırı bel kavisi. Karnını sık, glute'tan stabilize ol.",
+      "Otururken yapılırsa bel'e daha az stres (seated dumbbell extension).",
+      "İki el versiyonu (single dumbbell, both hands) ev için ideal."
+    ],
+    "tips": [
+      "Classic home/gym move for the triceps long head — only one dumbbell needed.",
+      "Common mistake: moving the upper arm (the shoulder takes over). Upper arm stays FIXED.",
+      "Common mistake 2: excessive lower-back arching. Brace the core, stabilize from the glutes.",
+      "Seated version (seated dumbbell extension) puts less stress on the back.",
+      "Two-handed version (one dumbbell, both hands) is ideal for home training."
+    ]
+  },
+
+  "jm-press": {
+    "instructionStepsTr": [
+      "Bench'e sırtüstü yat. Bench press kurulumunu yap. Bar'ı OMUZ GENİŞLİĞİNDE close-grip ile tut.",
+      "Bar'ı kollar dik başlangıç pozisyonuna kaldır.",
+      "Bar'ı boğazına / üst göğse doğru indir AMA dirsekler önde, bar elinin altından geçer (gibi).",
+      "Hareket hibrit: close-grip bench + skullcrusher karışımı. Dirsekler hafif öne kayar ama vücuda yakın.",
+      "Bar'ı boğaz hizasına yakın indir, dirsek 90 derece veya hafif altı.",
+      "Triceps'i sıkarak bar'ı başlangıç pozisyonuna geri it."
+    ],
+    "tipsTr": [
+      "Powerlifting'de lockout (üst kısım) gücünü geliştiren akıllı hareket.",
+      "Westside Barbell ekolünde popüler — JM Blakley'nin icadı.",
+      "Yaygın hata: bar'ı çok aşağı göğse indirmek. Boğaza yakın indir, kısa ROM.",
+      "Hafif kilo ile başla — alışılmadık bir hareket.",
+      "Smith machine'de daha güvenli yapılabilir."
+    ],
+    "tips": [
+      "A smart move for building lockout (top-end) strength in powerlifting.",
+      "Popular in the Westside Barbell system — invented by JM Blakley.",
+      "Common mistake: lowering the bar too far down to the chest. Stop near the throat — short ROM.",
+      "Start light — it's an unusual movement pattern.",
+      "Can be done more safely on a Smith machine."
+    ]
+  },
+
+  "tate-press": {
+    "instructionStepsTr": [
+      "Bench'e sırtüstü yat. Dumbbell'ları her elinde tut, dirsekler havada dik.",
+      "Avuç içleri SANA dönük (palms toward you).",
+      "Dumbbell'ları göğsünün üzerinde, BIRBIRINE değecek kadar yakın tut. Dirsekler dışa çıkık.",
+      "Karnını sık. Üst kollar yere DİK SABİT.",
+      "Sadece ön kollarını bükerek dumbbell'ları göğsünün üzerine, AŞAĞI içe çek (T harfi gibi).",
+      "Dumbbell'lar göğse yaklaşıp 'V' yaparak açılırlar. Triceps'i sıkarak yukarı it."
+    ],
+    "tipsTr": [
+      "Powerlifting accessory — Dave Tate'in icadı, EliteFTS klasiği.",
+      "Triceps lateral başını izole eder — bench press lockout için harika.",
+      "Yaygın hata: dirseklerin sallanması. Üst kol DİK ve SABİT.",
+      "Hafif kilo ile başla — biçim alışılmadık ve eklem için iddialı.",
+      "JM press ile rotasyon yap — birlikte triceps gücünü patlatır."
+    ],
+    "tips": [
+      "Powerlifting accessory — Dave Tate's invention, an EliteFTS classic.",
+      "Isolates the lateral head of the triceps — great for bench press lockout.",
+      "Common mistake: elbows wobbling. Upper arms stay VERTICAL and FIXED.",
+      "Start light — unusual form and demanding on the joints.",
+      "Rotate with JM press — together they explode triceps strength."
+    ]
+  },
+
+  "hack-squat": {
+    "instructionStepsTr": [
+      "Hack squat makinesine omuzları pad'in altına yerleştir.",
+      "Ayakların platformun ortasında, omuz genişliğinde, parmak uçların hafif dışa açık.",
+      "Güvenlik kelepçelerini aç. Karnını sık.",
+      "Diz ve kalça bükerek aşağı in — uyluklar yere paralel olana kadar.",
+      "Topuklardan ittirerek başlangıca geri kalk. Tepede dizleri tam KİLİTLEME.",
+      "Sırtın pad'e yapışık kalmalı."
+    ],
+    "tipsTr": [
+      "Squat'ın izole versiyonu — quad ağırlıklı, denge yok.",
+      "Yaygın hata: kalçayı pad'den kaldırmak (aşağıda). Bu bel'i yıpratır. ROM'u kıs.",
+      "Ayak pozisyonu hedefi değiştirir: yüksek (üst) → glute/hamstring, alçak (alt) → quad.",
+      "Bel sorunu olanlar için squat'a güvenli alternatif.",
+      "Bar squat'ı tamamlayıcı olarak 3 set 10-12 ideal."
+    ],
+    "tips": [
+      "An isolated version of the squat — quad-dominant, no balance work.",
+      "Common mistake: hips lifting off the pad at the bottom. It wrecks the lower back — limit ROM.",
+      "Foot position changes the target: high → glutes/hamstrings, low → quads.",
+      "Safe squat alternative for those with lower-back issues.",
+      "3 sets of 10-12 as a complement to barbell squats is ideal."
+    ]
+  },
+
+  "barbell-hack-squat": {
+    "instructionStepsTr": [
+      "Bar'ı yere koy. Bar'ın ÖNÜNDE dur, sırtın bara dönük.",
+      "Kalçandan bükerek bar'ı arkadan tut (avuçlar yere bakar veya mixed grip).",
+      "Karnını sık, sırtın notr.",
+      "Topuklardan ittirerek bar'ı kalça hizasına kaldır — vücudun dik, bar baldırların arkasında asılı.",
+      "Aşağı in: kalça ve dizleri bükerek bar'ı yere yakınlaştır. Sırt dik kalır.",
+      "Topuklardan ittirerek tekrar yukarı kalk."
+    ],
+    "tipsTr": [
+      "Eski okul (1900'lerden) hareket — Hackenschmidt'in icadı, hack squat makinesinin atası.",
+      "Quad ağırlıklı, dik gövde nedeniyle bel'e az yük.",
+      "Yaygın hata: bar bacaklarına çarpıyor. Bacakları biraz öne uzat veya geniş duruş dene.",
+      "Trap bar deadlift'e benzer — quad'a daha çok vurur.",
+      "Modern hack squat makinesi yoksa harika alternatif."
+    ],
+    "tips": [
+      "Old-school (1900s) movement — invented by Hackenschmidt, the ancestor of the hack squat machine.",
+      "Quad-dominant, with low back stress thanks to the upright torso.",
+      "Common mistake: bar hits your legs. Step the legs slightly forward or use a wider stance.",
+      "Similar to a trap-bar deadlift — but hits the quads more.",
+      "Excellent alternative when no modern hack squat machine is available."
+    ]
+  },
+
+  "box-squat": {
+    "instructionStepsTr": [
+      "Squat rack'in içine bir kasa veya bench yerleştir (kalça hizasında veya hafif altı).",
+      "Bar'ı squat gibi üst sırta yerleştir. Kasa'ya doğru geri yürü.",
+      "Ayaklarını omuz genişliğinden BIRAZ GENİŞ aç, parmak uçların hafif dışa.",
+      "Karnını sık. Kalçandan bük: kalçanı ARKAYA it (sanki kasaya OTURACAKMIŞSIN gibi).",
+      "Kasaya kontrollü 'otur' (yere koymadan, sadece değdir). 1 saniye dur.",
+      "Patlayıcı şekilde başlangıca geri kalk. Tepede dik dur."
+    ],
+    "tipsTr": [
+      "Westside Barbell ekolünün ana hareketi — Louie Simmons'ın gözdesi.",
+      "Hip drive (kalça gücü) öğretir — squat'tan farklı kas kullanır.",
+      "Yaygın hata: kasaya 'çarpmak'. Kontrollü değdir, momentum yapma.",
+      "Kasa yüksekliği değişebilir: paralel altı = derin, paralel üstü = kolay (üst-position işi).",
+      "Powerlifter veya squat zayıflığı olan herkes için altın değer."
+    ],
+    "tips": [
+      "Main movement of the Westside Barbell system — Louie Simmons' favorite.",
+      "Teaches hip drive — uses different muscles than a regular squat.",
+      "Common mistake: slamming into the box. Touch it under control, no momentum.",
+      "Box height can vary: below parallel = deep, above parallel = easier (top-end work).",
+      "Gold for powerlifters and anyone with squat weaknesses."
+    ]
+  },
+
+  "olympic-squat": {
+    "instructionStepsTr": [
+      "Bar'ı YÜKSEK BAR pozisyonuna ayarla — boyun tabanına / üst trapezius'a yerleştir.",
+      "Ayaklarını omuz genişliğinde, parmak uçların hafif dışa.",
+      "Karnını sık. Sırt notr.",
+      "Olympic weightlifting squat'ta DERİN otur — kalça topuğa neredeyse değecek (ATG, ass-to-grass).",
+      "Gövde mümkün olduğunca DİK kalır (yüksek bar pozisyonu nedeniyle).",
+      "Topuklardan ittirerek patlayıcı şekilde başlangıca geri kalk."
+    ],
+    "tipsTr": [
+      "Powerlifting squat'tan farklı: yüksek bar + derin + dik gövde.",
+      "Snatch ve clean'in altına çökmek için temel — Olympic lifters'in gizli silahı.",
+      "Yaygın hata: alçak bar pozisyonunda yapmak. Yüksek bar (boyun tabanı) olmalı.",
+      "Bilek/kalça/ayak bileği mobilitesi şart. Yetmiyorsa front squat dene.",
+      "ATG depth: kalça topuğa kadar yakın gelmeli — yüksek esneklik gerek."
+    ],
+    "tips": [
+      "Different from powerlifting squat: high bar + deep + upright torso.",
+      "Foundation for catching snatches and cleans — secret weapon of Olympic lifters.",
+      "Common mistake: doing it in the low-bar position. Bar must be HIGH (base of the neck).",
+      "Wrist/hip/ankle mobility is essential. If lacking, try front squats.",
+      "ATG (ass-to-grass) depth: hips should come close to the heels — high flexibility required."
+    ]
+  },
+
+  "stiff-legged-dumbbell-deadlift": {
+    "instructionStepsTr": [
+      "Dumbbell'ları her elinde, ayakların kalça genişliğinde dur.",
+      "Dumbbell'lar uyluklarının önünde sallanık. Avuç içleri vücuda dönük.",
+      "Dizlerini hafif bük (5-10 derece) ve bu açıyı SABİT TUT.",
+      "Karnını sık. Kürek kemiklerini geriye çek.",
+      "Kalçandan bük (hip hinge): kalçanı geriye it, dumbbell'lar baldırlarına yakın aşağı insin.",
+      "Hamstring'lerin gerilmesini hissedene kadar in. Glutes ve hamstring'i sıkarak başlangıca geri kalk."
+    ],
+    "tipsTr": [
+      "RDL'ye benzer ama dumbbell ile — bilateral dengeleme + denge bonusu.",
+      "Yaygın hata: dizleri çok bükmek (squat'a dönüşür). Dizler az bükülü, sabit kalır.",
+      "Yaygın hata 2: bel'i yuvarlamak. Sırt notr olmalı; ağırlığı düşür.",
+      "Ev antrenmanı için harika — bar gerek yok, dumbbell yeterli.",
+      "Hamstring gelişimi için altın değer; glute hareketi olarak da çalışır."
+    ],
+    "tips": [
+      "Similar to RDL but with dumbbells — adds bilateral balance + grip work.",
+      "Common mistake: bending knees too much (turns into a squat). Knees barely bend, stay fixed.",
+      "Common mistake 2: rounding the lower back. Keep the spine neutral; drop the weight.",
+      "Excellent home training move — no bar needed, just dumbbells.",
+      "Gold for hamstring development; also functions as a glute exercise."
+    ]
+  },
+
+  "ab-roller": {
+    "instructionStepsTr": [
+      "Ab roller (tekerlekli karın aletini) yere yerleştir. Diz çök, tekerleği iki elinle kavra.",
+      "Karnını sık. Sırtın notr.",
+      "Tekerleği YAVAŞ ÖNE yuvarla. Vücudun yere doğru uzanır, karnın gerilir.",
+      "Mümkün olduğu kadar uzaklaş ama BEL ÇÖKMESİN. Karın kontrol etsin.",
+      "Karın kaslarını sıkarak tekerleği geri çek. Tepede 1 saniye dur.",
+      "Başlangıç pozisyonuna döner."
+    ],
+    "tipsTr": [
+      "Ev için en zor karın hareketlerinden — küçük yatırım, büyük etki.",
+      "Yaygın hata: bel kavisi açmak (sag). Karnı sıkı tut, bel düz.",
+      "Yaygın hata 2: çok ileri gitmek (kontrol kaybı). Sınırını bil.",
+      "Başlangıç: dizden ileri uzanma (kısa rom). İleri seviye: ayaktan tam uzanma (full rollout).",
+      "3-4 set 8-12 tekrar yeterli — yüksek kalite, düşük hacim."
+    ],
+    "tips": [
+      "One of the hardest ab moves for home use — small investment, huge impact.",
+      "Common mistake: lower-back arching/sagging. Brace the abs hard, keep the back flat.",
+      "Common mistake 2: rolling out too far (losing control). Know your limit.",
+      "Beginner: short rollouts from the knees. Advanced: full standing rollouts.",
+      "3-4 sets of 8-12 is enough — high quality, low volume."
+    ]
+  },
+
+  "pallof-press": {
+    "instructionStepsTr": [
+      "Cable'ı GÖĞÜS hizasına ayarla. D-handle tak.",
+      "Cable'ın yan tarafında dur. Tutamağı iki elinle göğsünde tut.",
+      "Ayakların omuz genişliğinde. Karnını maksimum sık.",
+      "Tutamağı göğsünden ÖNE dik şekilde it (kollar tam dik).",
+      "Cable seni yana çekmeye çalışır — KARNINLA DİREN. Vücudun döndürmemeli.",
+      "Tepede 2-3 saniye dur. Kontrollü şekilde göğsüne çek. Diğer tarafa geç."
+    ],
+    "tipsTr": [
+      "Anti-rotation core hareketi — bel sağlığı için altın değer.",
+      "Klasik karın hareketleri (crunch, sit-up) flexion; pallof press anti-rotation. İkisini de yap.",
+      "Yaygın hata: tutamağı göğse yakın tutmak (kolay). İlerledikçe kollar tam dik.",
+      "Hafif kilo + uzun pause — kontrol önemli.",
+      "Spor performansı için must (golf, tenis, çarpma sporları)."
+    ],
+    "tips": [
+      "Anti-rotation core move — gold for back health.",
+      "Classic ab moves (crunch, sit-up) train flexion; Pallof press trains anti-rotation. Do both.",
+      "Common mistake: holding the handle close to the chest (easier). Progress to fully extended arms.",
+      "Light weight + long pauses — control is the goal.",
+      "Must-have for athletic performance (golf, tennis, contact sports)."
+    ]
+  },
+
+  "dead-bug": {
+    "instructionStepsTr": [
+      "Yere sırtüstü yat. Kollarını yukarı, tavana doğru uzat. Dizlerini 90 dereceye bük (table-top pozisyonu).",
+      "Bel'in yere YAPIŞIK olsun (tabletop boşluğu kapa).",
+      "Karnını sık.",
+      "Bir kolu BAŞIN ARKASINA, aynı anda KARŞI bacağı YERE DOĞRU yavaş indir (yere değmeden).",
+      "Bel hâlâ yere yapışık olmalı.",
+      "Başlangıç pozisyonuna geri getir, diğer kol-bacak ile tekrarla."
+    ],
+    "tipsTr": [
+      "Core stabilizesi için en güvenli, en etkili hareketlerden — bel'i KORUR, yıpratmaz.",
+      "Yaygın hata: bel'in yerden kalkması. Bu form bozulması — daha az uzan.",
+      "Yavaş tempo ve nefes kontrolü kritik — her tekrarda nefes ver.",
+      "Fizyoterapistlerin favorisi — bel rehabilitasyonu için ideal.",
+      "Daha zor: dumbbell veya bant ile direnç ekle."
+    ],
+    "tips": [
+      "One of the safest and most effective core stability exercises — PROTECTS the lower back rather than wearing it down.",
+      "Common mistake: lower back lifting off the floor. That's the form breakdown signal — extend less.",
+      "Slow tempo and breath control are critical — exhale on every rep.",
+      "A physical therapist favorite — ideal for back rehabilitation.",
+      "Make harder: add dumbbells or band resistance."
+    ]
+  },
+
+  "clean": {
+    "instructionStepsTr": [
+      "Bar yerde, ayakların kalça genişliğinde. Deadlift kurulumu yap (kalça düşük, sırt notr, bar mid-foot).",
+      "Bar'ı patlayıcı şekilde dizlerin üstüne kaldır (1. çekiş - first pull).",
+      "Bar dizlerinin üstüne geçince kalçayı tam ittir, ayak parmaklarına yüksel (triple extension).",
+      "Bu patlama anında bar'ı dirseklerle yukarı çek.",
+      "Bar omuz hizasına gelince HIZLI dirsekleri öne ve yukarı çek, bar'ın altına TAM SQUAT'a çök (full squat catch).",
+      "Bar omuzlarda 'rack position'da, derin squat'tan ayağa kalk."
+    ],
+    "tipsTr": [
+      "Power clean'den FARKI: 'catch' (yakalama) tam squat'ta yapılır — daha ağır kilo kaldırılır.",
+      "Olympic weightlifting'in temel hareketi — Olimpiyatlarda yarışılan hareket.",
+      "Teknik bir hareket — koç olmadan ağır kilo deneme.",
+      "Yaygın hata: kollarla çekmeye çalışmak. Bacaklardan + kalçadan gelir.",
+      "Squat catch için derin front squat mobilitesi şart — yetmiyorsa power clean'de kal."
+    ],
+    "tips": [
+      "Different from power clean: 'catch' is in a FULL SQUAT — allows much heavier loads.",
+      "The foundational lift of Olympic weightlifting — contested at the Olympics.",
+      "Highly technical — don't try heavy without coaching.",
+      "Common mistake: trying to pull with the arms. Power comes from legs + hips.",
+      "Squat catch demands deep front-squat mobility — stay with power clean if you don't have it."
+    ]
+  },
+
+  "hang-clean": {
+    "instructionStepsTr": [
+      "Bar'ı bel hizasından al (rack'ten veya yerden). Bar uyluklarda asılı (hang position).",
+      "Ayakların kalça genişliğinde. Sırt notr.",
+      "Hafif bir 'dip' (kalça hafif geriye, dizler hafif bükülü) ile yarı RDL pozisyonuna in.",
+      "Patlayıcı şekilde kalçayı ittir, ayak parmaklarına yüksel (triple extension).",
+      "Bar'ı dirseklerle yukarı çek, bar omuz hizasına gelince çök ve front squat catch yap.",
+      "Bar omuzlarda 'rack position'da, ayağa kalk."
+    ],
+    "tipsTr": [
+      "Tam clean'den farkı: bar yerden başlamaz, uyluklardan başlar — daha kısa ROM, daha kolay öğrenilir.",
+      "Olympic lifting öğrenmenin BAŞLANGIÇ noktası — full clean öncesi bunu öğren.",
+      "Patlayıcı güç (power) gelişimi için harika — atletler için must.",
+      "Yaygın hata: dip çok derin yapmak (squat olur). Dip 5-10 cm yeterli.",
+      "Hang power clean ise yarım squat'ta yakalanır (full squat değil) — bir adım daha kolay."
+    ],
+    "tips": [
+      "Different from a full clean: bar starts from the thighs, not the floor — shorter ROM, easier to learn.",
+      "STARTING point for learning Olympic lifting — master this before the full clean.",
+      "Excellent for explosive power development — a must for athletes.",
+      "Common mistake: dipping too deep (becomes a squat). 5-10 cm is enough.",
+      "Hang power clean catches in a partial squat (not full) — one step easier."
+    ]
+  },
+
+  "hang-snatch": {
+    "instructionStepsTr": [
+      "Bar'ı bel hizasından al. Snatch grip ile tut: ÇOK GENİŞ (bar tepesinde kollar tam dik olmalı).",
+      "Ayaklar kalça genişliğinde. Sırt notr, karın sık.",
+      "Hafif bir 'dip' ile yarı RDL pozisyonuna in.",
+      "Patlayıcı şekilde kalçayı ittir, ayak parmaklarına yüksel (triple extension).",
+      "Bar'ı yukarı çek; bar başın üstüne çıkana kadar tek harekette kaldır.",
+      "Bar başın TAM ÜSTÜNDE, kollar tam dik. Yarım squat'tan kalk (power snatch) veya tam squat'a çök (full snatch)."
+    ],
+    "tipsTr": [
+      "Snatch'in giriş versiyonu — bar yerden değil uyluklardan başlar.",
+      "Olympic weightlifting'in en zor hareketlerinden — bilek, omuz, kalça mobilitesi şart.",
+      "Yaygın hata: bar'ı kollarla çekmek. Bacaklardan + kalçadan gelir.",
+      "Snatch grip CO geniş — bilek/omuz mobilitesi yetmiyorsa hareket imkansız.",
+      "Önce overhead squat'ı oturt, sonra snatch'e geç."
+    ],
+    "tips": [
+      "Entry version of the snatch — bar starts from the thighs, not the floor.",
+      "One of the hardest Olympic lifts — wrist, shoulder, and hip mobility are essential.",
+      "Common mistake: pulling with the arms. Power comes from legs + hips.",
+      "Snatch grip is VERY wide — without wrist/shoulder mobility, the lift is impossible.",
+      "Master the overhead squat first, then progress to snatches."
+    ]
+  },
+
+  "power-snatch": {
+    "instructionStepsTr": [
+      "Bar yerde, ayakların kalça genişliğinde. Snatch grip (ÇOK GENİŞ) ile tut.",
+      "Deadlift kurulumu yap (kalça düşük, sırt notr, bar mid-foot).",
+      "Bar'ı patlayıcı şekilde dizlerin üstüne kaldır (1. çekiş).",
+      "Dizlerin üstüne geçince kalçayı tam ittir, triple extension yap.",
+      "Bar'ı yukarı çek, başın TAM ÜSTÜNDE yakala. Kollar tam dik.",
+      "YARIM SQUAT'ta yakala (full squat değil). Yarım squat'tan kalk."
+    ],
+    "tipsTr": [
+      "Tam snatch'ten farkı: 'catch' (yakalama) yarım squat'ta — daha kolay öğrenilir.",
+      "Patlayıcı güç gelişimi için altın değer — atletler için ideal.",
+      "Tam snatch öncesi bunu oturt — Olympic lifting progression.",
+      "Yaygın hata: bar başın önünde yakalamak. Bar TAM TEPEDE (head over bar).",
+      "Mobilite kritik — bilek/omuz mobilitesi yetersizse imkansız."
+    ],
+    "tips": [
+      "Different from full snatch: 'catch' is in a partial squat — easier to learn.",
+      "Gold for explosive power development — ideal for athletes.",
+      "Master this before the full snatch — Olympic lifting progression.",
+      "Common mistake: catching the bar in front of the head. The bar must be DIRECTLY OVERHEAD.",
+      "Mobility is critical — without wrist/shoulder mobility, this is impossible."
+    ]
+  },
+
+  "snatch": {
+    "instructionStepsTr": [
+      "Bar yerde, snatch grip (ÇOK GENİŞ) ile kuruluş yap.",
+      "Bar'ı patlayıcı şekilde kaldır (1. çekiş, dizlerin üstüne).",
+      "Dizlerin üstüne geçince triple extension (kalça + diz + bilek tam açılır).",
+      "Bar'ı yukarı çek, aynı anda altına TAM SQUAT'a çök (overhead squat catch).",
+      "Bar başın TAM ÜSTÜNDE, kollar tam dik, vücut tam derin squat'ta.",
+      "Overhead squat'tan ayağa kalk. Bar tepede sabit, vücut dik."
+    ],
+    "tipsTr": [
+      "Olympic weightlifting'in EN ZOR hareketi — Olimpiyatlarda yarışılan hareket.",
+      "Mobility, koordinasyon, güç, denge ve teknik birleşimi.",
+      "KOÇ olmadan ağır kilo asla deneme — sakatlık riski çok yüksek.",
+      "Yıllar süren öğrenme süreci — sabırlı ol, küçük adımlarla ilerle.",
+      "Atletik gelişim için en güçlü hareket — full body explosive power."
+    ],
+    "tips": [
+      "The HARDEST Olympic weightlifting movement — contested at the Olympics.",
+      "A combination of mobility, coordination, strength, balance, and technique.",
+      "NEVER attempt heavy without a coach — extreme injury risk.",
+      "Years-long learning process — be patient, progress in small steps.",
+      "The most powerful movement for athletic development — full-body explosive power."
+    ]
+  },
+
+  "split-jerk": {
+    "instructionStepsTr": [
+      "Bar omuzlarda (front rack pozisyonu, clean'in catch pozisyonu).",
+      "Ayaklar omuz genişliğinde, karın sık, glute sıkık.",
+      "Hızlı bir 'dip' (dizler çeyrek squat gibi hafif bük).",
+      "Patlayıcı şekilde dizleri ittir, bar'ı yukarı it.",
+      "Aynı anda bir ayak ÖNE, diğer ayak GERIYE adım at (split position - lunge gibi).",
+      "Bar başın üstünde sabit, kollar tam dik. Önce ön ayağı, sonra arka ayağı yerine getir."
+    ],
+    "tipsTr": [
+      "Push press'ten farkı: split position (lunge) ile bar'ın altına çökersin — daha ağır kilo.",
+      "Clean and jerk'ün ikinci kısmı — Olympic weightlifting yarışmalarında zorunlu.",
+      "Yaygın hata: split sıralaması yanlış. Önce ön ayak adım atar, sonra arka ayak GERIYE.",
+      "Bar başın üstünde STABILDİR — sallanırsa dengeyi kaybedersin.",
+      "Push jerk (yarım squat catch) split jerk öncesi öğrenilebilir — bir adım daha kolay."
+    ],
+    "tips": [
+      "Different from push press: you split (lunge) UNDER the bar — allows heavier loads.",
+      "The second half of the clean and jerk — mandatory in Olympic weightlifting competition.",
+      "Common mistake: wrong split order. The front foot steps first, then the back foot steps BACK.",
+      "Bar must be STABLE overhead — if it sways, you lose balance.",
+      "Push jerk (half-squat catch) can be learned before split jerk — one step easier."
+    ]
+  }
+}
