@@ -87,11 +87,17 @@ Play Console artık ilk upload'da otomatik algılıyor: `com.myfitcraft.app` (ap
 
 ## 5) Store Listing — Hazır metinler
 
-### App icon (zaten var)
-`assets/icon.png` (1024×1024 PNG, alpha yok). Direkt yükle.
+### App icon (Play Console)
+Google Play mağaza girişi **512×512** ister. Repo'da hazır dosya:
+
+`assets/play-store-icon-512.png` (512×512 PNG)
+
+> Expo build için `assets/icon.png` (1024×1024) ayrı kalır; mağaza yüklemesi için **512 dosyasını** kullan.
 
 ### Feature graphic (1024×500)
-Henüz yok. Canva.com'da bedava şablonla 5 dakikada üretilir. Veya istersen sana üretirim.
+Play Console için hazır dosya:
+
+`assets/play-store-feature-1024x500.png` (1024×500 PNG)
 
 ### Phone screenshots (min 2, max 8)
 Telefondan en az şu 4 ekranı çek:
