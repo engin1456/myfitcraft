@@ -35,6 +35,7 @@ export default ({ config }: ConfigContext): ExpoConfig => ({
   plugins: [
     'expo-localization',
     'expo-splash-screen',
+    '@sentry/react-native/expo',
     [
       'expo-build-properties',
       {
