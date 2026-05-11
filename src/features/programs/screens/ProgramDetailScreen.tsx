@@ -38,7 +38,7 @@ export function ProgramDetailScreen({ route }: RootStackScreenProps<'ProgramDeta
     let cancelled = false;
     setLoading(true);
     (async () => {
-      const result = await fetchProgramBundle(route.params.programId);
+      const result = await fetchProgramBundle(route.params.programId, uid);
       if (cancelled) return;
       setBundle(result);
 
@@ -57,7 +57,7 @@ export function ProgramDetailScreen({ route }: RootStackScreenProps<'ProgramDeta
     return () => {
       cancelled = true;
     };
-  }, [route.params.programId]);
+  }, [route.params.programId, uid]);
 
   if (loading) {
     return (

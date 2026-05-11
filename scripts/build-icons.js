@@ -14,7 +14,10 @@ const ORANGE_TOP = '#FF8455';
 const ORANGE_DEEP = '#D4451A';
 const TEXT = '#FFFFFF';
 
-function svg({ size = 1024, fontSize = 420, baselineY = 590 } = {}) {
+// Android adaptive icon "safe zone" = ic 66% (1024 -> ~660px). Ic merkez
+// 660x660 dis na cikan harfler yuvarlak/squircle launcher mask'larinda kirpilir.
+// Bu yuzden font-size ve letter-spacing/skew'i muhafazakar tutuyoruz.
+function svg({ size = 1024, fontSize = 320, baselineY = 624 } = {}) {
   return `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size}" viewBox="0 0 ${size} ${size}">
   <defs>
@@ -33,8 +36,8 @@ function svg({ size = 1024, fontSize = 420, baselineY = 590 } = {}) {
     font-style="italic"
     fill="${TEXT}"
     text-anchor="middle"
-    letter-spacing="-12"
-    transform="skewX(-8 ${size / 2} ${baselineY})"
+    letter-spacing="-6"
+    transform="skewX(-6 ${size / 2} ${baselineY})"
   >MFC</text>
 </svg>`;
 }
@@ -50,11 +53,12 @@ async function render({ size, fontSize, baselineY, out }) {
 }
 
 (async () => {
-  const main = await render({ size: 1024, fontSize: 460, baselineY: 620, out: 'icon.png' });
-  fs.writeFileSync(path.join(ASSETS, 'adaptive-icon.png'), main);
-  console.log('adaptive-icon.png                    1024x1024 (copy)');
-  fs.writeFileSync(path.join(ASSETS, 'splash-icon.png'), main);
-  console.log('splash-icon.png                      1024x1024 (copy)');
+  // icon.png (iOS + favicon kaynagi) - kucuk gorseller icin biraz daha dolgun
+  const main = await render({ size: 1024, fontSize: 360, baselineY: 632, out: 'icon.png' });
+  // Adaptive icon: safe zone'a daha sikica oturt (Android launcher mask icin)
+  await render({ size: 1024, fontSize: 320, baselineY: 624, out: 'adaptive-icon.png' });
+  // Splash: daha kucuk + ortali, splash arka planinda yuzer
+  await render({ size: 1024, fontSize: 320, baselineY: 624, out: 'splash-icon.png' });
 
   await sharp(main).resize(512, 512).png().toFile(path.join(ASSETS, 'play-store-icon-512.png'));
   console.log('play-store-icon-512.png              512x512 (resized)');

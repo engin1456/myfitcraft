@@ -27,6 +27,7 @@ export interface TodayProgramInfo {
  */
 export function useTodayProgramDay(): TodayProgramInfo {
   const profile = useAuthStore((s) => s.profile);
+  const uid = useAuthStore((s) => s.uid);
   const [bundle, setBundle] = useState<ProgramBundle | null>(null);
   const [loading, setLoading] = useState(false);
 
@@ -38,7 +39,7 @@ export function useTodayProgramDay(): TodayProgramInfo {
       return;
     }
     setLoading(true);
-    fetchProgramBundle(programId)
+    fetchProgramBundle(programId, uid)
       .then((b) => {
         if (!cancelled) setBundle(b);
       })
@@ -48,7 +49,7 @@ export function useTodayProgramDay(): TodayProgramInfo {
     return () => {
       cancelled = true;
     };
-  }, [profile?.activeProgramId]);
+  }, [profile?.activeProgramId, uid]);
 
   const schedule = profile?.programSchedule ?? null;
   const todayDay = getTodayProgramDay(bundle, schedule);

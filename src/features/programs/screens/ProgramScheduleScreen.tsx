@@ -48,7 +48,7 @@ export function ProgramScheduleScreen({ route }: RootStackScreenProps<'ProgramSc
   useEffect(() => {
     let cancelled = false;
     setLoading(true);
-    fetchProgramBundle(route.params.programId)
+    fetchProgramBundle(route.params.programId, uid)
       .then((b) => {
         if (!cancelled) setBundle(b);
       })
@@ -58,7 +58,7 @@ export function ProgramScheduleScreen({ route }: RootStackScreenProps<'ProgramSc
     return () => {
       cancelled = true;
     };
-  }, [route.params.programId]);
+  }, [route.params.programId, uid]);
 
   const requiredCount = bundle?.program.frequencyPerWeek ?? 0;
 

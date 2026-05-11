@@ -63,7 +63,15 @@
       "queryScope": "COLLECTION",
       "fields": [
         { "fieldPath": "programId", "order": "ASCENDING" },
-        { "fieldPath": "dayOrder", "order": "ASCENDING" }
+        { "fieldPath": "ownerId", "order": "ASCENDING" }
+      ]
+    },
+    {
+      "collectionGroup": "programExercises",
+      "queryScope": "COLLECTION",
+      "fields": [
+        { "fieldPath": "programDayId", "order": "ASCENDING" },
+        { "fieldPath": "ownerId", "order": "ASCENDING" }
       ]
     }
   ],
