@@ -2,15 +2,35 @@ import { format, formatDistanceToNowStrict } from 'date-fns';
 import { tr, enUS } from 'date-fns/locale';
 
 import type { Locale } from '@/types/models';
+import { logger } from '@/utils/logger';
 
 const localeMap = { tr, en: enUS } as const;
 
+/**
+ * date-fns `format` etrafinda guvenli sarici. Hatali pattern (ornegin
+ * "Format string contains an unescaped latin alphabet character") app'i
+ * cokertmesin diye fallback'e ISO tarihi donduruyoruz.
+ */
 export function formatDate(timestamp: number, pattern: string, locale: Locale = 'tr'): string {
-  return format(timestamp, pattern, { locale: localeMap[locale] });
+  try {
+    return format(timestamp, pattern, { locale: localeMap[locale] });
+  } catch (err) {
+    logger.warn('[format] formatDate failed', { pattern, err });
+    try {
+      return new Date(timestamp).toISOString().slice(0, 10);
+    } catch {
+      return '';
+    }
+  }
 }
 
 export function timeAgo(timestamp: number, locale: Locale = 'tr'): string {
-  return formatDistanceToNowStrict(timestamp, { addSuffix: true, locale: localeMap[locale] });
+  try {
+    return formatDistanceToNowStrict(timestamp, { addSuffix: true, locale: localeMap[locale] });
+  } catch (err) {
+    logger.warn('[format] timeAgo failed', err);
+    return '';
+  }
 }
 
 export function formatDuration(seconds: number): string {

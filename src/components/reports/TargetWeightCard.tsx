@@ -87,7 +87,7 @@ export function TargetWeightCard({
     statusColor = theme.colors.success;
     statusText = t('reports.targetWeightETA', { weeks: eta.weeks });
     dateText = t('reports.targetWeightETADate', {
-      date: formatDate(eta.targetDate, locale),
+      date: formatDate(eta.targetDate, 'dd MMMM yyyy', locale),
     });
   } else {
     statusColor = theme.colors.textMuted;
